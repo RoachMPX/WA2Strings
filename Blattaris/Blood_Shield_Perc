@@ -1,6 +1,5 @@
 --Blood Shield
-function
-f       ()
+function()
     local i = 1
     local cur = GetTime()
     local total = 0
