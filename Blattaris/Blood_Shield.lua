@@ -1,4 +1,4 @@
---Blood Shield
+--Blood Shield percent heal
 function()
     local i = 1
     local cur = GetTime()
@@ -38,6 +38,7 @@ function()
     local trait = 1.3 + 0.05 * currentRank
     local vamp = UnitBuff("player", GetSpellInfo(55233)) and trait or 1
     
+    --Mitigation factors listed as follows:
     --Versatility
     local vers = 1 + ((GetCombatRatingBonus(29) + GetVersatilityBonus(30)) / 100)
     
@@ -47,6 +48,7 @@ function()
     --Divine Hymn
     local dh = UnitBuff("player", GetSpellInfo(64844)) and 1.1 or 1
     
+    --Total amount
     local perc = total * aura_env.percDmg / UnitHealthMax("player")
     perc = math.max(aura_env.minHealthPerc, perc)
     perc = perc * vamp * vers * gs * dh
