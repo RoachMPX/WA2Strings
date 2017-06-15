@@ -1,8 +1,7 @@
 # WA2Strings
-**Weakauras 2 Custom Strings**
+**Weakauras 2 Custom Strings** - Personal Dump
 
-## Characters
-
+# Characters
 <dl>
   <dt>Ferford - Proudmoore</dt>
   <dd><a>https://worldofwarcraft.com/en-us/character/proudmoore/ferford</a></dd>
