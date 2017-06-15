@@ -1,0 +1,41 @@
+Note to WA2 Custom Triggers
+For more info go to: 	https://github.com/WeakAuras/WeakAuras2/wiki/Custom-Triggers
+
+Remove function names (e.g. function NAME() to function())
+
+EVENTS
+------
+Event type custom triggers are based on the assumption that they will be used with events
+that pass relevant information. As such, the main way in which they differ from Status type
+custom triggers is that they will not be forced to update at time when Status type custom
+triggers would. Event type custom triggers can be set to hide on a timer, or they can have
+a custom untrigger.
+
+To use events that you specify in the Event(s) field you need to set up your functions in a
+specific way. Say for example you wanted to check on events ENCOUNTER_START and ENCOUNTER_END
+and you want to use these events in your trigger function:
+
+--Event(s): ENCOUNTER_START, ENCOUNTER_END
+--Trigger
+function(event, arg1, arg2, ...)
+    if event == "ENCOUNTER_START" then
+        --Use the arguments for this event
+        return true
+    end
+end
+
+--Untrigger
+function(event, arg1, arg2, ...)
+    if event == "ENCOUNTER_END" then
+        --Use the arguments for this event, or dont, just untrigger.
+        return true
+    end
+end
+
+The actual event is always passed into the function first, then all of its arguments.
+Remember to check for the event first before assigning variable names to the argument
+if you are using more than one event. You can use an ellipsis (...) to store arguments
+in an event and use select() to pick out the ones you want and give differing variable
+names to differing position of arguments. You can learn more about ellipsis in lua via
+their documentation.
+------
