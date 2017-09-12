@@ -53,3 +53,14 @@ function()
     local spell_name = "Rune Tap"
     return GetSpellTexture(spell_name)
 end
+
+--Stack Info
+function()
+    local spell_name = "Rune Tap"
+    local charges_are_good = function(c)
+        return c >= 1
+    end
+    
+    local current_charges = select(1, GetSpellCharges(spell_name)) 
+    return current_charges
+end
