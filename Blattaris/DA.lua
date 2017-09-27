@@ -18,7 +18,7 @@ function(arg1, arg2, _,_,_, arg6)
     and aura_env.power ~= nil then
         aura_env.power = aura_env.power + 45
         
-        -- Death Strike
+        -- Death Strike (49998)
     elseif arg1 == "UNIT_SPELLCAST_SUCCEEDED"
     and arg2 == "player"
     and arg6 == 49998
