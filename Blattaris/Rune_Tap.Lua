@@ -67,7 +67,7 @@ function()
 end
 
 
---RUNE 2 (VER)
+--RUNE 2 (VERIFY)
 --Trigger
 function()
     local spell_name = "Rune Tap"
