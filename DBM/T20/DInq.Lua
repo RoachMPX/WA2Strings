@@ -1,3 +1,4 @@
+--Torment Tracker
 --Trigger
 function(allstates)
     for _, v in pairs(allstates) do
