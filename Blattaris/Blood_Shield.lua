@@ -36,17 +36,24 @@ function()
         end
     end
     local trait = 1.3 + 0.05 * currentRank
-    local vamp = 1 + UnitBuff("player", GetSpellInfo(55233)) and trait or 0
+    local vamp = UnitBuff("player", GetSpellInfo(55233)) and trait or 1
     
-    --Mitigation factors listed as follows:
+    --Mitigation factors listed as follows (VB listed above):
     --Versatility
     local vers = 1 + ((GetCombatRatingBonus(29) + GetVersatilityBonus(30)) / 100)
     
-    --Guardian Spirit
+    --Guardian Spirit (priest)
+    --Calls upon a guardian spirit to watch over the friendly target for 10 sec,
+    --increasing healing received by 40% and preventing the target from dying by
+    --sacrificing itself.  This sacrifice terminates the effect and heals the target
+    --for 40% of maximum health. Castable while stunned.
     local gs = UnitBuff("player", GetSpellInfo(47788)) and 1.4 or 1
     
-    --Divine Hymn
-    local dh = UnitBuff("player", GetSpellInfo(64844)) and 1.1 or 1
+    --Divine Hymm (Priest)
+    --Heals all party or raid members within 40 yards for [5 * (144% of Spell power)]
+    --over 8 sec, and increases healing done to them by 10% for 8 sec. Healing increased
+    --by 100% when not in a raid.
+    local dh = UnitBuff("player", GetSpellInfo(64843)) and 1.1 or 1
     
     --Total amount
     local perc = total * aura_env.percDmg / UnitHealthMax("player")
