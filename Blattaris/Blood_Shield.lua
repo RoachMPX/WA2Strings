@@ -36,7 +36,7 @@ function()
         end
     end
     local trait = 1.3 + 0.05 * currentRank
-    local vamp = UnitBuff("player", GetSpellInfo(55233)) and trait or 1
+    local vamp = 1 + UnitBuff("player", GetSpellInfo(55233)) and trait or 0
     
     --Mitigation factors listed as follows:
     --Versatility
