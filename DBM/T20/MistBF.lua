@@ -1,1 +1,2 @@
+--Mistress Buffer Fish Drop Indicator (set at 2% bef threshold)
 --TODO
