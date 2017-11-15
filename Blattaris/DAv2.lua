@@ -126,3 +126,30 @@ function()
     
     return duration, expirationTime
 end
+
+--Display (Original)
+function()
+    aura_env.totalDamage=aura_env.totalDamage or 0
+    aura_env.castsNumber=aura_env.castsNumber or 0
+    aura_env.valkyrPwr = aura_env.valkyrPwr or 0
+    aura_env.valCritNum = aura_env.valCritNum or 0
+    aura_env.maxCrit=aura_env.maxCrit or 0
+    aura_env.crit=string.format("%.2f", (aura_env.maxCrit / 1000000)).." M" or 0
+    aura_env.valDamage= string.format("%.2f", (aura_env.totalDamage / 1000000)).." M" or 0
+    
+    return ("Damage: ")..aura_env.valDamage..("\nMax Crit: ")..aura_env.crit..("\nRP: ")..aura_env.valkyrPwr..("\nHit/Crit: ")..aura_env.castsNumber..("/")..aura_env.valCritNum
+    
+end
+
+--Display (New)
+function()
+    aura_env.totalDamage=aura_env.totalDamage or 0
+    aura_env.castsNumber=aura_env.castsNumber or 0
+    aura_env.valCritNum = aura_env.valCritNum or 0
+    aura_env.maxCrit=aura_env.maxCrit or 0
+    aura_env.crit=string.format("%.2f", (aura_env.maxCrit / 1000000)).." M" or 0
+    aura_env.valDamage= string.format("%.2f", (aura_env.totalDamage / 1000000)).." M" or 0
+    
+    return ("Dmg: ")..aura_env.valDamage..("\nMax: ")..aura_env.crit..("\nHit/Crit(s): ")..aura_env.castsNumber..("/")..aura_env.valCritNum
+    
+end
