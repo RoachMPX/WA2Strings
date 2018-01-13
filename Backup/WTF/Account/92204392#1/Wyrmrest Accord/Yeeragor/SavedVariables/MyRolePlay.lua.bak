@@ -1,0 +1,47 @@
+
+mrpSaved = {
+	["Build"] = 402,
+	["Options"] = {
+		["Enabled"] = true,
+		["TooltipStyle"] = 2,
+		["ShowBiographyInBrowser"] = true,
+		["HeightUnit"] = 2,
+		["WeightUnit"] = 2,
+		["EquipSetAutoChange"] = true,
+		["ShowRPNamesInChat"] = true,
+		["FormAutoChange"] = true,
+		["ShowButton"] = true,
+	},
+	["Versions"] = {
+		["HH"] = 2,
+		["RA"] = 2,
+		["GS"] = 2,
+		["VA"] = 2,
+		["GC"] = 2,
+		["FC"] = 2,
+		["VP"] = 2,
+		["AE"] = 2,
+		["FR"] = 2,
+		["GR"] = 2,
+		["NA"] = 2,
+		["MO"] = 2,
+		["GU"] = 1,
+		["TT"] = 5,
+	},
+	["PreviousProfileManual"] = "Default",
+	["SelectedProfile"] = "Default",
+	["Positions"] = {
+	},
+	["Profiles"] = {
+		["Default"] = {
+			["HH"] = "Thunder Bluff",
+			["RA"] = "Tauren",
+			["FR"] = "1",
+			["AE"] = "Brown",
+			["MO"] = "Darkness cannot drive out darkness, only light can do that",
+			["NA"] = "Yeeragor",
+			["FC"] = "1",
+		},
+	},
+}
+mdbSaved = nil

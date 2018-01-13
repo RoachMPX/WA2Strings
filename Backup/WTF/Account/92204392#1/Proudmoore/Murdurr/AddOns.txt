@@ -1,0 +1,5 @@
+Bartender4: enabled
+SpartanUI: enabled
+MyRolePlay: disabled
+MogIt: disabled
+TidyPlates: disabled

@@ -1,0 +1,82 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Blattaris - Proudmoore"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["modules"] = {
+				["threatraw"] = false,
+			},
+			["windows"] = {
+				{
+					["classicons"] = false,
+					["y"] = -136.698013305664,
+					["barfont"] = "Morpheus",
+					["title"] = {
+						["textcolor"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["color"] = {
+							["b"] = 0.254901960784314,
+							["g"] = 0.243137254901961,
+							["r"] = 0.254901960784314,
+						},
+						["bordertexture"] = "Blizzard Chat Bubble",
+						["font"] = "Morpheus",
+						["borderthickness"] = 0,
+						["fontflags"] = "OUTLINE",
+						["bordercolor"] = {
+							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["texture"] = "Graphite",
+					},
+					["barfontflags"] = "OUTLINE",
+					["parent"] = {
+						[0] = nil --[[ skipped userdata ]],
+						["firstTimeLoaded"] = 1,
+						["variablesLoaded"] = true,
+					},
+					["point"] = "LEFT",
+					["barbgcolor"] = {
+						["a"] = 0.600000023841858,
+						["b"] = 0.168627450980392,
+						["g"] = 0.168627450980392,
+						["r"] = 0.168627450980392,
+					},
+					["barcolor"] = {
+						["b"] = 0.341176470588235,
+						["g"] = 0.129411764705882,
+						["r"] = 0.129411764705882,
+					},
+					["barfontsize"] = 11,
+					["mode"] = "Damage",
+					["bartexture"] = "LiteStep",
+					["barwidth"] = 227.810363769531,
+					["background"] = {
+						["height"] = 191.872787475586,
+						["texture"] = "Blizzard Collections Background",
+					},
+					["x"] = 37.459846496582,
+				}, -- [1]
+			},
+			["versions"] = {
+				["1.6.7"] = true,
+				["1.6.4"] = true,
+				["1.6.3"] = true,
+			},
+			["modeclicks"] = {
+				["DPS"] = 3,
+				["Damage"] = 5,
+			},
+		},
+	},
+}

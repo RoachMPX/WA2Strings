@@ -1,0 +1,37 @@
+VER 3 0100000000000006 "Kick" "INV_MISC_QUESTIONMARK"
+#showtooltip Kick
+/cast Kick
+/s Interrupted 
+END
+VER 3 0100000000000004 "Killing Spree" "INV_MISC_QUESTIONMARK"
+#showtooltip Killing Spree
+/equipset Slow
+/cast Killing Spree
+/equipset Fast
+END
+VER 3 0100000000000005 "Pickpocket" "INV_MISC_QUESTIONMARK"
+#showtooltip Pick Pocket
+/cleartarget
+/targetenemy
+/cast [stance:1/3, harm, nodead] Pick Pocket
+END
+VER 3 0100000000000003 "Soul Capacitor" "INV_MISC_QUESTIONMARK"
+#showtooltip Soul Capacitor
+/cancelaura Spirit Shift
+END
+VER 3 0100000000000008 "Tricks" "INV_MISC_QUESTIONMARK"
+#showtooltip Tricks of the Trade
+/cast [@mouseover,help][@target]Tricks of the Trade
+END
+VER 3 0100000000000009 "Vanish/stopattac" "INV_MISC_QUESTIONMARK"
+#showtooltip Vanish
+/cast Vanish
+aw/cast Shadowstrike
+/stopattack
+END
+VER 3 0100000000000007 "Vanvenrup" "INV_MISC_QUESTIONMARK"
+#showtooltip Vanish
+/cast Vanish
+/cast Vendetta
+/cast Rupture
+END

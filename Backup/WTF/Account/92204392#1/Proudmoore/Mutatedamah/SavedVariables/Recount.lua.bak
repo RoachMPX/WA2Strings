@@ -1,0 +1,2637 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Mutatedamah"] = {
+			["GUID"] = "Player-5-0A3D6763",
+			["LastEventHealth"] = {
+				"532 (100%)", -- [1]
+				"532 (100%)", -- [2]
+				"532 (100%)", -- [3]
+				"532 (100%)", -- [4]
+				"570 (100%)", -- [5]
+				"570 (100%)", -- [6]
+				"570 (100%)", -- [7]
+				"570 (100%)", -- [8]
+				"518 (100%)", -- [9]
+				"518 (100%)", -- [10]
+				"518 (100%)", -- [11]
+				"518 (100%)", -- [12]
+				"518 (100%)", -- [13]
+				"518 (100%)", -- [14]
+				"518 (100%)", -- [15]
+				"518 (100%)", -- [16]
+				"518 (100%)", -- [17]
+				"518 (100%)", -- [18]
+				"518 (100%)", -- [19]
+				"517 (99%)", -- [20]
+				"517 (99%)", -- [21]
+				"518 (100%)", -- [22]
+				"518 (100%)", -- [23]
+				"518 (100%)", -- [24]
+				"518 (100%)", -- [25]
+				"518 (100%)", -- [26]
+				"532 (100%)", -- [27]
+				"532 (100%)", -- [28]
+				"532 (100%)", -- [29]
+				"532 (100%)", -- [30]
+				"532 (100%)", -- [31]
+				"532 (100%)", -- [32]
+				"532 (100%)", -- [33]
+				"532 (100%)", -- [34]
+				"532 (100%)", -- [35]
+				"532 (100%)", -- [36]
+				"532 (100%)", -- [37]
+				"532 (100%)", -- [38]
+				"532 (100%)", -- [39]
+				"532 (100%)", -- [40]
+				"532 (100%)", -- [41]
+				"532 (100%)", -- [42]
+				"532 (100%)", -- [43]
+				"532 (100%)", -- [44]
+				"532 (100%)", -- [45]
+				"532 (100%)", -- [46]
+				"532 (100%)", -- [47]
+				"532 (100%)", -- [48]
+				"532 (100%)", -- [49]
+				"532 (100%)", -- [50]
+			},
+			["LastAttackedBy"] = "Rockjaw Goon",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"HEAL", -- [9]
+				"HEAL", -- [10]
+				"DAMAGE", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"HEAL", -- [22]
+				"HEAL", -- [23]
+				"DAMAGE", -- [24]
+				"HEAL", -- [25]
+				"HEAL", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"HEAL", -- [32]
+				"HEAL", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"HEAL", -- [36]
+				"HEAL", -- [37]
+				"DAMAGE", -- [38]
+				"HEAL", -- [39]
+				"HEAL", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"HEAL", -- [43]
+				"HEAL", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"HEAL", -- [48]
+				"HEAL", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["HealingTaken"] = {
+					9, -- [1]
+				},
+				["TimeHeal"] = {
+					0, -- [1]
+				},
+				["Overhealing"] = {
+					261, -- [1]
+				},
+				["ActiveTime"] = {
+					55.37, -- [1]
+				},
+				["TimeDamage"] = {
+					55.37, -- [1]
+				},
+				["Healing"] = {
+					9, -- [1]
+				},
+				["DamageTaken"] = {
+					9, -- [1]
+				},
+				["Damage"] = {
+					1682, -- [1]
+				},
+			},
+			["enClass"] = "PALADIN",
+			["unit"] = "Mutatedamah",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 3,
+			["LastEventNum"] = {
+				nil, -- [1]
+				nil, -- [2]
+				1.8796992481203, -- [3]
+				1.8796992481203, -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				2.12355212355212, -- [9]
+				1.93050193050193, -- [10]
+				nil, -- [11]
+				1.93050193050193, -- [12]
+				2.12355212355212, -- [13]
+				0.579150579150579, -- [14]
+				nil, -- [15]
+				2.12355212355212, -- [16]
+				1.93050193050193, -- [17]
+				nil, -- [18]
+				0.193050193050193, -- [19]
+				nil, -- [20]
+				nil, -- [21]
+				1.93050193050193, -- [22]
+				1.93050193050193, -- [23]
+				nil, -- [24]
+				2.12355212355212, -- [25]
+				1.93050193050193, -- [26]
+				nil, -- [27]
+				nil, -- [28]
+				nil, -- [29]
+				nil, -- [30]
+				nil, -- [31]
+				2.06766917293233, -- [32]
+				1.8796992481203, -- [33]
+				nil, -- [34]
+				0.18796992481203, -- [35]
+				2.06766917293233, -- [36]
+				2.06766917293233, -- [37]
+				nil, -- [38]
+				2.06766917293233, -- [39]
+				1.8796992481203, -- [40]
+				nil, -- [41]
+				0.37593984962406, -- [42]
+				1.8796992481203, -- [43]
+				2.06766917293233, -- [44]
+				nil, -- [45]
+				nil, -- [46]
+				nil, -- [47]
+				1.8796992481203, -- [48]
+				2.06766917293233, -- [49]
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 4,
+			["LastDamageTaken"] = 2,
+			["TimeLast"] = {
+				["TimeHeal"] = 1339058.457,
+				["OVERALL"] = 1339178.456,
+				["DamageTaken"] = 1339058.457,
+				["HealingTaken"] = 1339058.457,
+				["Overhealing"] = 1339078.459,
+				["TimeDamage"] = 1339178.456,
+				["Healing"] = 1339058.457,
+				["ActiveTime"] = 1339178.456,
+				["Damage"] = 1339178.456,
+			},
+			["Owner"] = false,
+			["LastAbility"] = 1339178.68,
+			["NextEventNum"] = 9,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				99.8069498069498, -- [20]
+				99.8069498069498, -- [21]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				100, -- [45]
+				100, -- [46]
+				100, -- [47]
+				100, -- [48]
+				100, -- [49]
+				100, -- [50]
+			},
+			["LastEvents"] = {
+				"Rockjaw Goon Melee Mutatedamah Parry (1)", -- [1]
+				"Mutatedamah Crusader Strike Rockjaw Goon Crit -157 (Physical)", -- [2]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (10 overheal)", -- [3]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (10 overheal)", -- [4]
+				"Mutatedamah Melee Training Dummy Crit -134 (Physical)", -- [5]
+				"Mutatedamah Crusader Strike Training Dummy Hit -72 (Physical)", -- [6]
+				"Mutatedamah Seal of Command Training Dummy Hit -6 (Holy)", -- [7]
+				"Mutatedamah Seal of Command Training Dummy Crit -13 (Holy)", -- [8]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +11 (9 overheal)", -- [9]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (10 overheal)", -- [10]
+				"Mutatedamah Melee Rabbit Hit -59 (Physical)", -- [11]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (10 overheal)", -- [12]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +11 (11 overheal)", -- [13]
+				"Ragged Young Wolf Melee Mutatedamah Hit -3 (Physical)", -- [14]
+				"Mutatedamah Crusader Strike Ragged Young Wolf Hit -72 (Physical)", -- [15]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +11 (8 overheal)", -- [16]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (10 overheal)", -- [17]
+				"Mutatedamah Melee Rockjaw Goon Hit -63 (Physical)", -- [18]
+				"Rockjaw Goon Melee Mutatedamah Hit -1 (Physical)", -- [19]
+				"Rockjaw Goon Club Mutatedamah Parry (Physical)", -- [20]
+				"Mutatedamah Melee Rockjaw Goon Hit -65 (Physical)", -- [21]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (9 overheal)", -- [22]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (10 overheal)", -- [23]
+				"Mutatedamah Melee Rockjaw Invader Hit -59 (Physical)", -- [24]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +11 (11 overheal)", -- [25]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (10 overheal)", -- [26]
+				"Mutatedamah Melee Rockjaw Invader Evade (1)", -- [27]
+				"Mutatedamah Crusader Strike Rockjaw Invader Evade (Physical)", -- [28]
+				"Mutatedamah Melee Rockjaw Invader Evade (1)", -- [29]
+				"Mutatedamah Crusader Strike Rockjaw Invader Evade (Physical)", -- [30]
+				"Mutatedamah Melee Rockjaw Invader Crit -134 (Physical)", -- [31]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +11 (11 overheal)", -- [32]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (10 overheal)", -- [33]
+				"Mutatedamah Melee Rockjaw Invader Crit -137 (Physical)", -- [34]
+				"Rockjaw Invader Melee Mutatedamah Hit -1 (Physical)", -- [35]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +11 (10 overheal)", -- [36]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +11 (11 overheal)", -- [37]
+				"Mutatedamah Crusader Strike Rockjaw Invader Hit -80 (Physical)", -- [38]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +11 (11 overheal)", -- [39]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (10 overheal)", -- [40]
+				"Mutatedamah Melee Rockjaw Goon Crit -124 (Physical)", -- [41]
+				"Rockjaw Goon Melee Mutatedamah Hit -2 (Physical)", -- [42]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (8 overheal)", -- [43]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +11 (11 overheal)", -- [44]
+				"Mutatedamah Melee Rockjaw Goon Hit -65 (Physical)", -- [45]
+				"Rockjaw Goon Melee Mutatedamah Parry (1)", -- [46]
+				"Mutatedamah Crusader Strike Rockjaw Goon Hit -81 (Physical)", -- [47]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +10 (10 overheal)", -- [48]
+				"Mutatedamah Swift Hand of Justice Mutatedamah Hit +11 (11 overheal)", -- [49]
+				"Mutatedamah Melee Rockjaw Goon Hit -61 (Physical)", -- [50]
+			},
+			["Name"] = "Mutatedamah",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				true, -- [3]
+				true, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				true, -- [9]
+				true, -- [10]
+				false, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				false, -- [15]
+				true, -- [16]
+				true, -- [17]
+				false, -- [18]
+				true, -- [19]
+				true, -- [20]
+				false, -- [21]
+				true, -- [22]
+				true, -- [23]
+				false, -- [24]
+				true, -- [25]
+				true, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				true, -- [32]
+				true, -- [33]
+				false, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				false, -- [38]
+				true, -- [39]
+				true, -- [40]
+				false, -- [41]
+				true, -- [42]
+				true, -- [43]
+				true, -- [44]
+				false, -- [45]
+				true, -- [46]
+				false, -- [47]
+				true, -- [48]
+				true, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				1339078.846, -- [1]
+				1339078.846, -- [2]
+				1339078.846, -- [3]
+				1339078.846, -- [4]
+				1339178.68, -- [5]
+				1339178.68, -- [6]
+				1339178.68, -- [7]
+				1339178.68, -- [8]
+				1338852.16, -- [9]
+				1338852.16, -- [10]
+				1338855.172, -- [11]
+				1338855.182, -- [12]
+				1338855.182, -- [13]
+				1338864.382, -- [14]
+				1338864.382, -- [15]
+				1338864.382, -- [16]
+				1338864.382, -- [17]
+				1338866.979, -- [18]
+				1338866.979, -- [19]
+				1338867.547, -- [20]
+				1338868.779, -- [21]
+				1338868.779, -- [22]
+				1338868.779, -- [23]
+				1338936.552, -- [24]
+				1338936.552, -- [25]
+				1338936.552, -- [26]
+				1338941.027, -- [27]
+				1338941.027, -- [28]
+				1338943.85, -- [29]
+				1338945.555, -- [30]
+				1338946.774, -- [31]
+				1338946.774, -- [32]
+				1338946.774, -- [33]
+				1338985.749, -- [34]
+				1338985.749, -- [35]
+				1338985.749, -- [36]
+				1338985.749, -- [37]
+				1338999.609, -- [38]
+				1338999.609, -- [39]
+				1338999.609, -- [40]
+				1339058.463, -- [41]
+				1339058.463, -- [42]
+				1339058.463, -- [43]
+				1339058.463, -- [44]
+				1339071.875, -- [45]
+				1339071.875, -- [46]
+				1339072.095, -- [47]
+				1339072.095, -- [48]
+				1339072.095, -- [49]
+				1339078.846, -- [50]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 134,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 134,
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 134,
+								},
+							},
+							["amount"] = 134,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 11,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 21,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 21,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 21,
+					["TimeSpent"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7.54,
+								},
+								["Crusader Strike"] = {
+									["count"] = 1.7,
+								},
+							},
+							["amount"] = 9.24,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 9.24,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 134,
+									["min"] = 134,
+									["count"] = 1,
+									["amount"] = 134,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 134,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 9.24,
+					["TimeDamaging"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7.54,
+								},
+								["Crusader Strike"] = {
+									["count"] = 1.7,
+								},
+							},
+							["amount"] = 9.24,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 1,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 1,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 128,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 128,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Club"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 128,
+								},
+							},
+							["amount"] = 128,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Club"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 19,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 19,
+					["TimeSpent"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4.4,
+								},
+							},
+							["amount"] = 4.4,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1,
+						},
+					},
+					["WhoHealed"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 4.4,
+					["Healing"] = 1,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 65,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 128,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 128,
+						},
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 1,
+					["RageGain"] = 0,
+					["TimeDamage"] = 4.4,
+					["TimeDamaging"] = {
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4.4,
+								},
+							},
+							["amount"] = 4.4,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["TimeHealing"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 19,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19,
+						},
+					},
+					["TimeSpent"] = {
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 2,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["Overhealing"] = 19,
+					["ActiveTime"] = 3.5,
+					["ElementTaken"] = {
+						["Melee"] = 2,
+					},
+					["Damage"] = 57,
+					["TimeHeal"] = 0,
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["HealedWho"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["Healing"] = 2,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2,
+									["min"] = 2,
+									["count"] = 1,
+									["amount"] = 2,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 57,
+					},
+					["HealingTaken"] = 2,
+					["DamagedWho"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 57,
+								},
+							},
+							["amount"] = 57,
+						},
+					},
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 57,
+									["min"] = 57,
+									["count"] = 1,
+									["amount"] = 57,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 57,
+						},
+					},
+					["WhoDamaged"] = {
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 225,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 72,
+						["Melee"] = 134,
+						["Holy"] = 19,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 72,
+								},
+								["Melee"] = {
+									["count"] = 134,
+								},
+								["Seal of Command"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 225,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 3.5,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 72,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 72,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 72,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 134,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 134,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 134,
+						},
+						["Seal of Command"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 13,
+									["min"] = 13,
+									["count"] = 1,
+									["amount"] = 13,
+								},
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 6,
+									["count"] = 1,
+									["amount"] = 6,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 225,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 72,
+						["Melee"] = 134,
+						["Holy"] = 19,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 72,
+								},
+								["Melee"] = {
+									["count"] = 134,
+								},
+								["Seal of Command"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 225,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 3.5,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 72,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 72,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 72,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 134,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 134,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 134,
+						},
+						["Seal of Command"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 13,
+									["min"] = 13,
+									["count"] = 1,
+									["amount"] = 13,
+								},
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 6,
+									["count"] = 1,
+									["amount"] = 6,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 11,
+									["min"] = 8,
+									["count"] = 26,
+									["amount"] = 261,
+								},
+							},
+							["count"] = 26,
+							["amount"] = 261,
+						},
+					},
+					["TimeSpent"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 21.54,
+								},
+								["Crusader Strike"] = {
+									["count"] = 5.2,
+								},
+							},
+							["amount"] = 26.74,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.01,
+								},
+							},
+							["amount"] = 3.01,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 14.9,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.22,
+								},
+							},
+							["amount"] = 15.12,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["DamageTaken"] = 9,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+						["Club"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["Overhealing"] = 261,
+					["ActiveTime"] = 55.37,
+					["ElementTaken"] = {
+						["Melee"] = 9,
+					},
+					["Damage"] = 1682,
+					["TimeHeal"] = 0,
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+						["Club"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["HealedWho"] = {
+						["Mutatedamah"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["Healing"] = 9,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3,
+									["min"] = 1,
+									["count"] = 5,
+									["amount"] = 9,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 9,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 462,
+						["Melee"] = 1201,
+						["Holy"] = 19,
+					},
+					["HealingTaken"] = 9,
+					["DamagedWho"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 573,
+								},
+								["Crusader Strike"] = {
+									["count"] = 80,
+								},
+							},
+							["amount"] = 653,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 59,
+								},
+							},
+							["amount"] = 59,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 72,
+								},
+							},
+							["amount"] = 72,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 57,
+								},
+							},
+							["amount"] = 57,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 378,
+								},
+								["Crusader Strike"] = {
+									["count"] = 238,
+								},
+							},
+							["amount"] = 616,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 72,
+								},
+								["Melee"] = {
+									["count"] = 134,
+								},
+								["Seal of Command"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 225,
+						},
+					},
+					["TimeDamage"] = 55.37,
+					["TimeDamaging"] = {
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 21.54,
+								},
+								["Crusader Strike"] = {
+									["count"] = 5.2,
+								},
+							},
+							["amount"] = 26.74,
+						},
+						["Rabbit"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.01,
+								},
+							},
+							["amount"] = 3.01,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 14.9,
+								},
+								["Crusader Strike"] = {
+									["count"] = 0.22,
+								},
+							},
+							["amount"] = 15.12,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Crusader Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Seal of Command"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["Attacks"] = {
+						["Crusader Strike"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 157,
+									["min"] = 157,
+									["count"] = 1,
+									["amount"] = 157,
+								},
+								["Hit"] = {
+									["max"] = 81,
+									["min"] = 72,
+									["count"] = 4,
+									["amount"] = 305,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 462,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 137,
+									["min"] = 120,
+									["count"] = 6,
+									["amount"] = 772,
+								},
+								["Hit"] = {
+									["max"] = 65,
+									["min"] = 57,
+									["count"] = 7,
+									["amount"] = 429,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 1201,
+						},
+						["Seal of Command"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 13,
+									["min"] = 13,
+									["count"] = 1,
+									["amount"] = 13,
+								},
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 6,
+									["count"] = 1,
+									["amount"] = 6,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19,
+						},
+					},
+					["WhoDamaged"] = {
+						["Small Crag Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Rockjaw Goon"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Ragged Young Wolf"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Rockjaw Invader"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 6,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1338822.33,
+			["LastActive"] = 1339178.456,
+		},
+	},
+	["FightNum"] = 4,
+	["CombatTimes"] = {
+		{
+			1338851.324, -- [1]
+			1338854.33, -- [2]
+			"13:07:17", -- [3]
+			"13:07:19", -- [4]
+			"Small Crag Boar", -- [5]
+		}, -- [1]
+		{
+			1338866.326, -- [1]
+			1338870.323, -- [2]
+			"13:07:32", -- [3]
+			"13:07:35", -- [4]
+			"Rockjaw Goon", -- [5]
+		}, -- [2]
+		{
+			1338940.327, -- [1]
+			1338948.329, -- [2]
+			"13:08:46", -- [3]
+			"13:08:53", -- [4]
+			"Rockjaw Invader", -- [5]
+		}, -- [3]
+		{
+			1339178.456, -- [1]
+			1339184.457, -- [2]
+			"13:12:43", -- [3]
+			"13:12:49", -- [4]
+			"Training Dummy", -- [5]
+		}, -- [4]
+	},
+	["FoughtWho"] = {
+		"Training Dummy 13:12:43-13:12:49", -- [1]
+		"Rockjaw Invader 13:08:46-13:08:53", -- [2]
+		"Rockjaw Goon 13:07:32-13:07:35", -- [3]
+		"Small Crag Boar 13:07:17-13:07:19", -- [4]
+	},
+}

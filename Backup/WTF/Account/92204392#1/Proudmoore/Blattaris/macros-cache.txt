@@ -1,0 +1,41 @@
+VER 3 0100000000000003 "Abomination Hook" "1001614"
+#showtooltip Hook
+/cast [pet:abomination] hook;
+END
+VER 3 0100000000000006 "Blood Boil" "237513"
+#showtooltip Blood Boil
+/cast Blood Boil
+/cancelaura Prayer of Mending
+/cancelaura Renew
+/cancelaura Guiding Hand
+/cancelaura Beacon of Light
+/cancelaura Beacon of Faith
+/cancelaura Echo of Light
+/cancelaura Rejuvenation
+/cancelaura Lifebloom
+END
+VER 3 0100000000000007 "Heart Strike" "135675"
+#showtooltip Heart Strike
+/cast Heart Strike
+/use Bubble Wand
+/startattack
+END
+VER 3 0100000000000004 "Horn" "INV_MISC_QUESTIONMARK"
+#showtooltip Pillar of Frost
+/cast Pillar of Frost
+/use Horn of Valor
+END
+VER 3 0100000000000002 "Prospect Macro" "INV_MISC_QUESTIONMARK"
+#showtooltip Prospecting
+/cast Prospecting
+/use Empyrium
+END
+VER 3 0100000000000001 "Raise Ally Macro" "INV_MISC_QUESTIONMARK"
+#showtooltip Raise Ally
+/cast [target=mouseover,exists] Raise Ally
+END
+VER 3 0100000000000005 "Templar" "INV_MISC_QUESTIONMARK"
+#showtooltip Dark Command
+/tar Reanimated Templar
+//cast Dark Command
+END

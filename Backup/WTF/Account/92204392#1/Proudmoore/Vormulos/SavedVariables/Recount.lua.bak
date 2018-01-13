@@ -1,0 +1,1884 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Vormulos"] = {
+			["GUID"] = "Player-5-0A32A638",
+			["LastEventHealth"] = {
+				"154 (100%)", -- [1]
+				"154 (100%)", -- [2]
+				"154 (100%)", -- [3]
+				"154 (100%)", -- [4]
+				"154 (100%)", -- [5]
+				"476 (100%)", -- [6]
+				"476 (100%)", -- [7]
+				"476 (100%)", -- [8]
+				"476 (100%)", -- [9]
+				"476 (100%)", -- [10]
+				"476 (100%)", -- [11]
+				"476 (100%)", -- [12]
+				"476 (100%)", -- [13]
+				"476 (100%)", -- [14]
+				"476 (100%)", -- [15]
+				"476 (100%)", -- [16]
+				"476 (100%)", -- [17]
+				"476 (100%)", -- [18]
+				"476 (100%)", -- [19]
+				"476 (100%)", -- [20]
+				"476 (100%)", -- [21]
+				"490 (100%)", -- [22]
+				"490 (100%)", -- [23]
+				"490 (100%)", -- [24]
+				"490 (100%)", -- [25]
+				"490 (100%)", -- [26]
+				"490 (100%)", -- [27]
+				"490 (100%)", -- [28]
+				"490 (100%)", -- [29]
+				"490 (100%)", -- [30]
+				"490 (100%)", -- [31]
+				"490 (100%)", -- [32]
+				"490 (100%)", -- [33]
+			},
+			["LastAttackedBy"] = "Vale Moth",
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"HEAL", -- [20]
+				"HEAL", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"HEAL", -- [24]
+				"HEAL", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"HEAL", -- [28]
+				"HEAL", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"HEAL", -- [32]
+				"HEAL", -- [33]
+			},
+			["TimeWindows"] = {
+				["HealingTaken"] = {
+					6, -- [1]
+				},
+				["TimeHeal"] = {
+					0, -- [1]
+				},
+				["Overhealing"] = {
+					129, -- [1]
+				},
+				["ActiveTime"] = {
+					20.35, -- [1]
+				},
+				["TimeDamage"] = {
+					20.35, -- [1]
+				},
+				["Healing"] = {
+					6, -- [1]
+				},
+				["DamageTaken"] = {
+					7, -- [1]
+				},
+				["Damage"] = {
+					709, -- [1]
+				},
+			},
+			["enClass"] = "WARRIOR",
+			["unit"] = "Vormulos",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 3,
+			["LastEventNum"] = {
+				3.8961038961039, -- [1]
+				7.79220779220779, -- [2]
+				3.8961038961039, -- [3]
+				3.8961038961039, -- [4]
+				3.8961038961039, -- [5]
+				nil, -- [6]
+				0.210084033613445, -- [7]
+				1.89075630252101, -- [8]
+				2.10084033613445, -- [9]
+				0.420168067226891, -- [10]
+				nil, -- [11]
+				2.10084033613445, -- [12]
+				1.89075630252101, -- [13]
+				nil, -- [14]
+				0.210084033613445, -- [15]
+				2.10084033613445, -- [16]
+				1.89075630252101, -- [17]
+				nil, -- [18]
+				0.210084033613445, -- [19]
+				2.10084033613445, -- [20]
+				2.10084033613445, -- [21]
+				0.204081632653061, -- [22]
+				nil, -- [23]
+				2.04081632653061, -- [24]
+				1.83673469387755, -- [25]
+				nil, -- [26]
+				nil, -- [27]
+				1.83673469387755, -- [28]
+				2.04081632653061, -- [29]
+				nil, -- [30]
+				0.204081632653061, -- [31]
+				2.04081632653061, -- [32]
+				2.04081632653061, -- [33]
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 3,
+			["LastDamageTaken"] = 1,
+			["TimeLast"] = {
+				["TimeHeal"] = 324909.279,
+				["OVERALL"] = 324909.279,
+				["DamageTaken"] = 324909.279,
+				["HealingTaken"] = 324909.279,
+				["Overhealing"] = 324909.279,
+				["TimeDamage"] = 324909.279,
+				["Healing"] = 324909.279,
+				["ActiveTime"] = 324909.279,
+				["Damage"] = 324909.279,
+			},
+			["Owner"] = false,
+			["LastAbility"] = 324910.259,
+			["NextEventNum"] = 34,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				100, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				100, -- [21]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+			},
+			["LastEvents"] = {
+				"Vormulos Gift of the Naaru Vormulos Tick +6 (6 overheal)", -- [1]
+				"Vormulos Gift of the Naaru Vormulos Crit +12 (12 overheal)", -- [2]
+				"Vormulos Gift of the Naaru Vormulos Tick +6 (6 overheal)", -- [3]
+				"Vormulos Gift of the Naaru Vormulos Tick +6 (6 overheal)", -- [4]
+				"Vormulos Gift of the Naaru Vormulos Tick +6 (6 overheal)", -- [5]
+				"Vormulos Melee Vale Moth Hit -58 (Physical)", -- [6]
+				"Vale Moth Melee Vormulos Hit -1 (Physical)", -- [7]
+				"Vormulos Swift Hand of Justice Vormulos Hit +9 (8 overheal)", -- [8]
+				"Vormulos Swift Hand of Justice Vormulos Hit +10 (10 overheal)", -- [9]
+				"Volatile Mutation Melee Vormulos Hit -2 (Physical)", -- [10]
+				"Vormulos Heroic Strike Volatile Mutation Crit -105 (Physical)", -- [11]
+				"Vormulos Swift Hand of Justice Vormulos Hit +10 (8 overheal)", -- [12]
+				"Vormulos Swift Hand of Justice Vormulos Hit +9 (9 overheal)", -- [13]
+				"Vormulos Melee Vale Moth Crit -125 (Physical)", -- [14]
+				"Vale Moth Melee Vormulos Hit -1 (Physical)", -- [15]
+				"Vormulos Swift Hand of Justice Vormulos Hit +10 (9 overheal)", -- [16]
+				"Vormulos Swift Hand of Justice Vormulos Hit +9 (9 overheal)", -- [17]
+				"Vormulos Melee Vale Moth Crit -116 (Physical)", -- [18]
+				"Vale Moth Melee Vormulos Hit -1 (Physical)", -- [19]
+				"Vormulos Swift Hand of Justice Vormulos Hit +10 (10 overheal)", -- [20]
+				"Vormulos Swift Hand of Justice Vormulos Hit +10 (10 overheal)", -- [21]
+				"Vale Moth Melee Vormulos Hit -1 (Physical)", -- [22]
+				"Vormulos Heroic Strike Vale Moth Hit -58 (Physical)", -- [23]
+				"Vormulos Swift Hand of Justice Vormulos Hit +10 (9 overheal)", -- [24]
+				"Vormulos Swift Hand of Justice Vormulos Hit +9 (9 overheal)", -- [25]
+				"Vormulos Melee Vale Moth Crit -131 (Physical)", -- [26]
+				"Vale Moth Melee Vormulos Parry (1)", -- [27]
+				"Vormulos Swift Hand of Justice Vormulos Hit +9 (9 overheal)", -- [28]
+				"Vormulos Swift Hand of Justice Vormulos Hit +10 (10 overheal)", -- [29]
+				"Vormulos Melee Vale Moth Crit -116 (Physical)", -- [30]
+				"Vale Moth Melee Vormulos Hit -1 (Physical)", -- [31]
+				"Vormulos Swift Hand of Justice Vormulos Hit +10 (9 overheal)", -- [32]
+				"Vormulos Swift Hand of Justice Vormulos Hit +10 (10 overheal)", -- [33]
+			},
+			["Name"] = "Vormulos",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				false, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				false, -- [11]
+				true, -- [12]
+				true, -- [13]
+				false, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				false, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				false, -- [23]
+				true, -- [24]
+				true, -- [25]
+				false, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				false, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+			},
+			["LastEventTimes"] = {
+				324749.09, -- [1]
+				324750.094, -- [2]
+				324751.084, -- [3]
+				324752.084, -- [4]
+				324753.024, -- [5]
+				324881.238, -- [6]
+				324881.238, -- [7]
+				324881.238, -- [8]
+				324881.238, -- [9]
+				324883.601, -- [10]
+				324883.601, -- [11]
+				324883.601, -- [12]
+				324883.601, -- [13]
+				324885.495, -- [14]
+				324885.495, -- [15]
+				324885.495, -- [16]
+				324885.495, -- [17]
+				324893.289, -- [18]
+				324893.289, -- [19]
+				324893.289, -- [20]
+				324893.289, -- [21]
+				324895.386, -- [22]
+				324895.386, -- [23]
+				324895.386, -- [24]
+				324895.386, -- [25]
+				324905.269, -- [26]
+				324905.269, -- [27]
+				324905.269, -- [28]
+				324905.269, -- [29]
+				324910.259, -- [30]
+				324910.259, -- [31]
+				324910.259, -- [32]
+				324910.259, -- [33]
+			},
+			["Fights"] = {
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 3,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 3,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 230,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 125,
+						["Physical"] = 105,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Heroic Strike"] = {
+									["count"] = 105,
+								},
+							},
+							["amount"] = 105,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 125,
+								},
+							},
+							["amount"] = 125,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 8,
+									["count"] = 4,
+									["amount"] = 35,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 35,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 35,
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Heroic Strike"] = {
+									["count"] = 2.36,
+								},
+							},
+							["amount"] = 2.36,
+						},
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.89,
+								},
+							},
+							["amount"] = 1.89,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2,
+									["min"] = 1,
+									["count"] = 2,
+									["amount"] = 3,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 3,
+						},
+					},
+					["WhoHealed"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 4.25,
+					["Healing"] = 3,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 125,
+									["min"] = 125,
+									["count"] = 1,
+									["amount"] = 125,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 125,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 105,
+									["min"] = 105,
+									["count"] = 1,
+									["amount"] = 105,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 105,
+						},
+					},
+					["HealingTaken"] = 3,
+					["RageGain"] = 0,
+					["TimeDamage"] = 4.25,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Heroic Strike"] = {
+									["count"] = 2.36,
+								},
+							},
+							["amount"] = 2.36,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1.89,
+								},
+							},
+							["amount"] = 1.89,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["TimeHealing"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 8,
+									["count"] = 2,
+									["amount"] = 18,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 18,
+						},
+					},
+					["TimeSpent"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 1,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 3.5,
+					["ElementTaken"] = {
+						["Melee"] = 1,
+					},
+					["Damage"] = 58,
+					["TimeHeal"] = 0,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Overhealing"] = 18,
+					["WhoHealed"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Healing"] = 1,
+					["HealedWho"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1,
+									["min"] = 1,
+									["count"] = 1,
+									["amount"] = 1,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 58,
+					},
+					["HealingTaken"] = 1,
+					["DamagedWho"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 58,
+								},
+							},
+							["amount"] = 58,
+						},
+					},
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 58,
+									["min"] = 58,
+									["count"] = 1,
+									["amount"] = 58,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 58,
+						},
+					},
+					["WhoDamaged"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 2,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 2,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 174,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 116,
+						["Physical"] = 58,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 116,
+								},
+								["Heroic Strike"] = {
+									["count"] = 58,
+								},
+							},
+							["amount"] = 174,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 9,
+									["count"] = 4,
+									["amount"] = 38,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 38,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 38,
+					["TimeSpent"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 2.1,
+								},
+							},
+							["amount"] = 5.6,
+						},
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1,
+									["min"] = 1,
+									["count"] = 1,
+									["amount"] = 1,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1,
+						},
+					},
+					["WhoHealed"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 5.6,
+					["Healing"] = 1,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 116,
+									["min"] = 116,
+									["count"] = 1,
+									["amount"] = 116,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 116,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 58,
+									["min"] = 58,
+									["count"] = 1,
+									["amount"] = 58,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 58,
+						},
+					},
+					["HealingTaken"] = 1,
+					["RageGain"] = 0,
+					["TimeDamage"] = 5.6,
+					["TimeDamaging"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 2.1,
+								},
+							},
+							["amount"] = 5.6,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 2,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 2,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 174,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 116,
+						["Physical"] = 58,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 116,
+								},
+								["Heroic Strike"] = {
+									["count"] = 58,
+								},
+							},
+							["amount"] = 174,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 9,
+									["count"] = 4,
+									["amount"] = 38,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 38,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 38,
+					["TimeSpent"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 2.1,
+								},
+							},
+							["amount"] = 5.6,
+						},
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1,
+									["min"] = 1,
+									["count"] = 1,
+									["amount"] = 1,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1,
+						},
+					},
+					["WhoHealed"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 5.6,
+					["Healing"] = 1,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 116,
+									["min"] = 116,
+									["count"] = 1,
+									["amount"] = 116,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 116,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 58,
+									["min"] = 58,
+									["count"] = 1,
+									["amount"] = 58,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 58,
+						},
+					},
+					["HealingTaken"] = 1,
+					["RageGain"] = 0,
+					["TimeDamage"] = 5.6,
+					["TimeDamaging"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 2.1,
+								},
+							},
+							["amount"] = 5.6,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 8,
+									["count"] = 14,
+									["amount"] = 129,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 129,
+						},
+					},
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Heroic Strike"] = {
+									["count"] = 2.36,
+								},
+							},
+							["amount"] = 2.36,
+						},
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 15.89,
+								},
+								["Heroic Strike"] = {
+									["count"] = 2.1,
+								},
+							},
+							["amount"] = 17.99,
+						},
+					},
+					["DamageTaken"] = 7,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 20.35,
+					["ElementTaken"] = {
+						["Melee"] = 7,
+					},
+					["Damage"] = 709,
+					["TimeHeal"] = 0,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["Overhealing"] = 129,
+					["WhoHealed"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["Healing"] = 6,
+					["HealedWho"] = {
+						["Vormulos"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2,
+									["min"] = 1,
+									["count"] = 5,
+									["amount"] = 6,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 6,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 546,
+						["Physical"] = 163,
+					},
+					["HealingTaken"] = 6,
+					["DamagedWho"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 546,
+								},
+								["Heroic Strike"] = {
+									["count"] = 58,
+								},
+							},
+							["amount"] = 604,
+						},
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Heroic Strike"] = {
+									["count"] = 105,
+								},
+							},
+							["amount"] = 105,
+						},
+					},
+					["TimeDamage"] = 20.35,
+					["TimeDamaging"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 15.89,
+								},
+								["Heroic Strike"] = {
+									["count"] = 2.1,
+								},
+							},
+							["amount"] = 17.99,
+						},
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Heroic Strike"] = {
+									["count"] = 2.36,
+								},
+							},
+							["amount"] = 2.36,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 131,
+									["min"] = 116,
+									["count"] = 4,
+									["amount"] = 488,
+								},
+								["Hit"] = {
+									["max"] = 58,
+									["min"] = 58,
+									["count"] = 1,
+									["amount"] = 58,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 546,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 105,
+									["min"] = 105,
+									["count"] = 1,
+									["amount"] = 105,
+								},
+								["Hit"] = {
+									["max"] = 58,
+									["min"] = 58,
+									["count"] = 1,
+									["amount"] = 58,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 163,
+						},
+					},
+					["WhoDamaged"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 324748.281,
+			["LastActive"] = 324909.279,
+		},
+	},
+	["FightNum"] = 3,
+	["CombatTimes"] = {
+		{
+			324880.28, -- [1]
+			324883.282, -- [2]
+			"12:21:13", -- [3]
+			"12:21:15", -- [4]
+			"Vale Moth", -- [5]
+		}, -- [1]
+		{
+			324883.282, -- [1]
+			324887.281, -- [2]
+			"12:21:15", -- [3]
+			"12:21:19", -- [4]
+			"Volatile Mutation", -- [5]
+		}, -- [2]
+		{
+			324893.278, -- [1]
+			324897.28, -- [2]
+			"12:21:25", -- [3]
+			"12:21:29", -- [4]
+			"Vale Moth", -- [5]
+		}, -- [3]
+	},
+	["FoughtWho"] = {
+		"Vale Moth 12:21:25-12:21:29", -- [1]
+		"Volatile Mutation 12:21:15-12:21:19", -- [2]
+		"Vale Moth 12:21:13-12:21:15", -- [3]
+	},
+}

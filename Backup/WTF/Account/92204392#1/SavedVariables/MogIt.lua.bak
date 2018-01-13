@@ -1,0 +1,71 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Ferford - Proudmoore"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.5.5",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = -254.000534057617,
+			["tooltipHeight"] = 100,
+			["tooltipMog"] = false,
+			["dressupPreview"] = true,
+			["rows"] = 3,
+			["y"] = -42.9999961853027,
+			["gridDress"] = "none",
+			["point"] = "TOP",
+			["previewProps"] = {
+				{
+					["y"] = -46.5002861022949,
+					["h"] = 390.999908447266,
+					["point"] = "TOPRIGHT",
+					["w"] = 392.000061035156,
+					["x"] = -361.500091552734,
+				}, -- [1]
+			},
+			["gridWidth"] = 902,
+			["tooltip"] = false,
+			["gridHeight"] = 692,
+			["tooltipRotate"] = false,
+			["singlePreview"] = true,
+			["tooltipWidth"] = 100,
+			["columns"] = 5,
+		},
+	},
+}
+MogItWishlist = {
+	["global"] = {
+		["version"] = 60200,
+	},
+	["profileKeys"] = {
+		["Ferford - Proudmoore"] = "Ferford - Proudmoore",
+	},
+	["profiles"] = {
+		["Ferford - Proudmoore"] = {
+			["sets"] = {
+				{
+					["items"] = {
+						["ChestSlot"] = "item:39558:0",
+						["WristSlot"] = "item:127982:0",
+						["BackSlot"] = "item:67134:0",
+						["MainHandSlot"] = "item:13034:0",
+						["WaistSlot"] = "item:39279:0",
+						["SecondaryHandSlot"] = "item:13034:0",
+						["TabardSlot"] = "item:69210:0",
+						["FeetSlot"] = "item:14653:0",
+						["LegsSlot"] = "item:39564:0",
+						["ShirtSlot"] = "item:44693:0",
+						["HandsSlot"] = "item:118828:0",
+						["HeadSlot"] = "item:13112:0",
+						["ShoulderSlot"] = "item:39565:0",
+					},
+					["name"] = "Rapier",
+					["alternateItems"] = {
+					},
+				}, -- [1]
+			},
+		},
+	},
+}

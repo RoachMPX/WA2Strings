@@ -1,0 +1,3422 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Vinwbooster"] = {
+			["GUID"] = "Player-3683-091861D0",
+			["LastEventHealth"] = {
+				"646 (100%)", -- [1]
+				"646 (100%)", -- [2]
+				"646 (100%)", -- [3]
+				"646 (100%)", -- [4]
+				"646 (100%)", -- [5]
+				"646 (100%)", -- [6]
+				"583 (90%)", -- [7]
+				"646 (100%)", -- [8]
+				"646 (100%)", -- [9]
+				"646 (100%)", -- [10]
+				"646 (100%)", -- [11]
+				"646 (100%)", -- [12]
+				"598 (92%)", -- [13]
+				"646 (100%)", -- [14]
+				"646 (100%)", -- [15]
+				"646 (100%)", -- [16]
+				"646 (100%)", -- [17]
+				"646 (100%)", -- [18]
+				"646 (100%)", -- [19]
+				"646 (100%)", -- [20]
+				"646 (100%)", -- [21]
+				"646 (100%)", -- [22]
+				"646 (100%)", -- [23]
+				"646 (100%)", -- [24]
+				"646 (100%)", -- [25]
+				"643 (99%)", -- [26]
+				"646 (100%)", -- [27]
+				"646 (100%)", -- [28]
+				"646 (100%)", -- [29]
+				"646 (100%)", -- [30]
+				"646 (100%)", -- [31]
+				"646 (100%)", -- [32]
+				"646 (100%)", -- [33]
+				"646 (100%)", -- [34]
+				"646 (100%)", -- [35]
+				"646 (100%)", -- [36]
+				"646 (100%)", -- [37]
+				"646 (100%)", -- [38]
+				"646 (100%)", -- [39]
+				"646 (100%)", -- [40]
+				"646 (100%)", -- [41]
+				"646 (100%)", -- [42]
+				"646 (100%)", -- [43]
+				"646 (100%)", -- [44]
+				"646 (100%)", -- [45]
+				"646 (100%)", -- [46]
+				"646 (100%)", -- [47]
+				"646 (100%)", -- [48]
+				"646 (100%)", -- [49]
+				"646 (100%)", -- [50]
+			},
+			["LastAttackedBy"] = "Environment",
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"DAMAGE", -- [13]
+				"HEAL", -- [14]
+				"HEAL", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"HEAL", -- [18]
+				"HEAL", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"HEAL", -- [22]
+				"HEAL", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"HEAL", -- [27]
+				"HEAL", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"HEAL", -- [32]
+				"HEAL", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"HEAL", -- [36]
+				"HEAL", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"HEAL", -- [40]
+				"HEAL", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"HEAL", -- [45]
+				"HEAL", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"HEAL", -- [50]
+			},
+			["TimeWindows"] = {
+				["HealingTaken"] = {
+					72, -- [1]
+				},
+				["TimeHeal"] = {
+					0.09, -- [1]
+				},
+				["Overhealing"] = {
+					937, -- [1]
+				},
+				["ActiveTime"] = {
+					155.66, -- [1]
+				},
+				["TimeDamage"] = {
+					155.57, -- [1]
+				},
+				["Healing"] = {
+					72, -- [1]
+				},
+				["DamageTaken"] = {
+					187, -- [1]
+				},
+				["Damage"] = {
+					4659, -- [1]
+				},
+			},
+			["enClass"] = "MONK",
+			["unit"] = "Vinwbooster",
+			["level"] = 1,
+			["LastDamageAbility"] = "Falling",
+			["LastFightIn"] = 7,
+			["LastEventNum"] = {
+				2.01238390092879, -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				nil, -- [4]
+				2.01238390092879, -- [5]
+				2.01238390092879, -- [6]
+				9.75232198142415, -- [7]
+				nil, -- [8]
+				0.619195046439629, -- [9]
+				nil, -- [10]
+				2.01238390092879, -- [11]
+				2.01238390092879, -- [12]
+				7.43034055727554, -- [13]
+				2.01238390092879, -- [14]
+				2.01238390092879, -- [15]
+				nil, -- [16]
+				0.464396284829721, -- [17]
+				2.01238390092879, -- [18]
+				2.01238390092879, -- [19]
+				0.773993808049536, -- [20]
+				nil, -- [21]
+				2.01238390092879, -- [22]
+				2.01238390092879, -- [23]
+				0.464396284829721, -- [24]
+				nil, -- [25]
+				nil, -- [26]
+				1.85758513931889, -- [27]
+				2.01238390092879, -- [28]
+				nil, -- [29]
+				0.619195046439629, -- [30]
+				nil, -- [31]
+				2.01238390092879, -- [32]
+				1.85758513931889, -- [33]
+				nil, -- [34]
+				0.309597523219814, -- [35]
+				2.01238390092879, -- [36]
+				2.01238390092879, -- [37]
+				nil, -- [38]
+				nil, -- [39]
+				2.01238390092879, -- [40]
+				2.01238390092879, -- [41]
+				nil, -- [42]
+				0.464396284829721, -- [43]
+				nil, -- [44]
+				2.01238390092879, -- [45]
+				1.85758513931889, -- [46]
+				[50] = 2.01238390092879,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 48,
+			["TimeLast"] = {
+				["TimeHeal"] = 2249641.009,
+				["OVERALL"] = 2249655.009,
+				["DamageTaken"] = 2249655.009,
+				["HealingTaken"] = 2249641.009,
+				["Overhealing"] = 2249641.009,
+				["TimeDamage"] = 2249641.009,
+				["Healing"] = 2249641.009,
+				["ActiveTime"] = 2249641.009,
+				["Damage"] = 2249641.009,
+			},
+			["Owner"] = false,
+			["LastAbility"] = 2249641.249,
+			["NextEventNum"] = 14,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				100, -- [6]
+				90.2476780185759, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				92.5696594427245, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				100, -- [20]
+				100, -- [21]
+				100, -- [22]
+				100, -- [23]
+				100, -- [24]
+				100, -- [25]
+				99.5356037151703, -- [26]
+				100, -- [27]
+				100, -- [28]
+				100, -- [29]
+				100, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				100, -- [34]
+				100, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				100, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				100, -- [45]
+				100, -- [46]
+				100, -- [47]
+				100, -- [48]
+				100, -- [49]
+				100, -- [50]
+			},
+			["LastEvents"] = {
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [1]
+				"Vinwbooster Melee Blood Elf Scout Hit -59 (Physical)", -- [2]
+				"Blood Elf Scout Melee Vinwbooster Dodge (1)", -- [3]
+				"Vinwbooster Tiger Palm Blood Elf Scout Crit -138 (Physical)", -- [4]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [5]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [6]
+				"Environment Falling Vinwbooster Hit -63 (Physical)", -- [7]
+				"Vinwbooster Melee Surveyor Candress Hit -57 (Physical)", -- [8]
+				"Surveyor Candress Melee Vinwbooster Hit -4 (Physical)", -- [9]
+				"Vinwbooster Jab Surveyor Candress Crit -43 (Physical)", -- [10]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (9 overheal)", -- [11]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [12]
+				"Environment Falling Vinwbooster Hit -48 (Physical)", -- [13]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (9 overheal)", -- [14]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [15]
+				"Vinwbooster Melee Blood Elf Scout Hit -58 (Physical)", -- [16]
+				"Blood Elf Scout Melee Vinwbooster Hit -3 (Physical)", -- [17]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (10 overheal)", -- [18]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [19]
+				"Blood Elf Scout Melee Vinwbooster Hit -5 (Physical)", -- [20]
+				"Vinwbooster Tiger Palm Blood Elf Scout Crit -131 (Physical)", -- [21]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (8 overheal)", -- [22]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [23]
+				"Blood Elf Scout Melee Vinwbooster Hit -3 (Physical)", -- [24]
+				"Vinwbooster Jab Blood Elf Scout Hit -23 (Physical)", -- [25]
+				"Vinwbooster Melee Blood Elf Scout Hit -56 (Physical)", -- [26]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +12 (9 overheal)", -- [27]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [28]
+				"Vinwbooster Melee Blood Elf Scout Crit -117 (Physical)", -- [29]
+				"Blood Elf Scout Melee Vinwbooster Hit -4 (Physical)", -- [30]
+				"Vinwbooster Jab Blood Elf Scout Hit -22 (Physical)", -- [31]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (9 overheal)", -- [32]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +12 (12 overheal)", -- [33]
+				"Vinwbooster Melee Blood Elf Scout Hit -58 (Physical)", -- [34]
+				"Blood Elf Scout Melee Vinwbooster Hit -2 (Physical)", -- [35]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (11 overheal)", -- [36]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [37]
+				"Blood Elf Scout Melee Vinwbooster Dodge (1)", -- [38]
+				"Vinwbooster Tiger Palm Blood Elf Scout Hit -66 (Physical)", -- [39]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [40]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [41]
+				"Vinwbooster Melee Blood Elf Scout Hit -59 (Physical)", -- [42]
+				"Blood Elf Scout Melee Vinwbooster Hit -3 (Physical)", -- [43]
+				"Vinwbooster Tiger Palm Blood Elf Scout Hit -74 (Physical)", -- [44]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (10 overheal)", -- [45]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +12 (12 overheal)", -- [46]
+				"Vinwbooster Melee Blood Elf Scout Hit -63 (Physical)", -- [47]
+				"Blood Elf Scout Melee Vinwbooster Dodge (1)", -- [48]
+				"Vinwbooster Tiger Palm Blood Elf Scout Hit -69 (Physical)", -- [49]
+				"Vinwbooster Swift Hand of Justice Vinwbooster Hit +13 (13 overheal)", -- [50]
+			},
+			["Name"] = "Vinwbooster",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				true, -- [3]
+				false, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				false, -- [8]
+				true, -- [9]
+				false, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				false, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				false, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				false, -- [25]
+				false, -- [26]
+				true, -- [27]
+				true, -- [28]
+				false, -- [29]
+				true, -- [30]
+				false, -- [31]
+				true, -- [32]
+				true, -- [33]
+				false, -- [34]
+				true, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				false, -- [39]
+				true, -- [40]
+				true, -- [41]
+				false, -- [42]
+				true, -- [43]
+				false, -- [44]
+				true, -- [45]
+				true, -- [46]
+				false, -- [47]
+				true, -- [48]
+				false, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				2249583.022, -- [1]
+				2249588.206, -- [2]
+				2249588.206, -- [3]
+				2249588.206, -- [4]
+				2249588.206, -- [5]
+				2249588.206, -- [6]
+				2249601.932, -- [7]
+				2249641.249, -- [8]
+				2249641.249, -- [9]
+				2249641.249, -- [10]
+				2249641.249, -- [11]
+				2249641.249, -- [12]
+				2249655.511, -- [13]
+				2249544.096, -- [14]
+				2249544.096, -- [15]
+				2249548.001, -- [16]
+				2249548.001, -- [17]
+				2249548.001, -- [18]
+				2249548.001, -- [19]
+				2249553.556, -- [20]
+				2249553.556, -- [21]
+				2249553.556, -- [22]
+				2249553.556, -- [23]
+				2249560.394, -- [24]
+				2249560.394, -- [25]
+				2249560.597, -- [26]
+				2249560.597, -- [27]
+				2249560.597, -- [28]
+				2249562.705, -- [29]
+				2249562.705, -- [30]
+				2249562.705, -- [31]
+				2249562.705, -- [32]
+				2249562.705, -- [33]
+				2249572.47, -- [34]
+				2249572.47, -- [35]
+				2249572.47, -- [36]
+				2249572.47, -- [37]
+				2249575.215, -- [38]
+				2249575.215, -- [39]
+				2249575.215, -- [40]
+				2249575.215, -- [41]
+				2249577.031, -- [42]
+				2249577.031, -- [43]
+				2249577.031, -- [44]
+				2249577.031, -- [45]
+				2249577.031, -- [46]
+				2249583.022, -- [47]
+				2249583.022, -- [48]
+				2249583.022, -- [49]
+				2249583.022, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 1,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 1,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 57,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 57,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 57,
+								},
+							},
+							["amount"] = 57,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 20,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 20,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 20,
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1,
+						},
+					},
+					["WhoHealed"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 3.5,
+					["Healing"] = 1,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Jab"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 57,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 57,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 57,
+						},
+					},
+					["HealingTaken"] = 1,
+					["RageGain"] = 0,
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 3,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 3,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 119,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 54,
+						["Physical"] = 65,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 54,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 65,
+								},
+							},
+							["amount"] = 119,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 26,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 26,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 26,
+					["TimeSpent"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0.3,
+								},
+							},
+							["amount"] = 3.8,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 3.8,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Jab"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 54,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 54,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 54,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 65,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 65,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 65,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 3.8,
+					["TimeDamaging"] = {
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0.3,
+								},
+							},
+							["amount"] = 3.8,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Surveyor Candress"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Surveyor Candress"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Surveyor Candress"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jab"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Surveyor Candress"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 3,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 3,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 69,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 69,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 69,
+								},
+							},
+							["amount"] = 69,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 12,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 21,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 21,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 21,
+					["TimeSpent"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 3,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3,
+						},
+					},
+					["WhoHealed"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 3.5,
+					["Healing"] = 3,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Jab"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 69,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 69,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 69,
+						},
+					},
+					["HealingTaken"] = 3,
+					["RageGain"] = 0,
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Tiger Palm"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 591,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 404,
+						["Physical"] = 187,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 404,
+								},
+								["Jab"] = {
+									["count"] = 50,
+								},
+								["Tiger Palm"] = {
+									["count"] = 137,
+								},
+							},
+							["amount"] = 591,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 12,
+					},
+					["TimeHealing"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7.67,
+								},
+								["Jab"] = {
+									["count"] = 3.84,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1.29,
+								},
+							},
+							["amount"] = 12.8,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 12.8,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Jab"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 28,
+									["min"] = 28,
+									["count"] = 1,
+									["amount"] = 28,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 22,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 22,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 50,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 119,
+									["min"] = 111,
+									["count"] = 2,
+									["amount"] = 230,
+								},
+								["Hit"] = {
+									["max"] = 60,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 174,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 404,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 72,
+									["min"] = 65,
+									["count"] = 2,
+									["amount"] = 137,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 137,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 12.8,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7.67,
+								},
+								["Jab"] = {
+									["count"] = 3.84,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1.29,
+								},
+							},
+							["amount"] = 12.8,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["TimeHealing"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 49,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 49,
+						},
+					},
+					["TimeSpent"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1.69,
+								},
+							},
+							["amount"] = 5.19,
+						},
+					},
+					["DamageTaken"] = 2,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 5.19,
+					["ElementTaken"] = {
+						["Melee"] = 2,
+					},
+					["Damage"] = 257,
+					["TimeHeal"] = 0,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["Overhealing"] = 49,
+					["WhoHealed"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["Healing"] = 2,
+					["HealedWho"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 2,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 56,
+						["Physical"] = 201,
+					},
+					["HealingTaken"] = 2,
+					["DamagedWho"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 56,
+								},
+								["Tiger Palm"] = {
+									["count"] = 201,
+								},
+							},
+							["amount"] = 257,
+						},
+					},
+					["TimeDamage"] = 5.19,
+					["TimeDamaging"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1.69,
+								},
+							},
+							["amount"] = 5.19,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 56,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 56,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 56,
+						},
+						["Jab"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 129,
+									["min"] = 129,
+									["count"] = 1,
+									["amount"] = 129,
+								},
+								["Hit"] = {
+									["max"] = 72,
+									["min"] = 72,
+									["count"] = 1,
+									["amount"] = 72,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 201,
+						},
+					},
+					["WhoDamaged"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+				},
+				["Fight1"] = {
+					["TimeHealing"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 49,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 49,
+						},
+					},
+					["TimeSpent"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1.69,
+								},
+							},
+							["amount"] = 5.19,
+						},
+					},
+					["DamageTaken"] = 2,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 5.19,
+					["ElementTaken"] = {
+						["Melee"] = 2,
+					},
+					["Damage"] = 257,
+					["TimeHeal"] = 0,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["Overhealing"] = 49,
+					["WhoHealed"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["Healing"] = 2,
+					["HealedWho"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 2,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 56,
+						["Physical"] = 201,
+					},
+					["HealingTaken"] = 2,
+					["DamagedWho"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 56,
+								},
+								["Tiger Palm"] = {
+									["count"] = 201,
+								},
+							},
+							["amount"] = 257,
+						},
+					},
+					["TimeDamage"] = 5.19,
+					["TimeDamaging"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1.69,
+								},
+							},
+							["amount"] = 5.19,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 56,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 56,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 56,
+						},
+						["Jab"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 129,
+									["min"] = 129,
+									["count"] = 1,
+									["amount"] = 129,
+								},
+								["Hit"] = {
+									["max"] = 72,
+									["min"] = 72,
+									["count"] = 1,
+									["amount"] = 72,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 201,
+						},
+					},
+					["WhoDamaged"] = {
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+				},
+				["OverallData"] = {
+					["ElementDoneBlock"] = {
+						["Physical"] = 12,
+					},
+					["TimeHealing"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0.09,
+								},
+							},
+							["amount"] = 0.09,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 13,
+									["min"] = 7,
+									["count"] = 86,
+									["amount"] = 937,
+								},
+							},
+							["count"] = 86,
+							["amount"] = 937,
+						},
+					},
+					["TimeSpent"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7.67,
+								},
+								["Jab"] = {
+									["count"] = 3.84,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1.29,
+								},
+							},
+							["amount"] = 12.8,
+						},
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 19.18,
+								},
+								["Melee"] = {
+									["count"] = 12.73,
+								},
+							},
+							["amount"] = 31.91,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 30.83,
+								},
+								["Jab"] = {
+									["count"] = 4.56,
+								},
+								["Tiger Palm"] = {
+									["count"] = 11.73,
+								},
+							},
+							["amount"] = 47.12,
+						},
+						["Surveyor Candress"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0.09,
+								},
+							},
+							["amount"] = 0.09,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 14,
+								},
+								["Jab"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 18.24,
+								},
+								["Jab"] = {
+									["count"] = 10.5,
+								},
+								["Tiger Palm"] = {
+									["count"] = 10.5,
+								},
+							},
+							["amount"] = 39.24,
+						},
+					},
+					["DamageTaken"] = 187,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 42,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 42,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 42,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 42,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 155.66,
+					["ElementTaken"] = {
+						["Melee"] = 76,
+						["Physical"] = 111,
+					},
+					["Damage"] = 4659,
+					["TimeHeal"] = 0.09,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Parry"] = {
+									["count"] = 2,
+								},
+								["Dodge"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 32,
+								},
+							},
+							["amount"] = 42,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["Overhealing"] = 937,
+					["WhoHealed"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 72,
+								},
+							},
+							["amount"] = 72,
+						},
+					},
+					["Healing"] = 72,
+					["HealedWho"] = {
+						["Vinwbooster"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 72,
+								},
+							},
+							["amount"] = 72,
+						},
+					},
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5,
+									["min"] = 1,
+									["count"] = 30,
+									["amount"] = 72,
+								},
+							},
+							["count"] = 30,
+							["amount"] = 72,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 2802,
+						["Physical"] = 1857,
+					},
+					["HealingTaken"] = 72,
+					["DamagedWho"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 404,
+								},
+								["Jab"] = {
+									["count"] = 50,
+								},
+								["Tiger Palm"] = {
+									["count"] = 137,
+								},
+							},
+							["amount"] = 591,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 753,
+								},
+								["Jab"] = {
+									["count"] = 133,
+								},
+								["Tiger Palm"] = {
+									["count"] = 813,
+								},
+							},
+							["amount"] = 1699,
+						},
+						["Surveyor Candress"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 57,
+								},
+								["Jab"] = {
+									["count"] = 43,
+								},
+							},
+							["amount"] = 100,
+						},
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 275,
+								},
+								["Melee"] = {
+									["count"] = 525,
+								},
+							},
+							["amount"] = 800,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 470,
+								},
+								["Jab"] = {
+									["count"] = 88,
+								},
+							},
+							["amount"] = 558,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 593,
+								},
+								["Jab"] = {
+									["count"] = 113,
+								},
+								["Tiger Palm"] = {
+									["count"] = 205,
+								},
+							},
+							["amount"] = 911,
+						},
+					},
+					["TimeDamage"] = 155.57,
+					["TimeDamaging"] = {
+						["Training Dummy"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 7.67,
+								},
+								["Jab"] = {
+									["count"] = 3.84,
+								},
+								["Tiger Palm"] = {
+									["count"] = 1.29,
+								},
+							},
+							["amount"] = 12.8,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 30.83,
+								},
+								["Jab"] = {
+									["count"] = 4.56,
+								},
+								["Tiger Palm"] = {
+									["count"] = 11.73,
+								},
+							},
+							["amount"] = 47.12,
+						},
+						["Surveyor Candress"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Jab"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Jab"] = {
+									["count"] = 19.18,
+								},
+								["Melee"] = {
+									["count"] = 12.73,
+								},
+							},
+							["amount"] = 31.91,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 14,
+								},
+								["Jab"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 18.24,
+								},
+								["Jab"] = {
+									["count"] = 10.5,
+								},
+								["Tiger Palm"] = {
+									["count"] = 10.5,
+								},
+							},
+							["amount"] = 39.24,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 124,
+									["min"] = 111,
+									["count"] = 8,
+									["amount"] = 943,
+								},
+								["Hit"] = {
+									["max"] = 64,
+									["min"] = 54,
+									["count"] = 32,
+									["amount"] = 1859,
+								},
+							},
+							["count"] = 40,
+							["amount"] = 2802,
+						},
+						["Jab"] = {
+							["Details"] = {
+								["Crit (Blocked)"] = {
+									["max"] = 28,
+									["min"] = 28,
+									["count"] = 1,
+									["amount"] = 28,
+								},
+								["Crit"] = {
+									["max"] = 47,
+									["min"] = 43,
+									["count"] = 7,
+									["amount"] = 316,
+								},
+								["Hit"] = {
+									["max"] = 24,
+									["min"] = 20,
+									["count"] = 16,
+									["amount"] = 358,
+								},
+							},
+							["count"] = 24,
+							["amount"] = 702,
+						},
+						["Tiger Palm"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 138,
+									["min"] = 129,
+									["count"] = 3,
+									["amount"] = 398,
+								},
+								["Hit"] = {
+									["max"] = 74,
+									["min"] = 65,
+									["count"] = 11,
+									["amount"] = 757,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 1155,
+						},
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Blood Elf Scout"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 38,
+								},
+							},
+							["amount"] = 38,
+						},
+						["Surveyor Candress"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 111,
+								},
+							},
+							["amount"] = 111,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 8,
+								},
+								["Hit"] = {
+									["count"] = 32,
+								},
+							},
+							["amount"] = 40,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 11,
+								},
+								["Hit"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 38,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 2248075.118,
+			["LastActive"] = 2249655.009,
+		},
+	},
+	["FightNum"] = 7,
+	["CombatTimes"] = {
+		{
+			2248075.118, -- [1]
+			2248078.119, -- [2]
+			"01:40:00", -- [3]
+			"01:40:02", -- [4]
+			"Vale Moth", -- [5]
+		}, -- [1]
+		{
+			2248083.116, -- [1]
+			2248086.118, -- [2]
+			"01:40:07", -- [3]
+			"01:40:10", -- [4]
+			"Volatile Mutation", -- [5]
+		}, -- [2]
+		{
+			2248175.115, -- [1]
+			2248178.116, -- [2]
+			"01:41:39", -- [3]
+			"01:41:42", -- [4]
+			"Volatile Mutation", -- [5]
+		}, -- [3]
+		{
+			2248409.123, -- [1]
+			2248426.114, -- [2]
+			"01:45:33", -- [3]
+			"01:45:50", -- [4]
+			"Training Dummy", -- [5]
+		}, -- [4]
+		{
+			2249366.006, -- [1]
+			2249369.009, -- [2]
+			"02:01:30", -- [3]
+			"02:01:33", -- [4]
+			"Mutated Root Lasher", -- [5]
+		}, -- [5]
+		{
+			2249529.009, -- [1]
+			2249532.011, -- [2]
+			"02:04:13", -- [3]
+			"02:04:16", -- [4]
+			"Blood Elf Scout", -- [5]
+		}, -- [6]
+		{
+			2249536.009, -- [1]
+			2249541.006, -- [2]
+			"02:04:21", -- [3]
+			"02:04:25", -- [4]
+			"Blood Elf Scout", -- [5]
+		}, -- [7]
+	},
+	["FoughtWho"] = {
+		"Blood Elf Scout 02:04:21-02:04:25", -- [1]
+		"Blood Elf Scout 02:04:13-02:04:16", -- [2]
+		"Mutated Root Lasher 02:01:30-02:01:33", -- [3]
+		"Training Dummy 01:45:33-01:45:50", -- [4]
+		"Volatile Mutation 01:41:39-01:41:42", -- [5]
+	},
+}

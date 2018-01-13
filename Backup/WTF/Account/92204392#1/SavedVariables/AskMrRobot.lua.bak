@@ -1,0 +1,59 @@
+
+AskMrRobotDb3 = {
+	["char"] = {
+		["Ferford - Proudmoore"] = {
+			["Talents"] = {
+				[2] = "1113222",
+			},
+			["Equipped"] = {
+				[2] = {
+					"|cffa335ee|Hitem:141418::::::::110:260::3:3:1808:1477:3336:::|h[Helm of the Mountain Recluse]|h|r", -- [1]
+					"|cff0070dd|Hitem:134319::::::::110:260::29:3:3396:1487:1675:::|h[Depleted Mana Crystal Pendant]|h|r", -- [2]
+					"|cffa335ee|Hitem:137332::::::::110:260::23:3:1727:1492:1813:::|h[Mantle of the Dark Sea]|h|r", -- [3]
+					nil, -- [4]
+					"|cffa335ee|Hitem:134197::::::::110:260::23:4:1727:41:1512:3336:::|h[Biornskin Vest]|h|r", -- [5]
+					"|cff0070dd|Hitem:134155::::::::110:260::30:4:3397:1808:1492:1675:::|h[Steelgazer Hide Belt]|h|r", -- [6]
+					"|cffa335ee|Hitem:134370::::::::110:260::23:3:1727:1502:1813:::|h[Felbat Leather Leggings]|h|r", -- [7]
+					"|cff0070dd|Hitem:137448::::::::110:260::2:4:1726:1808:1482:3339:::|h[Toxin-Stitched Footwraps]|h|r", -- [8]
+					"|cffa335ee|Hitem:134280::::::::110:260::30:3:3397:1497:3336:::|h[Swordsinger's Wristguards]|h|r", -- [9]
+					"|cffa335ee|Hitem:139107::::::::110:260::36:3:3432:1497:1674:::|h[Rivermane Gloves]|h|r", -- [10]
+					"|cffa335ee|Hitem:139236::::::::110:260::3:2:1807:1472:::|h[Grubby Silver Ring]|h|r", -- [11]
+					"|cffa335ee|Hitem:134487:5424:::::::110:260::23:3:1727:1492:1813:::|h[Arch-Druid's Tainted Seal]|h|r", -- [12]
+					"|cffa335ee|Hitem:134203::::::::110:260::36:4:3432:604:1497:1674:::|h[Three-Toed Rabbit Foot]|h|r", -- [13]
+					"|cffa335ee|Hitem:135695::::::::110:260::8:3:3428:1472:1813:::|h[Vindictive Gladiator's Emblem of Tenacity]|h|r", -- [14]
+					"|cffa335ee|Hitem:134246:5432:::::::110:260::36:3:3432:1497:1674:::|h[Herringbone Drape]|h|r", -- [15]
+					"|cffe6cc80|Hitem:128872::137471:141262:142064::::110:260:256:9:1:742:698:2:1726:1477:3:3397:1497:3336:|h[The Dreadblades]|h|r", -- [16]
+					"|cffe6cc80|Hitem:134552::::::::110:260:256:::698:::|h[The Dreadblades]|h|r", -- [17]
+				},
+			},
+			["Artifacts"] = {
+				[2] = {
+					["Relics"] = {
+						"|cff0070dd|Hitem:137471::::::::110:260::2:2:1726:1477:::|h[Drop of True Blood]|h|r", -- [1]
+						"|cffa335ee|Hitem:141262::::::::110:260::30:3:3397:1497:3336:::|h[Rune-Etched Quill]|h|r", -- [2]
+						"|cff0070dd|Hitem:142064::::::::110:260::11::::|h[Gale Wind of the Order]|h|r", -- [3]
+					},
+					["Powers"] = {
+						[1348] = 1,
+						[1052] = 1,
+						[1063] = 3,
+						[1066] = 3,
+						[1064] = 3,
+						[1061] = 3,
+						[1054] = 1,
+					},
+				},
+			},
+		},
+	},
+	["global"] = {
+		["Region"] = "US",
+	},
+	["profileKeys"] = {
+		["Ferford - Proudmoore"] = "Ferford - Proudmoore",
+	},
+	["profiles"] = {
+		["Ferford - Proudmoore"] = {
+		},
+	},
+}

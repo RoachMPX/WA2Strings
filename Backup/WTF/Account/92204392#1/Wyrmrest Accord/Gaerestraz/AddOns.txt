@@ -1,0 +1,7 @@
+TidyPlates: enabled
+TidyPlatesHub: enabled
+TidyPlatesWidgets: enabled
+TidyPlates_Graphite: enabled
+TidyPlates_Grey: enabled
+TidyPlates_Neon: enabled
+TidyPlates_Quatre: enabled

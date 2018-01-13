@@ -1,0 +1,100 @@
+
+TradeSkillMaster_MailingDB = {
+	["g@ @sendDelay"] = 0.5,
+	["g@ @helpPlatesShown"] = {
+		["other"] = true,
+		["inbox"] = true,
+		["groups"] = true,
+		["quickSend"] = true,
+	},
+	["_hash"] = 3711258,
+	["c@Blattaris - Proudmoore@goldMailTarget"] = "",
+	["f@Horde - Proudmoore@deMailTarget"] = "",
+	["c@Ferford - Proudmoore@goldKeepAmount"] = 1000000,
+	["c@Mortheim - Wyrmrest Accord@goldKeepAmount"] = 1000000,
+	["c@Garmuul - Emerald Dream@goldKeepAmount"] = 1000000,
+	["g@ @deleteEmptyNPCMail"] = false,
+	["g@ @displayMoneyCollected"] = true,
+	["f@Alliance - Proudmoore@deMailTarget"] = "",
+	["c@Cyprinidae - Proudmoore@goldMailTarget"] = "",
+	["c@Sildris - Emerald Dream@goldMailTarget"] = "",
+	["g@ @deMaxQuality"] = 2,
+	["_version"] = 1,
+	["c@Blackxsixpan - Proudmoore@goldKeepAmount"] = 1000000,
+	["c@Gaornash - Dalaran@goldMailTarget"] = "",
+	["g@ @showReloadBtn"] = true,
+	["c@Blattaris - Proudmoore@goldKeepAmount"] = 1000000,
+	["c@Ilarian - Proudmoore@goldMailTarget"] = "",
+	["_scopeKeys"] = {
+		["char"] = {
+			"Mortheim - Wyrmrest Accord", -- [1]
+			"Emmiroth - Wyrmrest Accord", -- [2]
+			"Ferford - Proudmoore", -- [3]
+			"Blackxsixpan - Proudmoore", -- [4]
+			"Blattaris - Proudmoore", -- [5]
+			"Cyprinidae - Proudmoore", -- [6]
+			"Ilarian - Proudmoore", -- [7]
+			"Lyx - Proudmoore", -- [8]
+			"Gaornash - Dalaran", -- [9]
+			"Sildris - Emerald Dream", -- [10]
+			"Garmuul - Emerald Dream", -- [11]
+			"Lithri - Dalaran", -- [12]
+		},
+		["factionrealm"] = {
+			"Alliance - Wyrmrest Accord", -- [1]
+			"Alliance - Proudmoore", -- [2]
+			"Horde - Proudmoore", -- [3]
+			"Horde - Dalaran", -- [4]
+			"Horde - Emerald Dream", -- [5]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["realm"] = {
+			"Wyrmrest Accord", -- [1]
+			"Proudmoore", -- [2]
+			"Dalaran", -- [3]
+			"Emerald Dream", -- [4]
+		},
+	},
+	["c@Ferford - Proudmoore@goldMailTarget"] = "",
+	["f@Horde - Dalaran@deMailTarget"] = "",
+	["c@Ilarian - Proudmoore@goldKeepAmount"] = 1000000,
+	["c@Lyx - Proudmoore@goldMailTarget"] = "",
+	["c@Garmuul - Emerald Dream@goldMailTarget"] = "",
+	["g@ @inboxMessages"] = true,
+	["c@Cyprinidae - Proudmoore@goldKeepAmount"] = 1000000,
+	["g@ @defaultMailTab"] = true,
+	["g@ @keepMailSpace"] = 0,
+	["c@Sildris - Emerald Dream@goldKeepAmount"] = 1000000,
+	["g@ @autoCheck"] = true,
+	["g@ @resendDelay"] = 1,
+	["c@Emmiroth - Wyrmrest Accord@goldMailTarget"] = "",
+	["_currentProfile"] = {
+		["Cyprinidae - Proudmoore"] = "Default",
+		["Ilarian - Proudmoore"] = "Default",
+		["Blackxsixpan - Proudmoore"] = "Default",
+		["Sildris - Emerald Dream"] = "Default",
+		["Mortheim - Wyrmrest Accord"] = "Default",
+		["Gaornash - Dalaran"] = "Default",
+		["Blattaris - Proudmoore"] = "Default",
+		["Ferford - Proudmoore"] = "Default",
+		["Garmuul - Emerald Dream"] = "Default",
+		["Lithri - Dalaran"] = "Default",
+		["Lyx - Proudmoore"] = "Default",
+		["Emmiroth - Wyrmrest Accord"] = "Default",
+	},
+	["g@ @sendItemsIndividually"] = false,
+	["c@Blackxsixpan - Proudmoore@goldMailTarget"] = "",
+	["g@ @defaultPage"] = 1,
+	["f@Horde - Emerald Dream@deMailTarget"] = "",
+	["g@ @openMailSound"] = "TSM_NO_SOUND",
+	["c@Lithri - Dalaran@goldMailTarget"] = "",
+	["g@ @sendMessages"] = true,
+	["c@Lithri - Dalaran@goldKeepAmount"] = 1000000,
+	["c@Mortheim - Wyrmrest Accord@goldMailTarget"] = "",
+	["f@Alliance - Wyrmrest Accord@deMailTarget"] = "",
+	["c@Gaornash - Dalaran@goldKeepAmount"] = 1000000,
+	["c@Emmiroth - Wyrmrest Accord@goldKeepAmount"] = 1000000,
+	["c@Lyx - Proudmoore@goldKeepAmount"] = 1000000,
+}

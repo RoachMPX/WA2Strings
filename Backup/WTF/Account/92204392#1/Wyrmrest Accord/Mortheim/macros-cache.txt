@@ -1,0 +1,33 @@
+VER 3 0100000000000001 "Bonestorm" "458717"
+#showtooltip Bonestorm
+/cast Bonestorm
+//yell BOOOOOONE STOOOOOORM!
+/run PlaySoundFile("Sound\\Creature\\LordMarrowgar\\IC_Marrowgar_WW01.wav")
+END
+VER 3 010000000000000B "Corpse Shield" "INV_PET_GHOUL"
+#showtooltip Corpse Shield
+/cast Corpse Shield
+/cast [pet:Skeleton] Huddle
+END
+VER 3 0100000000000008 "Dispell me macro" "1394953"
+/rw DISPELL PLZ
+/y DISPELL ME PLZ
+END
+VER 3 010000000000000A "Obliteration" "INV_AXE_114"
+#showtooltip Obliteration
+/cast Obliteration
+/cast Frost Strike
+END
+VER 3 0100000000000004 "Pet Hook" "1060561"
+#showtooltip
+/cast [pet:abomination] hook
+END
+VER 3 0100000000000002 "Prospecting Ore" "INV_MISC_QUESTIONMARK"
+/use Prospecting
+//use Leystone Ore
+/use felslate
+END
+VER 3 0100000000000009 "Raise Ally" "SPELL_SHADOW_DEADOFNIGHT"
+#showtooltip Raise Ally
+/cast [@mouseover,help][@target]Raise Ally
+END

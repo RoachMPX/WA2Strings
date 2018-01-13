@@ -1,0 +1,72 @@
+
+mrpSaved = {
+	["Profiles"] = {
+		["Default"] = {
+			["HH"] = "Stormwind",
+			["HI"] = "Born to a mage couple in Dalaran, Ferdinand Bradford was expected to continue his line as a mage, Despite having an aptitude for magic in an early age, he loathed the discipline and passion needed to be a successful magic user (Also why he is adept at enchanting).  Eventually, he started working as a rogue in the sewers and as time passed he was enlisted in the SI:7.\n\nAs Rogue operating on behalf of the SI:7, Ferdinand helps in recon missions and other things, often times assisting his superiors in assassinating high profile targets, and that with his allegiance to Ravenholdt, Ferford often helps to dispatch threats created by the Syndicate, a rival of the Ravenholdt.\n\nDespite his job as a rogue, Ferdinand likes helping his peers on misc and other stuffs like fishing, as well as hunting and reading books scattered around azeroth. Often found wandered in the libraries in the Shrine of Stars and Dalaran, Ferford enjoys reading about the past and History of the world, being intrigued by these things since he was young.",
+			["DE"] = "Covered from head to toe, seemingly discreet and calm in appearance, Ferford is what one expects to see of a Rogue at a glance.",
+			["NT"] = "SI:7 Agent",
+			["FC"] = "1",
+			["HB"] = "Dalaran",
+			["AH"] = "180",
+			["NA"] = "Ferdinand Bradford",
+			["RA"] = "Human",
+			["AW"] = "70",
+			["AE"] = "Blue",
+			["FR"] = "1",
+			["NI"] = "Ferford",
+			["AG"] = "28",
+			["MO"] = "Nothing is true, everything is permitted",
+			["NH"] = "Ravenholdt",
+			["CU"] = "Contemplating...",
+		},
+	},
+	["Options"] = {
+		["Enabled"] = true,
+		["TooltipStyle"] = 2,
+		["ShowBiographyInBrowser"] = true,
+		["HeightUnit"] = 2,
+		["WeightUnit"] = 2,
+		["ShowButton"] = true,
+		["FormAutoChange"] = true,
+		["EquipSetAutoChange"] = true,
+		["ShowRPNamesInChat"] = true,
+	},
+	["SelectedProfile"] = "Default",
+	["PreviousProfileManual"] = "Default",
+	["Versions"] = {
+		["HH"] = 31,
+		["HI"] = 17,
+		["DE"] = 17,
+		["AE"] = 30,
+		["GC"] = 31,
+		["AG"] = 30,
+		["VP"] = 31,
+		["AH"] = 30,
+		["NA"] = 32,
+		["TT"] = 40,
+		["RA"] = 30,
+		["AW"] = 30,
+		["NT"] = 28,
+		["VA"] = 31,
+		["HB"] = 31,
+		["NI"] = 30,
+		["NH"] = 16,
+		["GU"] = 12,
+		["FR"] = 30,
+		["GR"] = 31,
+		["GS"] = 31,
+		["MO"] = 16,
+		["FC"] = 30,
+		["CU"] = 31,
+	},
+	["Positions"] = {
+		["Button"] = {
+			"BOTTOMLEFT", -- [1]
+			2.81281924247742, -- [2]
+			156.749664306641, -- [3]
+		},
+	},
+	["Build"] = 402,
+}
+mdbSaved = nil

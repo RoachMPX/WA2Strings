@@ -1,0 +1,8 @@
+Version: 1
+Frame: Recount_MainWindow
+FrameLevel: 22
+Anchor: CENTER
+X: -311
+Y: -202
+W: 140
+H: 200

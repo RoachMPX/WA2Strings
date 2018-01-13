@@ -1,0 +1,92 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Yeeragor"] = {
+			["GUID"] = "Player-1171-076ED934",
+			["LastEventHealth"] = {
+				"6132 (100%)", -- [1]
+				"6720 (100%)", -- [2]
+				"6720 (100%)", -- [3]
+				"6720 (100%)", -- [4]
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+			},
+			["enClass"] = "PRIEST",
+			["unit"] = "Yeeragor",
+			["level"] = 41,
+			["LastFightIn"] = 0,
+			["LastEventNum"] = {
+				12.9810828440965, -- [1]
+				11.8452380952381, -- [2]
+				11.8452380952381, -- [3]
+				11.8452380952381, -- [4]
+			},
+			["type"] = "Self",
+			["Owner"] = false,
+			["NextEventNum"] = 5,
+			["LastEventHealthNum"] = {
+				100, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+			},
+			["LastEvents"] = {
+				"Yeeragor Flash Heal Yeeragor Hit +796 (796 overheal)", -- [1]
+				"Yeeragor Flash Heal Yeeragor Hit +796 (413 overheal)", -- [2]
+				"Yeeragor Flash Heal Yeeragor Hit +796 (796 overheal)", -- [3]
+				"Yeeragor Flash Heal Yeeragor Hit +796 (796 overheal)", -- [4]
+			},
+			["Name"] = "Yeeragor",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+			},
+			["LastEventTimes"] = {
+				2791528.176, -- [1]
+				2791542.809, -- [2]
+				2791544.139, -- [3]
+				2791553.2, -- [4]
+			},
+			["Fights"] = {
+				["CurrentFightData"] = {
+					["ShieldedWho"] = {
+						["Yeeragor"] = {
+							["Details"] = {
+								["Power Word: Shield"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+				},
+				["OverallData"] = {
+					["ShieldedWho"] = {
+						["Yeeragor"] = {
+							["Details"] = {
+								["Power Word: Shield"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 2791527.259,
+			["LastActive"] = 2791552.248,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

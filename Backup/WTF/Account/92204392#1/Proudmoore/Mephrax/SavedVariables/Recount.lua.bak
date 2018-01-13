@@ -1,0 +1,45 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Dolpha-Stormrage"] = {
+			["GUID"] = "Player-60-05D9652D",
+			["LastEventHealth"] = {
+				137177, -- [1]
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+			},
+			["enClass"] = "PALADIN",
+			["unit"] = true,
+			["level"] = 98,
+			["LastFightIn"] = 0,
+			["type"] = "Ungrouped",
+			["Owner"] = false,
+			["LastAbility"] = 230059.649,
+			["NextEventNum"] = 2,
+			["LastEventIncoming"] = {
+				true, -- [1]
+			},
+			["LastEvents"] = {
+				"Dolpha-Stormrage Greater Blessing of Wisdom Dolpha-Stormrage Tick +286", -- [1]
+			},
+			["Name"] = "Dolpha-Stormrage",
+			["UnitLockout"] = 229963.261,
+			["Fights"] = {
+			},
+			["LastEventTimes"] = {
+				229963.969, -- [1]
+			},
+			["LastEventHealthMax"] = {
+				138480, -- [1]
+			},
+			["LastActive"] = 229963.261,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

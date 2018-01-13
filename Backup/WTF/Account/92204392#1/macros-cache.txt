@@ -1,0 +1,23 @@
+VER 3 0000000000000007 "Focus Interrupt" "INV_MISC_QUESTIONMARK"
+#showtooltip Mind Freeze
+/Cast [target=focus] Mind Freeze
+END
+VER 3 0000000000000004 "Hidden Artifact " "1345222"
+/run local _,_,_,a, b = GetAchievementCriteriaInfo(11152,1) local _,_,_,c, d = GetAchievementCriteriaInfo(11153,1) local _,_,_,e, f = GetAchievementCriteriaInfo(11154,1) print("Dungeons: "..a.."/"..b) print("WQs: "..c.."/"..d) print("Kills: "..e.."/"..f)
+END
+VER 3 0000000000000001 "Kneel" "133066"
+/kneel
+END
+VER 3 0000000000000003 "Kosumoth Macro" "132291"
+/run local a={43730,43731,43732,43733,43734,43735,43736,43737,43760,43761}for i,q in ipairs(a)do print(format("Orb %s: %s",i, IsQuestFlaggedCompleted(q) and "\124cFF00FF00Done\124r" or "\124cFFFF0000Not Done\124r")) end
+END
+VER 3 0000000000000006 "Mind-Worm" "136121"
+/run local a={45470,47207,47208,47209,47210,47211,47212,47213}for i,q in ipairs(a)do print(format("Page %s: %s",i, IsQuestFlaggedCompleted(q) and "\124cFF00FF00Done\124r" or "\124cFFFF0000Not Done\124r")) end
+END
+VER 3 0000000000000002 "Start Quest" "136075"
+/script SelectGossipAvailableQuest(1) 
+/script AcceptQuest()
+END
+VER 3 0000000000000005 "Yell Macro" "INV_MISC_GEM_SAPPHIRE_01"
+/y DISPELL ME
+END

@@ -1,0 +1,22 @@
+VER 3 0100000000000004 "Bladestorm" "INV_MISC_QUESTIONMARK"
+#showtooltip Bladestorm
+/run local _,_,_,_,_,_,expires = UnitAura("player", "Bladestorm") if expires and expires - GetTime() <= 2 then CancelUnitBuff("player ", "Bladestorm") end
+/run UIErrorsFrame:Clear()
+/cast Bladestorm
+//cancelaura Bladestorm
+END
+VER 3 0100000000000001 "Charge" "INV_MISC_QUESTIONMARK"
+#showtooltip Charge
+/cancelaura Bladestorm
+/cast [harm] Charge; [help] Intervene
+END
+VER 3 0100000000000002 "Heroic Leap" "INV_MISC_QUESTIONMARK"
+#showtooltip Heroic Leap
+/cancelaura Bladestorm
+/cast Heroic Leap
+END
+VER 3 0100000000000003 "Pummel" "INV_MISC_QUESTIONMARK"
+#showtooltip Pummel
+/cancelaura Bladestorm
+/cast Pummel
+END

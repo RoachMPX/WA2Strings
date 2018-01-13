@@ -1,0 +1,2990 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Röach"] = {
+			["GUID"] = "Player-5-0A27AC68",
+			["LastEventHealth"] = {
+				"522 (99%)", -- [1]
+				"525 (100%)", -- [2]
+				"525 (100%)", -- [3]
+				"525 (100%)", -- [4]
+				"525 (100%)", -- [5]
+				"524 (99%)", -- [6]
+				"524 (99%)", -- [7]
+				"525 (100%)", -- [8]
+				"525 (100%)", -- [9]
+				"525 (100%)", -- [10]
+				"525 (100%)", -- [11]
+				"525 (100%)", -- [12]
+				"525 (100%)", -- [13]
+				"525 (100%)", -- [14]
+				"525 (100%)", -- [15]
+				"525 (100%)", -- [16]
+				"525 (100%)", -- [17]
+				"525 (100%)", -- [18]
+				"525 (100%)", -- [19]
+				"523 (99%)", -- [20]
+				"521 (99%)", -- [21]
+				"521 (99%)", -- [22]
+				"521 (99%)", -- [23]
+				"525 (100%)", -- [24]
+				"525 (100%)", -- [25]
+				"525 (100%)", -- [26]
+				"525 (100%)", -- [27]
+				"523 (99%)", -- [28]
+				"521 (99%)", -- [29]
+				"521 (99%)", -- [30]
+				"525 (100%)", -- [31]
+				"525 (100%)", -- [32]
+				"525 (100%)", -- [33]
+				"523 (99%)", -- [34]
+				"521 (99%)", -- [35]
+				"525 (100%)", -- [36]
+				"525 (100%)", -- [37]
+				"525 (100%)", -- [38]
+				"525 (100%)", -- [39]
+				"523 (99%)", -- [40]
+				"525 (100%)", -- [41]
+				"525 (100%)", -- [42]
+				"525 (100%)", -- [43]
+				"525 (100%)", -- [44]
+				"522 (99%)", -- [45]
+				"525 (100%)", -- [46]
+				"525 (100%)", -- [47]
+				"576 (100%)", -- [48]
+				"576 (100%)", -- [49]
+				"576 (100%)", -- [50]
+			},
+			["LastAttackedBy"] = "Mutated Root Lasher",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"HEAL", -- [24]
+				"HEAL", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"HEAL", -- [31]
+				"HEAL", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"HEAL", -- [36]
+				"HEAL", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"HEAL", -- [41]
+				"HEAL", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"HEAL", -- [46]
+				"HEAL", -- [47]
+				"DAMAGE", -- [48]
+				"HEAL", -- [49]
+				"HEAL", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					0, -- [1]
+				},
+				["Healing"] = {
+					31, -- [1]
+				},
+				["DamageTaken"] = {
+					40, -- [1]
+				},
+				["HealingTaken"] = {
+					31, -- [1]
+				},
+				["Overhealing"] = {
+					344, -- [1]
+				},
+				["TimeDamage"] = {
+					90.62, -- [1]
+				},
+				["RageGain"] = {
+					100, -- [1]
+				},
+				["ActiveTime"] = {
+					90.62, -- [1]
+				},
+				["Damage"] = {
+					1955, -- [1]
+				},
+			},
+			["enClass"] = "WARRIOR",
+			["unit"] = "Röach",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 7,
+			["LastEventNum"] = {
+				nil, -- [1]
+				2.0952380952381, -- [2]
+				2.0952380952381, -- [3]
+				nil, -- [4]
+				0.19047619047619, -- [5]
+				0.380952380952381, -- [6]
+				nil, -- [7]
+				1.9047619047619, -- [8]
+				1.9047619047619, -- [9]
+				nil, -- [10]
+				nil, -- [11]
+				1.9047619047619, -- [12]
+				2.0952380952381, -- [13]
+				nil, -- [14]
+				0.380952380952381, -- [15]
+				2.0952380952381, -- [16]
+				1.9047619047619, -- [17]
+				nil, -- [18]
+				0.380952380952381, -- [19]
+				0.380952380952381, -- [20]
+				nil, -- [21]
+				0.19047619047619, -- [22]
+				nil, -- [23]
+				2.0952380952381, -- [24]
+				2.0952380952381, -- [25]
+				nil, -- [26]
+				0.380952380952381, -- [27]
+				0.380952380952381, -- [28]
+				nil, -- [29]
+				nil, -- [30]
+				2.0952380952381, -- [31]
+				2.0952380952381, -- [32]
+				0.380952380952381, -- [33]
+				0.380952380952381, -- [34]
+				nil, -- [35]
+				2.0952380952381, -- [36]
+				1.9047619047619, -- [37]
+				0.380952380952381, -- [38]
+				nil, -- [39]
+				nil, -- [40]
+				1.9047619047619, -- [41]
+				2.0952380952381, -- [42]
+				nil, -- [43]
+				0.571428571428571, -- [44]
+				nil, -- [45]
+				2.0952380952381, -- [46]
+				2.0952380952381, -- [47]
+				nil, -- [48]
+				2.08333333333333, -- [49]
+				2.08333333333333, -- [50]
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 3,
+			["TimeLast"] = {
+				["TimeHeal"] = 1289509.726,
+				["OVERALL"] = 1289528.723,
+				["DamageTaken"] = 1289518.726,
+				["HealingTaken"] = 1289509.726,
+				["Overhealing"] = 1289528.723,
+				["TimeDamage"] = 1289528.723,
+				["RageGain"] = 1289528.723,
+				["Healing"] = 1289509.726,
+				["ActiveTime"] = 1289528.723,
+				["Damage"] = 1289528.723,
+			},
+			["Owner"] = false,
+			["LastAbility"] = 1289529.582,
+			["NextEventNum"] = 1,
+			["LastEventHealthNum"] = {
+				99.4285714285714, -- [1]
+				100, -- [2]
+				100, -- [3]
+				100, -- [4]
+				100, -- [5]
+				99.8095238095238, -- [6]
+				99.8095238095238, -- [7]
+				100, -- [8]
+				100, -- [9]
+				100, -- [10]
+				100, -- [11]
+				100, -- [12]
+				100, -- [13]
+				100, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				99.6190476190476, -- [20]
+				99.2380952380952, -- [21]
+				99.2380952380952, -- [22]
+				99.2380952380952, -- [23]
+				100, -- [24]
+				100, -- [25]
+				100, -- [26]
+				100, -- [27]
+				99.6190476190476, -- [28]
+				99.2380952380952, -- [29]
+				99.2380952380952, -- [30]
+				100, -- [31]
+				100, -- [32]
+				100, -- [33]
+				99.6190476190476, -- [34]
+				99.2380952380952, -- [35]
+				100, -- [36]
+				100, -- [37]
+				100, -- [38]
+				100, -- [39]
+				99.6190476190476, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				99.4285714285714, -- [45]
+				100, -- [46]
+				100, -- [47]
+				100, -- [48]
+				100, -- [49]
+				100, -- [50]
+			},
+			["LastEvents"] = {
+				"Röach Heroic Strike Mutated Root Lasher Hit -42 (Physical)", -- [1]
+				"Röach Swift Hand of Justice Röach Hit +11 (8 overheal)", -- [2]
+				"Röach Swift Hand of Justice Röach Hit +11 (11 overheal)", -- [3]
+				"Röach Melee Mutated Root Lasher Hit -38 (Physical)", -- [4]
+				"Mutated Root Lasher Melee Röach Hit -1 (Physical)", -- [5]
+				"Mutated Root Lasher Melee Röach Hit -2 (Physical)", -- [6]
+				"Röach Heroic Strike Mutated Root Lasher Hit -43 (Physical)", -- [7]
+				"Röach Swift Hand of Justice Röach Hit +10 (7 overheal)", -- [8]
+				"Röach Swift Hand of Justice Röach Hit +10 (10 overheal)", -- [9]
+				"Röach Melee Mutated Root Lasher Crit -88 (Physical)", -- [10]
+				"Mutated Root Lasher Melee Röach Parry (1)", -- [11]
+				"Röach Swift Hand of Justice Röach Hit +10 (10 overheal)", -- [12]
+				"Röach Swift Hand of Justice Röach Hit +11 (11 overheal)", -- [13]
+				"Röach Melee Mutated Root Lasher Crit -83 (Physical)", -- [14]
+				"Mutated Root Lasher Melee Röach Hit -2 (Physical)", -- [15]
+				"Röach Swift Hand of Justice Röach Hit +11 (9 overheal)", -- [16]
+				"Röach Swift Hand of Justice Röach Hit +10 (10 overheal)", -- [17]
+				"Röach Melee Mutated Root Lasher Hit -39 (Physical)", -- [18]
+				"Mutated Root Lasher Melee Röach Hit -2 (Physical)", -- [19]
+				"Mutated Root Lasher Melee Röach Hit -2 (Physical)", -- [20]
+				"Röach Melee Mutated Root Lasher Hit -44 (Physical)", -- [21]
+				"Mutated Root Lasher Melee Röach Hit -1 (Physical)", -- [22]
+				"Röach Heroic Strike Mutated Root Lasher Crit -76 (Physical)", -- [23]
+				"Röach Swift Hand of Justice Röach Hit +11 (6 overheal)", -- [24]
+				"Röach Swift Hand of Justice Röach Hit +11 (11 overheal)", -- [25]
+				"Mutated Root Lasher Melee Röach Miss (1)", -- [26]
+				"Mutated Root Lasher Melee Röach Hit -2 (Physical)", -- [27]
+				"Mutated Root Lasher Melee Röach Hit -2 (Physical)", -- [28]
+				"Mutated Root Lasher Melee Röach Parry (1)", -- [29]
+				"Röach Melee Mutated Root Lasher Crit -86 (Physical)", -- [30]
+				"Röach Swift Hand of Justice Röach Hit +11 (7 overheal)", -- [31]
+				"Röach Swift Hand of Justice Röach Hit +11 (11 overheal)", -- [32]
+				"Mutated Root Lasher Melee Röach Hit -2 (Physical)", -- [33]
+				"Mutated Root Lasher Melee Röach Hit -2 (Physical)", -- [34]
+				"Röach Melee Mutated Root Lasher Hit -40 (Physical)", -- [35]
+				"Röach Swift Hand of Justice Röach Hit +11 (7 overheal)", -- [36]
+				"Röach Swift Hand of Justice Röach Hit +10 (10 overheal)", -- [37]
+				"Mutated Root Lasher Melee Röach Hit -2 (Physical)", -- [38]
+				"Röach Heroic Strike Mutated Root Lasher Hit -42 (Physical)", -- [39]
+				"Röach Melee Mutated Root Lasher Hit -38 (Physical)", -- [40]
+				"Röach Swift Hand of Justice Röach Hit +10 (8 overheal)", -- [41]
+				"Röach Swift Hand of Justice Röach Hit +11 (11 overheal)", -- [42]
+				"Röach Melee Mutated Root Lasher Hit -41 (Physical)", -- [43]
+				"Mutated Root Lasher Melee Röach Hit -3 (Physical)", -- [44]
+				"Röach Heroic Strike Mutated Root Lasher Hit -38 (Physical)", -- [45]
+				"Röach Swift Hand of Justice Röach Hit +11 (11 overheal)", -- [46]
+				"Röach Swift Hand of Justice Röach Hit +11 (11 overheal)", -- [47]
+				"Röach Melee Mutated Root Lasher Crit -84 (Physical)", -- [48]
+				"Röach Swift Hand of Justice Röach Hit +12 (12 overheal)", -- [49]
+				"Röach Swift Hand of Justice Röach Hit +12 (12 overheal)", -- [50]
+			},
+			["Name"] = "Röach",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				true, -- [3]
+				false, -- [4]
+				true, -- [5]
+				true, -- [6]
+				false, -- [7]
+				true, -- [8]
+				true, -- [9]
+				false, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				false, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				false, -- [18]
+				true, -- [19]
+				true, -- [20]
+				false, -- [21]
+				true, -- [22]
+				false, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				false, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				true, -- [34]
+				false, -- [35]
+				true, -- [36]
+				true, -- [37]
+				true, -- [38]
+				false, -- [39]
+				false, -- [40]
+				true, -- [41]
+				true, -- [42]
+				false, -- [43]
+				true, -- [44]
+				false, -- [45]
+				true, -- [46]
+				true, -- [47]
+				false, -- [48]
+				true, -- [49]
+				true, -- [50]
+			},
+			["LastEventTimes"] = {
+				1289461.819, -- [1]
+				1289461.819, -- [2]
+				1289461.819, -- [3]
+				1289467.555, -- [4]
+				1289467.555, -- [5]
+				1289469.55, -- [6]
+				1289469.55, -- [7]
+				1289469.55, -- [8]
+				1289469.55, -- [9]
+				1289477.468, -- [10]
+				1289477.468, -- [11]
+				1289477.468, -- [12]
+				1289477.468, -- [13]
+				1289484.385, -- [14]
+				1289484.385, -- [15]
+				1289484.385, -- [16]
+				1289484.385, -- [17]
+				1289492.166, -- [18]
+				1289492.166, -- [19]
+				1289494.169, -- [20]
+				1289496.008, -- [21]
+				1289496.008, -- [22]
+				1289496.008, -- [23]
+				1289496.008, -- [24]
+				1289496.008, -- [25]
+				1289496.11, -- [26]
+				1289498.153, -- [27]
+				1289500.188, -- [28]
+				1289502.182, -- [29]
+				1289503.962, -- [30]
+				1289503.962, -- [31]
+				1289503.962, -- [32]
+				1289505.686, -- [33]
+				1289507.709, -- [34]
+				1289508.182, -- [35]
+				1289508.182, -- [36]
+				1289508.182, -- [37]
+				1289510.254, -- [38]
+				1289510.254, -- [39]
+				1289510.575, -- [40]
+				1289510.575, -- [41]
+				1289510.575, -- [42]
+				1289519.528, -- [43]
+				1289519.528, -- [44]
+				1289519.741, -- [45]
+				1289519.741, -- [46]
+				1289519.741, -- [47]
+				1289529.582, -- [48]
+				1289529.582, -- [49]
+				1289529.582, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 1,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 1,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 99,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 44,
+						["Physical"] = 55,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 44,
+								},
+								["Heroic Strike"] = {
+									["count"] = 55,
+								},
+							},
+							["amount"] = 99,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 19,
+					},
+					["TimeHealing"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 19,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 19,
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 1,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1,
+						},
+					},
+					["WhoHealed"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 3.5,
+					["Healing"] = 1,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 44,
+									["min"] = 44,
+									["count"] = 1,
+									["amount"] = 44,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 44,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 55,
+									["min"] = 55,
+									["count"] = 1,
+									["amount"] = 55,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 55,
+						},
+					},
+					["HealingTaken"] = 1,
+					["RageGain"] = 0,
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["TimeHealing"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 11,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 52,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 52,
+						},
+					},
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 14,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["DamageTaken"] = 13,
+					["RageGainedFrom"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 14,
+					["ElementTaken"] = {
+						["Melee"] = 13,
+					},
+					["RageGained"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Röach"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["Damage"] = 285,
+					["HealingTaken"] = 13,
+					["TimeHeal"] = 0,
+					["WhoHealed"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 13,
+								},
+							},
+							["amount"] = 13,
+						},
+					},
+					["HealedWho"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 13,
+								},
+							},
+							["amount"] = 13,
+						},
+					},
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 13,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 13,
+						},
+					},
+					["Healing"] = 13,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["Overhealing"] = 52,
+					["ElementDone"] = {
+						["Melee"] = 209,
+						["Physical"] = 76,
+					},
+					["RageGain"] = 20,
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 209,
+								},
+								["Heroic Strike"] = {
+									["count"] = 76,
+								},
+							},
+							["amount"] = 285,
+						},
+					},
+					["TimeDamage"] = 14,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 14,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 86,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 86,
+								},
+								["Hit"] = {
+									["max"] = 44,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 123,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 209,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 76,
+									["min"] = 76,
+									["count"] = 1,
+									["amount"] = 76,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 76,
+						},
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 13,
+								},
+							},
+							["amount"] = 13,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 3,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 3,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 81,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 38,
+						["Physical"] = 43,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 38,
+								},
+								["Heroic Strike"] = {
+									["count"] = 43,
+								},
+							},
+							["amount"] = 81,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 10,
+									["min"] = 7,
+									["count"] = 2,
+									["amount"] = 17,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 17,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 17,
+					["TimeSpent"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5.5,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3,
+									["min"] = 3,
+									["count"] = 1,
+									["amount"] = 3,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3,
+						},
+					},
+					["WhoHealed"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 5.5,
+					["Healing"] = 3,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 38,
+									["min"] = 38,
+									["count"] = 1,
+									["amount"] = 38,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 38,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 43,
+									["min"] = 43,
+									["count"] = 1,
+									["amount"] = 43,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 43,
+						},
+					},
+					["HealingTaken"] = 3,
+					["RageGain"] = 0,
+					["TimeDamage"] = 5.5,
+					["TimeDamaging"] = {
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 5.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 3,
+					["RageGainedFrom"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+								["Parry"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 3,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 84,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 42,
+						["Physical"] = 42,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 42,
+								},
+								["Heroic Strike"] = {
+									["count"] = 42,
+								},
+							},
+							["amount"] = 84,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 11,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 19,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Röach"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+					},
+					["HealedWho"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 19,
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 1.2,
+								},
+							},
+							["amount"] = 4.7,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3,
+									["min"] = 3,
+									["count"] = 1,
+									["amount"] = 3,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3,
+						},
+					},
+					["WhoHealed"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 4.7,
+					["Healing"] = 3,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 42,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 42,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 42,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 42,
+									["min"] = 42,
+									["count"] = 1,
+									["amount"] = 42,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 42,
+						},
+					},
+					["HealingTaken"] = 3,
+					["RageGain"] = 40,
+					["TimeDamage"] = 4.7,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 1.2,
+								},
+							},
+							["amount"] = 4.7,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 84,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 84,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 84,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 84,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 12,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 24,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 24,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Röach"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["HealedWho"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 24,
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 3.5,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 84,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 84,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 84,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 20,
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 84,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 84,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 84,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 84,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 12,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 24,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 24,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Röach"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["HealedWho"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 24,
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 3.5,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 84,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 84,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 84,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 20,
+					["TimeDamage"] = 3.5,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3.5,
+								},
+								["Heroic Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["ElementDoneBlock"] = {
+						["Melee"] = 19,
+					},
+					["TimeHealing"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 12,
+									["min"] = 6,
+									["count"] = 36,
+									["amount"] = 344,
+								},
+							},
+							["count"] = 36,
+							["amount"] = 344,
+						},
+					},
+					["TimeSpent"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 27.83,
+								},
+								["Heroic Strike"] = {
+									["count"] = 3.25,
+								},
+							},
+							["amount"] = 31.08,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 35.32,
+								},
+								["Heroic Strike"] = {
+									["count"] = 5.48,
+								},
+							},
+							["amount"] = 40.8,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 12.7,
+								},
+								["Heroic Strike"] = {
+									["count"] = 6.04,
+								},
+							},
+							["amount"] = 18.74,
+						},
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 40,
+					["RageGainedFrom"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Charge"] = {
+									["count"] = 100,
+								},
+							},
+							["amount"] = 100,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 32,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 32,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 32,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 32,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 90.62,
+					["ElementTaken"] = {
+						["Melee"] = 40,
+					},
+					["RageGained"] = {
+						["Charge"] = {
+							["Details"] = {
+								["Röach"] = {
+									["count"] = 100,
+								},
+							},
+							["amount"] = 100,
+						},
+					},
+					["Damage"] = 1955,
+					["RageGain"] = 100,
+					["TimeHeal"] = 0,
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Parry"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 26,
+								},
+							},
+							["amount"] = 32,
+						},
+					},
+					["Overhealing"] = 344,
+					["WhoHealed"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 31,
+								},
+							},
+							["amount"] = 31,
+						},
+					},
+					["Healing"] = 31,
+					["HealedWho"] = {
+						["Röach"] = {
+							["Details"] = {
+								["Swift Hand of Justice"] = {
+									["count"] = 31,
+								},
+							},
+							["amount"] = 31,
+						},
+					},
+					["Heals"] = {
+						["Swift Hand of Justice"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 5,
+									["min"] = 1,
+									["count"] = 13,
+									["amount"] = 31,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 31,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 1489,
+						["Physical"] = 466,
+					},
+					["HealingTaken"] = 31,
+					["DamagedWho"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 581,
+								},
+								["Heroic Strike"] = {
+									["count"] = 115,
+								},
+							},
+							["amount"] = 696,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 285,
+								},
+								["Heroic Strike"] = {
+									["count"] = 110,
+								},
+							},
+							["amount"] = 395,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 623,
+								},
+								["Heroic Strike"] = {
+									["count"] = 241,
+								},
+							},
+							["amount"] = 864,
+						},
+					},
+					["TimeDamage"] = 90.62,
+					["TimeDamaging"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 27.83,
+								},
+								["Heroic Strike"] = {
+									["count"] = 3.25,
+								},
+							},
+							["amount"] = 31.08,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 12.7,
+								},
+								["Heroic Strike"] = {
+									["count"] = 6.04,
+								},
+							},
+							["amount"] = 18.74,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 35.32,
+								},
+								["Heroic Strike"] = {
+									["count"] = 5.48,
+								},
+							},
+							["amount"] = 40.8,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 44,
+									["min"] = 44,
+									["count"] = 1,
+									["amount"] = 44,
+								},
+								["Crit"] = {
+									["max"] = 117,
+									["min"] = 83,
+									["count"] = 7,
+									["amount"] = 686,
+								},
+								["Hit"] = {
+									["max"] = 66,
+									["min"] = 38,
+									["count"] = 15,
+									["amount"] = 759,
+								},
+							},
+							["count"] = 23,
+							["amount"] = 1489,
+						},
+						["Heroic Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 76,
+									["min"] = 76,
+									["count"] = 1,
+									["amount"] = 76,
+								},
+								["Hit"] = {
+									["max"] = 60,
+									["min"] = 38,
+									["count"] = 8,
+									["amount"] = 390,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 466,
+						},
+					},
+					["WhoDamaged"] = {
+						["Volatile Mutation"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Vale Moth"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Mutated Root Lasher"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 26,
+								},
+							},
+							["amount"] = 26,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 16,
+								},
+							},
+							["amount"] = 23,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1289162.723,
+			["LastActive"] = 1289528.723,
+		},
+	},
+	["FightNum"] = 8,
+	["CombatTimes"] = {
+		{
+			1289196.726, -- [1]
+			1289199.732, -- [2]
+			"23:14:44", -- [3]
+			"23:14:46", -- [4]
+			"Vale Moth", -- [5]
+		}, -- [1]
+		{
+			1289270.726, -- [1]
+			1289273.727, -- [2]
+			"23:15:58", -- [3]
+			"23:16:00", -- [4]
+			"Volatile Mutation", -- [5]
+		}, -- [2]
+		{
+			1289276.723, -- [1]
+			1289279.731, -- [2]
+			"23:16:04", -- [3]
+			"23:16:06", -- [4]
+			"Volatile Mutation", -- [5]
+		}, -- [3]
+		{
+			1289290.729, -- [1]
+			1289293.731, -- [2]
+			"23:16:18", -- [3]
+			"23:16:20", -- [4]
+			"Volatile Mutation", -- [5]
+		}, -- [4]
+		{
+			1289458.734, -- [1]
+			1289462.722, -- [2]
+			"23:19:06", -- [3]
+			"23:19:09", -- [4]
+			"Mutated Root Lasher", -- [5]
+		}, -- [5]
+		{
+			1289466.731, -- [1]
+			1289470.734, -- [2]
+			"23:19:14", -- [3]
+			"23:19:17", -- [4]
+			"Mutated Root Lasher", -- [5]
+		}, -- [6]
+		{
+			1289491.729, -- [1]
+			1289508.724, -- [2]
+			"23:19:39", -- [3]
+			"23:19:55", -- [4]
+			"Mutated Root Lasher", -- [5]
+		}, -- [7]
+		{
+			1289528.723, -- [1]
+			1289531.73, -- [2]
+			"23:20:16", -- [3]
+			"23:20:18", -- [4]
+			"Mutated Root Lasher", -- [5]
+		}, -- [8]
+	},
+	["FoughtWho"] = {
+		"Mutated Root Lasher 23:20:16-23:20:18", -- [1]
+		"Mutated Root Lasher 23:19:39-23:19:55", -- [2]
+		"Mutated Root Lasher 23:19:14-23:19:17", -- [3]
+		"Mutated Root Lasher 23:19:06-23:19:09", -- [4]
+		"Volatile Mutation 23:16:18-23:16:20", -- [5]
+	},
+}

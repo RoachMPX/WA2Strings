@@ -1,0 +1,4 @@
+MogIt: disabled
+TidyPlates: disabled
+Bartender4: enabled
+SpartanUI: enabled

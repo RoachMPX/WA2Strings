@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "Blink" "SPELL_ARCANE_BLINK"
+#showtooltip Blink
+/castsequence reset=15 blink, displacement
+END

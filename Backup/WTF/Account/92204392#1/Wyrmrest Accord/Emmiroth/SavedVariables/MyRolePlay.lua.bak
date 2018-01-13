@@ -1,0 +1,52 @@
+
+mrpSaved = {
+	["Build"] = 405,
+	["Options"] = {
+		["Enabled"] = true,
+		["TooltipStyle"] = 2,
+		["ShowBiographyInBrowser"] = true,
+		["HeightUnit"] = 2,
+		["WeightUnit"] = 2,
+		["EquipSetAutoChange"] = true,
+		["ShowRPNamesInChat"] = true,
+		["FormAutoChange"] = true,
+		["ShowButton"] = true,
+	},
+	["Versions"] = {
+		["RA"] = 34,
+		["VA"] = 34,
+		["VP"] = 34,
+		["AE"] = 34,
+		["GC"] = 34,
+		["FC"] = 34,
+		["HB"] = 23,
+		["NI"] = 13,
+		["FR"] = 33,
+		["GR"] = 34,
+		["GU"] = 9,
+		["NA"] = 35,
+		["GS"] = 34,
+		["TT"] = 41,
+	},
+	["PreviousProfileManual"] = "Default",
+	["SelectedProfile"] = "Default",
+	["Positions"] = {
+		["Button"] = {
+			"BOTTOM", -- [1]
+			-60.4916534423828, -- [2]
+			60.8883476257324, -- [3]
+		},
+	},
+	["Profiles"] = {
+		["Default"] = {
+			["HB"] = "Suramar",
+			["RA"] = "Night Elf",
+			["FR"] = "1",
+			["NI"] = "",
+			["AE"] = "Green",
+			["NA"] = "Emmiroth Shadowfury",
+			["FC"] = "1",
+		},
+	},
+}
+mdbSaved = nil
