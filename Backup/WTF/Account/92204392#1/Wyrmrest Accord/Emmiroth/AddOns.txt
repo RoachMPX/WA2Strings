@@ -45,3 +45,5 @@ DBM-TrialofValor: enabled
 DBM-WorldEvents: enabled
 TradeSkillMaster_Destroying: disabled
 TradeSkillMaster: disabled
+ShadowedUnitFrames: disabled
+ShadowedUF_Options: disabled

@@ -7,7 +7,7 @@ WeakAurasOptions: enabled
 AskMrRobot: disabled
 TradeSkillMaster: enabled
 TradeSkillMaster_Accounting: enabled
-TradeSkillMaster_AuctionDB: enabled
+TradeSkillMaster_AuctionDB: disabled
 TradeSkillMaster_Auctioning: enabled
 TradeSkillMaster_Crafting: disabled
 TradeSkillMaster_Mailing: disabled
@@ -34,7 +34,7 @@ Details_TimeAttack: enabled
 Details_TinyThreat: enabled
 Details_Vanguard: enabled
 Details_3DModelsPaths: enabled
-Details_Streamer: enabled
+Details_Streamer: disabled
 Details_RaidInfo-EmeraldNightmare: enabled
 Details_RaidInfo-Nighthold: enabled
 Details_RaidInfo-TombOfSargeras: enabled
@@ -76,6 +76,10 @@ DBM-Nighthold: enabled
 DBM-TombofSargeras: enabled
 DBM-TrialofValor: enabled
 DBM-WorldEvents: enabled
-SpartanUI_SpinCam: enabled
+SpartanUI_SpinCam: disabled
 DBM-AntorusBurningThrone: enabled
 DBM-Argus: enabled
+VuhDo: enabled
+VuhDoOptions: enabled
+ShadowedUF_Options: disabled
+ShadowedUnitFrames: disabled

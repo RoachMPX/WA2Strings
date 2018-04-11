@@ -1,22 +1,27 @@
 BINDINGMODE 0
-bind Q CLICK BT4Button17:LeftButton
-bind E CLICK BT4Button18:LeftButton
-bind R CLICK BT4Button19:LeftButton
+bind Q CLICK BT4Button18:LeftButton
+bind E CLICK BT4Button19:LeftButton
+bind R CLICK BT4Button20:LeftButton
+bind 7 NONE
+bind 8 NONE
+bind 9 NONE
+bind 0 NONE
 bind CTRL-F1 NONE
 bind SHIFT-1 SHAPESHIFTBUTTON1
-bind SHIFT-3 CLICK BT4Button24:LeftButton
+bind SHIFT-3 CLICK BT4Button57:LeftButton
 bind F1 CLICK BT4Button13:LeftButton
 bind F2 CLICK BT4Button14:LeftButton
 bind F3 CLICK BT4Button15:LeftButton
 bind F4 CLICK BT4Button16:LeftButton
-bind F5 NONE
+bind F5 CLICK BT4Button17:LeftButton
+bind F ACTIONBUTTON10
 bind V CLICK BT4Button60:LeftButton
 bind F8 MULTIACTIONBAR1BUTTON8
 bind F9 MULTIACTIONBAR1BUTTON9
 bind F10 MULTIACTIONBAR1BUTTON10
 bind F6 MULTIACTIONBAR1BUTTON6
 bind F7 MULTIACTIONBAR1BUTTON7
-bind ` CLICK BT4Button22:LeftButton
+bind ` CLICK BT4Button24:LeftButton
 bind ALT-1 CLICK BT4Button49:LeftButton
 bind ALT-2 CLICK BT4Button50:LeftButton
 bind ALT-3 CLICK BT4Button51:LeftButton
@@ -25,5 +30,9 @@ bind ALT-Q CLICK BT4Button53:LeftButton
 bind ALT-W CLICK BT4Button54:LeftButton
 bind ALT-E CLICK BT4Button55:LeftButton
 bind ALT-R CLICK BT4Button56:LeftButton
-bind SHIFT-E CLICK BT4Button57:LeftButton
+bind SHIFT-E CLICK BT4Button22:LeftButton
 bind ALT-` CLICK BT4Button23:LeftButton
+bind SHIFT-F ACTIONBUTTON9
+bind SHIFT-W ACTIONBUTTON8
+bind SHIFT-Q ACTIONBUTTON7
+bind T CLICK BT4Button21:LeftButton

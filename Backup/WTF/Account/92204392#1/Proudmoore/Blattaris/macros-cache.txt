@@ -39,3 +39,19 @@ VER 3 0100000000000005 "Templar" "INV_MISC_QUESTIONMARK"
 /tar Reanimated Templar
 //cast Dark Command
 END
+VER 3 010000000000000B "varim-hb" "INV_MISC_QUESTIONMARK"
+#showtooltip Howling Blast
+/tar Shadow
+/cast Howling Blast
+END
+VER 3 010000000000000A "varim-ob" "INV_MISC_QUESTIONMARK"
+#showtooltip Obliterate
+/tar Shadow
+/cast Obliterate
+END
+VER 3 0100000000000008 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000009 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Bla[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

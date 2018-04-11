@@ -32,6 +32,6 @@ END
 VER 3 0100000000000007 "Vanvenrup" "INV_MISC_QUESTIONMARK"
 #showtooltip Vanish
 /cast Vanish
-/cast Vendetta
-/cast Rupture
+/cast Envenom
+//cast Rupture
 END

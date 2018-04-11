@@ -47,7 +47,7 @@ DBM-WorldEvents: enabled
 TradeSkillMaster_Destroying: disabled
 TradeSkillMaster: enabled
 TradeSkillMaster_Accounting: enabled
-TradeSkillMaster_AuctionDB: enabled
+TradeSkillMaster_AuctionDB: disabled
 TradeSkillMaster_Auctioning: enabled
 TradeSkillMaster_Crafting: disabled
 TradeSkillMaster_Mailing: disabled
@@ -63,7 +63,7 @@ Details_TimeAttack: enabled
 Details_TinyThreat: enabled
 Details_Vanguard: enabled
 Details_3DModelsPaths: enabled
-Details_Streamer: enabled
+Details_Streamer: disabled
 Details_RaidInfo-EmeraldNightmare: enabled
 Details_RaidInfo-Nighthold: enabled
 Details_RaidInfo-TombOfSargeras: enabled
@@ -79,3 +79,7 @@ DBM-Party-WoD: enabled
 DBM-TombofSargeras: enabled
 DBM-AntorusBurningThrone: enabled
 DBM-Argus: enabled
+VuhDo: disabled
+VuhDoOptions: disabled
+ShadowedUF_Options: disabled
+ShadowedUnitFrames: disabled

@@ -28,9 +28,9 @@ SpartanUI_Style_Minimal: enabled
 SpartanUI_Style_Transparent: enabled
 SpartanUI_Artwork: enabled
 SpartanUI_FilmEffects: enabled
-SpartanUI_PartyFrames: enabled
+SpartanUI_PartyFrames: disabled
 SpartanUI_PlayerFrames: enabled
-SpartanUI_RaidFrames: enabled
+SpartanUI_RaidFrames: disabled
 SpartanUI_SpinCam: enabled
 SpartanUI_Style_Fel: enabled
 WeakAuras: enabled
@@ -51,3 +51,5 @@ DBM-Nighthold: enabled
 DBM-TrialofValor: enabled
 DBM-WorldEvents: enabled
 TradeSkillMaster_Destroying: disabled
+ShadowedUnitFrames: enabled
+ShadowedUF_Options: enabled

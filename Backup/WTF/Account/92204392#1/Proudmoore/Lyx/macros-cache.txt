@@ -1,3 +1,23 @@
+VER 3 010000000000000C "Detox" "INV_MISC_QUESTIONMARK"
+#showtooltip Detox
+/cast [@mouseover,help,nodead][] Detox
+END
+VER 3 0100000000000004 "Effuse" "INV_MISC_QUESTIONMARK"
+#showtooltip Effuse
+/cast [@mouseover,help,nodead][] Effuse
+END
+VER 3 0100000000000003 "Enveloping Mist" "INV_MISC_QUESTIONMARK"
+#showtooltip Enveloping Mist
+/cast [@mouseover,help,nodead][] Enveloping Mist
+END
+VER 3 010000000000000A "Fistweaving" "INV_MISC_QUESTIONMARK"
+#showtooltip Rising Sun Kick
+/castsequence Rising Sun Kick, Blackout Kick, Tiger Palm
+END
+VER 3 0100000000000009 "Life Cocoon" "INV_MISC_QUESTIONMARK"
+#showtooltip Life Cocoon
+/cast [@mouseover,help,nodead][] Life Cocoon
+END
 VER 3 0100000000000001 "Milling" "INV_MISC_QUESTIONMARK"
 #showtooltip Milling
 /use Milling
@@ -5,4 +25,31 @@ VER 3 0100000000000001 "Milling" "INV_MISC_QUESTIONMARK"
 //use Talador Orchid
 //use Fireweed
 /use Gorgrond Flytrap
+END
+VER 3 0100000000000002 "Renewing Mist" "INV_MISC_QUESTIONMARK"
+#showtooltip Renewing Mist
+/cast [@mouseover,help,nodead][] Renewing Mist
+END
+VER 3 0100000000000005 "Sheilun's Gift" "INV_MISC_QUESTIONMARK"
+#showtooltip Sheilun's Gift
+/cast [@mouseover,help,nodead][] Sheilun's Gift
+END
+VER 3 0100000000000006 "Tiger's Lust" "651727"
+#showtooltip Tiger's Lust
+/cast [@mouseover,help,nodead][] Tiger's Lust
+END
+VER 3 010000000000000D "Trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip Tiger Palm
+/cast Tiger Palm
+/use 14
+END
+VER 3 0100000000000007 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000008 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Lyx[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000B "Zen Pulse" "INV_MISC_QUESTIONMARK"
+#showtooltip Zen Pulse
+/cast [@mouseover,help,nodead][] Zen Pulse
 END

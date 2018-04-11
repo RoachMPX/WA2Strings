@@ -1,29 +1,38 @@
 
 HandyNotes_ArgusDB = {
 	["profileKeys"] = {
-		["Blattaris - Proudmoore"] = "Blattaris - Proudmoore",
-		["Gaornash - Dalaran"] = "Gaornash - Dalaran",
-		["Ilarian - Proudmoore"] = "Ilarian - Proudmoore",
-		["Ferford - Proudmoore"] = "Ferford - Proudmoore",
 		["Cyprinidae - Proudmoore"] = "Cyprinidae - Proudmoore",
-		["Yeeragor - Wyrmrest Accord"] = "Yeeragor - Wyrmrest Accord",
+		["Ilarian - Proudmoore"] = "Ilarian - Proudmoore",
 		["Zetorus - Proudmoore"] = "Zetorus - Proudmoore",
+		["Girden - Proudmoore"] = "Girden - Proudmoore",
+		["Gaornash - Dalaran"] = "Gaornash - Dalaran",
+		["Blattaris - Proudmoore"] = "Blattaris - Proudmoore",
+		["Ferford - Proudmoore"] = "Ferford - Proudmoore",
+		["Hilith - Proudmoore"] = "Hilith - Proudmoore",
+		["Yeeragor - Wyrmrest Accord"] = "Yeeragor - Wyrmrest Accord",
+		["Lyx - Proudmoore"] = "Lyx - Proudmoore",
 		["Emmiroth - Wyrmrest Accord"] = "Emmiroth - Wyrmrest Accord",
 	},
 	["profiles"] = {
-		["Blattaris - Proudmoore"] = {
-		},
-		["Gaornash - Dalaran"] = {
+		["Cyprinidae - Proudmoore"] = {
 		},
 		["Ilarian - Proudmoore"] = {
 		},
+		["Zetorus - Proudmoore"] = {
+		},
+		["Girden - Proudmoore"] = {
+		},
+		["Gaornash - Dalaran"] = {
+		},
+		["Blattaris - Proudmoore"] = {
+		},
 		["Ferford - Proudmoore"] = {
 		},
-		["Cyprinidae - Proudmoore"] = {
+		["Hilith - Proudmoore"] = {
 		},
 		["Yeeragor - Wyrmrest Accord"] = {
 		},
-		["Zetorus - Proudmoore"] = {
+		["Lyx - Proudmoore"] = {
 		},
 		["Emmiroth - Wyrmrest Accord"] = {
 		},

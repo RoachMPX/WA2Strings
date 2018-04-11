@@ -1,0 +1,42 @@
+VER 3 010000000000000A "Dispel Magic" "INV_MISC_QUESTIONMARK"
+#showtooltip Dispel Magic
+/use [@mouseover,help,nodead][help,nodead][@player] Dispel Magic
+END
+VER 3 0100000000000009 "Pain Surpression" "INV_MISC_QUESTIONMARK"
+#showtooltip Pain Suppression
+/use [@mouseover,help,nodead][help,nodead][@player] Pain Suppression
+END
+VER 3 0100000000000008 "Penance" "INV_MISC_QUESTIONMARK"
+#showtooltip Penance
+/use [@mouseover,exists,nodead][] Penance
+END
+VER 3 0100000000000005 "Plea" "INV_MISC_QUESTIONMARK"
+#showtooltip Plea
+/use [@mouseover,help,nodead][help,nodead][@player] Plea
+END
+VER 3 0100000000000007 "Power Word: R" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Radiance 
+/use [@mouseover,help,nodead][help,nodead][@player] Power Word: Radiance
+END
+VER 3 0100000000000003 "Power Word: S" "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield 
+/use [@mouseover,help,nodead][help,nodead][@player] Power Word: Shield
+END
+VER 3 0100000000000006 "Purify" "INV_MISC_QUESTIONMARK"
+#showtooltip Purify
+/use [@mouseover,help,nodead][help,nodead][@player] Purify
+END
+VER 3 0100000000000004 "Shadow Mend" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Mend 
+/use [@mouseover,help,nodead][help,nodead][@player] Shadow Mend
+END
+VER 3 010000000000000B "Shining force" "INV_MISC_QUESTIONMARK"
+#showtooltip Shining Force
+/use [@mouseover,help,nodead][help,nodead][@player] Shining Force
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Yee[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

@@ -6,6 +6,13 @@ X: -65
 Y: 76
 W: 32
 H: 32
+Frame: DetailsFrameworkImageEdit
+FrameLevel: 1
+Anchor: CENTER
+X: -53
+Y: 36
+W: 266
+H: 226
 Frame: RARaidScheduleMainFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -132,3 +139,10 @@ X: 0
 Y: 0
 W: 100
 H: 80
+Frame: DBM_GUI_OptionsFrame
+FrameLevel: 5
+Anchor: CENTER
+X: 0
+Y: 0
+W: 800
+H: 510

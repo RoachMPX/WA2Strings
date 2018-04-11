@@ -24,8 +24,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -34,8 +34,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -90,8 +90,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -100,8 +100,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -149,6 +149,61 @@ Bartender4DB = {
 						},
 					},
 				},
+				["Girden - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [1]
+						{
+							["enabled"] = false,
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
 				["Gaereztraz - Wyrmrest Accord"] = {
 					["actionbars"] = {
 						{
@@ -170,8 +225,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -180,8 +235,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -236,8 +291,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -246,8 +301,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -281,6 +336,61 @@ Bartender4DB = {
 						},
 					},
 				},
+				["Hilith - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [5]
+						{
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
 				["Yeeragor - Wyrmrest Accord"] = {
 					["actionbars"] = {
 						{
@@ -302,8 +412,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -312,8 +422,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -368,8 +478,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -378,8 +488,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -435,8 +545,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -445,8 +555,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -501,8 +611,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -511,8 +621,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -567,8 +677,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -577,8 +687,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -633,8 +743,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -643,8 +753,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -699,8 +809,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -709,8 +819,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -765,8 +875,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -775,8 +885,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -831,8 +941,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -841,8 +951,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -897,8 +1007,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -907,8 +1017,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -963,8 +1073,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -973,8 +1083,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1029,8 +1139,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1039,8 +1149,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1074,7 +1184,7 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Ferfuzond - Proudmoore"] = {
+				["Gaerestraz - Wyrmrest Accord"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -1095,8 +1205,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1105,8 +1215,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1161,8 +1271,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1171,8 +1281,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1227,8 +1337,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1237,8 +1347,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1293,8 +1403,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1303,8 +1413,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1341,12 +1451,12 @@ Bartender4DB = {
 				["Blattaris - Proudmoore"] = {
 					["actionbars"] = {
 						{
+							["padding"] = 6,
 							["position"] = {
 								["y"] = 41.75,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 6,
 						}, -- [1]
 						{
 							["enabled"] = false,
@@ -1370,20 +1480,20 @@ Bartender4DB = {
 							},
 						}, -- [4]
 						{
-							["padding"] = 6,
 							["position"] = {
 								["y"] = 83,
 								["x"] = 3,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [5]
 						{
-							["padding"] = 6,
 							["position"] = {
 								["y"] = 83,
 								["x"] = -510,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 6,
 						}, -- [6]
 						{
 						}, -- [7]
@@ -1414,8 +1524,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1424,8 +1534,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1459,7 +1569,7 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Blackxsixpan - Proudmoore"] = {
+				["Lithri - Dalaran"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -1535,6 +1645,72 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Rhoach - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
 							["padding"] = 5,
 							["rows"] = 12,
 							["version"] = 3,
@@ -1547,6 +1723,1026 @@ Bartender4DB = {
 						{
 							["padding"] = 5,
 							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Emmiroth - Wyrmrest Accord"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Elub - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Murdurr - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Roachmpx - Khaz'goroth"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Vinwjoinplz - Dalaran"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["SpartanUI - Transparent"] = {
+					["actionbars"] = {
+						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 16,
+								["x"] = -501,
+								["point"] = "CENTER",
+								["scale"] = 0.85,
+								["parent"] = "Transparent_ActionBarPlate",
+							},
+						}, -- [1]
+						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -29,
+								["x"] = -501,
+								["point"] = "CENTER",
+								["scale"] = 0.85,
+								["parent"] = "Transparent_ActionBarPlate",
+							},
+						}, -- [2]
+						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 16,
+								["x"] = 98,
+								["point"] = "CENTER",
+								["scale"] = 0.85,
+								["parent"] = "Transparent_ActionBarPlate",
+							},
+						}, -- [3]
+						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -29,
+								["x"] = 98,
+								["point"] = "CENTER",
+								["scale"] = 0.85,
+								["parent"] = "Transparent_ActionBarPlate",
+							},
+						}, -- [4]
+						{
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["rows"] = 3,
+							["position"] = {
+								["y"] = 35,
+								["x"] = -635,
+								["point"] = "CENTER",
+								["scale"] = 0.8,
+								["parent"] = "Transparent_ActionBarPlate",
+							},
+							["padding"] = 4,
+						}, -- [5]
+						{
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["rows"] = 3,
+							["position"] = {
+								["y"] = 35,
+								["x"] = 504,
+								["point"] = "CENTER",
+								["scale"] = 0.8,
+								["parent"] = "Transparent_ActionBarPlate",
+							},
+							["padding"] = 4,
+						}, -- [6]
+						{
+							["padding"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["parent"] = "Transparent_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+						}, -- [7]
+						{
+							["padding"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["parent"] = "Transparent_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+						}, -- [8]
+						{
+							["padding"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["parent"] = "Transparent_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+						}, -- [9]
+						{
+							["padding"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["parent"] = "Transparent_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+						}, -- [10]
+					},
+				},
+				["SpartanUI - Minimal"] = {
+					["actionbars"] = {
+						{
+							["position"] = {
+								["y"] = 102,
+								["x"] = -200,
+								["point"] = "BOTTOM",
+								["scale"] = 0.85,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [1]
+						{
+							["position"] = {
+								["y"] = 70,
+								["x"] = -200,
+								["point"] = "BOTTOM",
+								["scale"] = 0.85,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [2]
+						{
+							["position"] = {
+								["y"] = 35,
+								["x"] = -200,
+								["point"] = "BOTTOM",
+								["scale"] = 0.85,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [3]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+								["scale"] = 0.85,
+							},
+						}, -- [4]
+						{
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["rows"] = 3,
+							["padding"] = 3,
+							["position"] = {
+								["y"] = 98,
+								["x"] = -317,
+								["point"] = "BOTTOM",
+								["scale"] = 0.75,
+							},
+						}, -- [5]
+						{
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["rows"] = 3,
+							["padding"] = 3,
+							["position"] = {
+								["y"] = 98,
+								["x"] = 199,
+								["point"] = "BOTTOM",
+								["scale"] = 0.75,
+							},
+						}, -- [6]
+						{
+							["padding"] = 3,
+							["position"] = {
+								["scale"] = 0.85,
+							},
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [7]
+						{
+							["padding"] = 3,
+							["position"] = {
+								["scale"] = 0.85,
+							},
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [8]
+						{
+							["padding"] = 3,
+							["position"] = {
+								["scale"] = 0.85,
+							},
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [9]
+						{
+							["padding"] = 3,
+							["position"] = {
+								["scale"] = 0.85,
+							},
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [10]
+					},
+				},
+				["Zetorus - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [5]
+						{
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Sildris - Emerald Dream"] = {
+					["actionbars"] = {
+						{
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [1]
+						{
+							["enabled"] = false,
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Mörton - Wyrmrest Accord"] = {
+					["actionbars"] = {
+						{
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [1]
+						{
+							["enabled"] = false,
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["SpartanUI - Fel"] = {
+					["actionbars"] = {
+						{
+							["position"] = {
+								["y"] = 36,
+								["x"] = -510,
+								["point"] = "CENTER",
+								["parent"] = "Fel_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [1]
+						{
+							["position"] = {
+								["y"] = -8,
+								["x"] = -510,
+								["point"] = "CENTER",
+								["parent"] = "Fel_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [2]
+						{
+							["position"] = {
+								["y"] = 36,
+								["x"] = 108,
+								["point"] = "CENTER",
+								["parent"] = "Fel_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [3]
+						{
+							["position"] = {
+								["y"] = -8,
+								["x"] = 108,
+								["point"] = "CENTER",
+								["parent"] = "Fel_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [4]
+						{
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["rows"] = 3,
+							["padding"] = 4,
+							["position"] = {
+								["y"] = 35,
+								["x"] = -645,
+								["point"] = "CENTER",
+								["parent"] = "Fel_ActionBarPlate",
+								["scale"] = 0.8,
+							},
+						}, -- [5]
+						{
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["rows"] = 3,
+							["padding"] = 4,
+							["position"] = {
+								["y"] = 35,
+								["x"] = 514,
+								["point"] = "CENTER",
+								["parent"] = "Fel_ActionBarPlate",
+								["scale"] = 0.8,
+							},
+						}, -- [6]
+						{
+							["position"] = {
+								["y"] = -105.174999898321,
+								["x"] = 214.607712347584,
+								["point"] = "BOTTOMRIGHT",
+								["parent"] = "Fel_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [7]
+						{
+							["position"] = {
+								["y"] = -105.174999898321,
+								["x"] = 214.607712347584,
+								["point"] = "BOTTOMRIGHT",
+								["parent"] = "Fel_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [8]
+						{
+							["padding"] = 3,
+							["position"] = {
+								["parent"] = "Fel_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [9]
+						{
+							["position"] = {
+								["y"] = -105.174999898321,
+								["x"] = 214.607712347584,
+								["point"] = "BOTTOMRIGHT",
+								["scale"] = 0.85,
+								["parent"] = "Fel_ActionBarPlate",
+							},
+							["padding"] = 3,
+							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+						}, -- [10]
+					},
+				},
+				["Lyx - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Cyprinidae - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1673,8 +2869,8 @@ Bartender4DB = {
 								["Zoom"] = true,
 							},
 							["position"] = {
-								["parent"] = "SUI_ActionBarPlate",
 								["scale"] = 0.85,
+								["parent"] = "SUI_ActionBarPlate",
 							},
 							["padding"] = 3,
 						}, -- [7]
@@ -1683,8 +2879,8 @@ Bartender4DB = {
 								["Zoom"] = true,
 							},
 							["position"] = {
-								["parent"] = "SUI_ActionBarPlate",
 								["scale"] = 0.85,
+								["parent"] = "SUI_ActionBarPlate",
 							},
 							["padding"] = 3,
 						}, -- [8]
@@ -1693,8 +2889,8 @@ Bartender4DB = {
 								["Zoom"] = true,
 							},
 							["position"] = {
-								["parent"] = "SUI_ActionBarPlate",
 								["scale"] = 0.85,
+								["parent"] = "SUI_ActionBarPlate",
 							},
 							["padding"] = 3,
 						}, -- [9]
@@ -1703,1101 +2899,14 @@ Bartender4DB = {
 								["Zoom"] = true,
 							},
 							["position"] = {
+								["scale"] = 0.85,
 								["parent"] = "SUI_ActionBarPlate",
-								["scale"] = 0.85,
 							},
 							["padding"] = 3,
 						}, -- [10]
 					},
 				},
-				["Emmiroth - Wyrmrest Accord"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Elub - Proudmoore"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Murdurr - Proudmoore"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Cyprinidae - Proudmoore"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Lyx - Proudmoore"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["SpartanUI - Transparent"] = {
-					["actionbars"] = {
-						{
-							["position"] = {
-								["y"] = 16,
-								["x"] = -501,
-								["point"] = "CENTER",
-								["scale"] = 0.85,
-								["parent"] = "Transparent_ActionBarPlate",
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-						}, -- [1]
-						{
-							["position"] = {
-								["y"] = -29,
-								["x"] = -501,
-								["point"] = "CENTER",
-								["scale"] = 0.85,
-								["parent"] = "Transparent_ActionBarPlate",
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-						}, -- [2]
-						{
-							["position"] = {
-								["y"] = 16,
-								["x"] = 98,
-								["point"] = "CENTER",
-								["scale"] = 0.85,
-								["parent"] = "Transparent_ActionBarPlate",
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-						}, -- [3]
-						{
-							["position"] = {
-								["y"] = -29,
-								["x"] = 98,
-								["point"] = "CENTER",
-								["scale"] = 0.85,
-								["parent"] = "Transparent_ActionBarPlate",
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-						}, -- [4]
-						{
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["rows"] = 3,
-							["padding"] = 4,
-							["position"] = {
-								["y"] = 35,
-								["x"] = -635,
-								["point"] = "CENTER",
-								["scale"] = 0.8,
-								["parent"] = "Transparent_ActionBarPlate",
-							},
-						}, -- [5]
-						{
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["rows"] = 3,
-							["padding"] = 4,
-							["position"] = {
-								["y"] = 35,
-								["x"] = 504,
-								["point"] = "CENTER",
-								["scale"] = 0.8,
-								["parent"] = "Transparent_ActionBarPlate",
-							},
-						}, -- [6]
-						{
-							["padding"] = 3,
-							["position"] = {
-								["parent"] = "Transparent_ActionBarPlate",
-								["scale"] = 0.85,
-							},
-							["skin"] = {
-								["Zoom"] = true,
-							},
-						}, -- [7]
-						{
-							["padding"] = 3,
-							["position"] = {
-								["parent"] = "Transparent_ActionBarPlate",
-								["scale"] = 0.85,
-							},
-							["skin"] = {
-								["Zoom"] = true,
-							},
-						}, -- [8]
-						{
-							["padding"] = 3,
-							["position"] = {
-								["parent"] = "Transparent_ActionBarPlate",
-								["scale"] = 0.85,
-							},
-							["skin"] = {
-								["Zoom"] = true,
-							},
-						}, -- [9]
-						{
-							["padding"] = 3,
-							["position"] = {
-								["parent"] = "Transparent_ActionBarPlate",
-								["scale"] = 0.85,
-							},
-							["skin"] = {
-								["Zoom"] = true,
-							},
-						}, -- [10]
-					},
-				},
-				["SpartanUI - Minimal"] = {
-					["actionbars"] = {
-						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 102,
-								["x"] = -200,
-								["point"] = "BOTTOM",
-								["scale"] = 0.85,
-							},
-						}, -- [1]
-						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 70,
-								["x"] = -200,
-								["point"] = "BOTTOM",
-								["scale"] = 0.85,
-							},
-						}, -- [2]
-						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 35,
-								["x"] = -200,
-								["point"] = "BOTTOM",
-								["scale"] = 0.85,
-							},
-						}, -- [3]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-								["scale"] = 0.85,
-							},
-						}, -- [4]
-						{
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["rows"] = 3,
-							["position"] = {
-								["y"] = 98,
-								["x"] = -317,
-								["point"] = "BOTTOM",
-								["scale"] = 0.75,
-							},
-							["padding"] = 3,
-						}, -- [5]
-						{
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["rows"] = 3,
-							["position"] = {
-								["y"] = 98,
-								["x"] = 199,
-								["point"] = "BOTTOM",
-								["scale"] = 0.75,
-							},
-							["padding"] = 3,
-						}, -- [6]
-						{
-							["padding"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["position"] = {
-								["scale"] = 0.85,
-							},
-						}, -- [7]
-						{
-							["padding"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["position"] = {
-								["scale"] = 0.85,
-							},
-						}, -- [8]
-						{
-							["padding"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["position"] = {
-								["scale"] = 0.85,
-							},
-						}, -- [9]
-						{
-							["padding"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["position"] = {
-								["scale"] = 0.85,
-							},
-						}, -- [10]
-					},
-				},
-				["Zetorus - Proudmoore"] = {
-					["actionbars"] = {
-						{
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-							["padding"] = 6,
-						}, -- [1]
-						{
-							["enabled"] = false,
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Sildris - Emerald Dream"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-							["padding"] = 6,
-						}, -- [5]
-						{
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-							["padding"] = 6,
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Mörton - Wyrmrest Accord"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-							["padding"] = 6,
-						}, -- [5]
-						{
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-							["padding"] = 6,
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["SpartanUI - Fel"] = {
-					["actionbars"] = {
-						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36,
-								["x"] = -510,
-								["point"] = "CENTER",
-								["parent"] = "Fel_ActionBarPlate",
-								["scale"] = 0.85,
-							},
-						}, -- [1]
-						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -8,
-								["x"] = -510,
-								["point"] = "CENTER",
-								["parent"] = "Fel_ActionBarPlate",
-								["scale"] = 0.85,
-							},
-						}, -- [2]
-						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 36,
-								["x"] = 108,
-								["point"] = "CENTER",
-								["parent"] = "Fel_ActionBarPlate",
-								["scale"] = 0.85,
-							},
-						}, -- [3]
-						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -8,
-								["x"] = 108,
-								["point"] = "CENTER",
-								["parent"] = "Fel_ActionBarPlate",
-								["scale"] = 0.85,
-							},
-						}, -- [4]
-						{
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["rows"] = 3,
-							["position"] = {
-								["y"] = 35,
-								["x"] = -645,
-								["point"] = "CENTER",
-								["parent"] = "Fel_ActionBarPlate",
-								["scale"] = 0.8,
-							},
-							["padding"] = 4,
-						}, -- [5]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["rows"] = 3,
-							["position"] = {
-								["y"] = 35,
-								["x"] = 514,
-								["point"] = "CENTER",
-								["parent"] = "Fel_ActionBarPlate",
-								["scale"] = 0.8,
-							},
-							["padding"] = 4,
-						}, -- [6]
-						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -105.174999898321,
-								["x"] = 214.607712347584,
-								["point"] = "BOTTOMRIGHT",
-								["parent"] = "Fel_ActionBarPlate",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [7]
-						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -105.174999898321,
-								["x"] = 214.607712347584,
-								["point"] = "BOTTOMRIGHT",
-								["parent"] = "Fel_ActionBarPlate",
-								["scale"] = 0.850000023841858,
-							},
-						}, -- [8]
-						{
-							["padding"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["position"] = {
-								["parent"] = "Fel_ActionBarPlate",
-								["scale"] = 0.85,
-							},
-						}, -- [9]
-						{
-							["skin"] = {
-								["Zoom"] = true,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -105.174999898321,
-								["x"] = 214.607712347584,
-								["point"] = "BOTTOMRIGHT",
-								["scale"] = 0.850000023841858,
-								["parent"] = "Fel_ActionBarPlate",
-							},
-						}, -- [10]
-					},
-				},
-				["Vinwjoinplz - Dalaran"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Roachmpx - Khaz'goroth"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Rhoach - Proudmoore"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Lithri - Dalaran"] = {
+				["Blackxsixpan - Proudmoore"] = {
 					["actionbars"] = {
 						{
 							["position"] = {
@@ -2873,8 +2982,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -2883,8 +2992,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -2918,7 +3027,7 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Gaerestraz - Wyrmrest Accord"] = {
+				["Ferfuzond - Proudmoore"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -2939,8 +3048,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -2949,8 +3058,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -3177,7 +3286,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Cyprinidae - Proudmoore"] = {
+				["Rhoach - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.000015258789,
@@ -3214,16 +3323,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["SpartanUI - Classic"] = {
-					["position"] = {
-						["y"] = 240,
-						["x"] = -32,
-						["point"] = "CENTER",
-						["parent"] = "SUI_ActionBarPlate",
-					},
+				["Roachmpx - Khaz'goroth"] = {
 					["version"] = 3,
+					["position"] = {
+						["y"] = 223.000015258789,
+						["x"] = -31.5000610351563,
+						["point"] = "BOTTOM",
+					},
 				},
-				["Ferfuzond - Proudmoore"] = {
+				["Vinwjoinplz - Dalaran"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.000015258789,
@@ -3242,14 +3350,6 @@ Bartender4DB = {
 						["parent"] = "Fel_ActionBarPlate",
 					},
 				},
-				["Lyx - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000015258789,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Gaerestraz - Wyrmrest Accord"] = {
 					["version"] = 3,
 					["position"] = {
@@ -3258,7 +3358,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Vinwjoinplz - Dalaran"] = {
+				["Lyx - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.000015258789,
@@ -3266,13 +3366,22 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Roachmpx - Khaz'goroth"] = {
+				["Ferfuzond - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.000015258789,
 						["x"] = -31.5000610351563,
 						["point"] = "BOTTOM",
 					},
+				},
+				["SpartanUI - Classic"] = {
+					["position"] = {
+						["y"] = 240,
+						["x"] = -32,
+						["point"] = "CENTER",
+						["parent"] = "SUI_ActionBarPlate",
+					},
+					["version"] = 3,
 				},
 				["Vormulos - Proudmoore"] = {
 					["version"] = 3,
@@ -3282,13 +3391,49 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Rhoach - Proudmoore"] = {
+				["Cyprinidae - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.000015258789,
 						["x"] = -31.5000610351563,
 						["point"] = "BOTTOM",
 					},
+				},
+			},
+		},
+		["ZoneAbilityBar"] = {
+			["profiles"] = {
+				["SpartanUI - Fel"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 189.706726074219,
+						["x"] = 585.290588378906,
+						["point"] = "TOPRIGHT",
+					},
+				},
+				["Mephrax - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -1,
+						["x"] = 0,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["SpartanUI - Minimal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 85.0000457763672,
+						["x"] = 586.082824707031,
+						["point"] = "TOPRIGHT",
+					},
+				},
+				["SpartanUI - Classic"] = {
+					["position"] = {
+						["y"] = -1,
+						["x"] = 0,
+						["point"] = "BOTTOMLEFT",
+					},
+					["version"] = 3,
 				},
 			},
 		},
@@ -3317,6 +3462,15 @@ Bartender4DB = {
 				["Mephrax - Proudmoore"] = {
 					["version"] = 3,
 				},
+				["Girden - Proudmoore"] = {
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+					["padding"] = -2,
+				},
 				["Gaereztraz - Wyrmrest Accord"] = {
 					["padding"] = -2,
 					["version"] = 3,
@@ -3330,6 +3484,15 @@ Bartender4DB = {
 				["Aelalenn - Wyrmrest Accord"] = {
 					["padding"] = -2,
 					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Hilith - Proudmoore"] = {
+					["padding"] = -2,
 					["position"] = {
 						["scale"] = 1,
 						["x"] = 37.5,
@@ -3457,7 +3620,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Ferfuzond - Proudmoore"] = {
+				["Gaerestraz - Wyrmrest Accord"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3498,13 +3661,13 @@ Bartender4DB = {
 					},
 				},
 				["Blattaris - Proudmoore"] = {
+					["padding"] = -2,
 					["position"] = {
 						["scale"] = 1,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["y"] = 41.75,
 					},
-					["padding"] = -2,
 				},
 				["Gareeleztraz - Wyrmrest Accord"] = {
 					["padding"] = -2,
@@ -3516,7 +3679,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Blackxsixpan - Proudmoore"] = {
+				["Lithri - Dalaran"] = {
 					["padding"] = -2,
 					["position"] = {
 						["scale"] = 1,
@@ -3535,14 +3698,15 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["SpartanUI - Classic"] = {
-					["position"] = {
-						["y"] = 0,
-						["x"] = 603,
-						["point"] = "TOPLEFT",
-						["parent"] = "SUI_ActionBarPlate",
-					},
+				["Rhoach - Proudmoore"] = {
+					["padding"] = -2,
 					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
 				},
 				["Emmiroth - Wyrmrest Accord"] = {
 					["padding"] = -2,
@@ -3574,7 +3738,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Cyprinidae - Proudmoore"] = {
+				["Roachmpx - Khaz'goroth"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3584,7 +3748,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Lyx - Proudmoore"] = {
+				["Vinwjoinplz - Dalaran"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3607,9 +3771,9 @@ Bartender4DB = {
 					},
 				},
 				["SpartanUI - Minimal"] = {
-					["fadeoutalpha"] = 0.25,
 					["version"] = 3,
 					["fadeout"] = true,
+					["fadeoutalpha"] = 0.25,
 					["position"] = {
 						["y"] = -1,
 						["x"] = 160,
@@ -3618,31 +3782,31 @@ Bartender4DB = {
 					},
 				},
 				["Zetorus - Proudmoore"] = {
+					["padding"] = -2,
 					["position"] = {
 						["scale"] = 1,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["y"] = 41.75,
 					},
-					["padding"] = -2,
 				},
 				["Sildris - Emerald Dream"] = {
-					["padding"] = -2,
 					["position"] = {
 						["scale"] = 1,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["y"] = 41.75,
 					},
+					["padding"] = -2,
 				},
 				["Mörton - Wyrmrest Accord"] = {
-					["padding"] = -2,
 					["position"] = {
 						["scale"] = 1,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["y"] = 41.75,
 					},
+					["padding"] = -2,
 				},
 				["SpartanUI - Fel"] = {
 					["version"] = 3,
@@ -3656,7 +3820,7 @@ Bartender4DB = {
 						["parent"] = "Fel_ActionBarPlate",
 					},
 				},
-				["Vinwjoinplz - Dalaran"] = {
+				["Lyx - Proudmoore"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3666,7 +3830,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Roachmpx - Khaz'goroth"] = {
+				["Cyprinidae - Proudmoore"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3676,17 +3840,16 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Rhoach - Proudmoore"] = {
-					["padding"] = -2,
-					["version"] = 3,
+				["SpartanUI - Classic"] = {
 					["position"] = {
-						["scale"] = 1,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["y"] = 41.75,
+						["y"] = 0,
+						["x"] = 603,
+						["point"] = "TOPLEFT",
+						["parent"] = "SUI_ActionBarPlate",
 					},
+					["version"] = 3,
 				},
-				["Lithri - Dalaran"] = {
+				["Blackxsixpan - Proudmoore"] = {
 					["position"] = {
 						["scale"] = 1,
 						["x"] = 37.5,
@@ -3705,7 +3868,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Gaerestraz - Wyrmrest Accord"] = {
+				["Ferfuzond - Proudmoore"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3714,42 +3877,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 						["y"] = 41.75,
 					},
-				},
-			},
-		},
-		["ZoneAbilityBar"] = {
-			["profiles"] = {
-				["Mephrax - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -1,
-						["x"] = 0,
-						["point"] = "BOTTOMLEFT",
-					},
-				},
-				["SpartanUI - Fel"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 250,
-						["x"] = -41,
-						["point"] = "CENTER",
-					},
-				},
-				["SpartanUI - Minimal"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 85.0000457763672,
-						["x"] = 586.082824707031,
-						["point"] = "TOPRIGHT",
-					},
-				},
-				["SpartanUI - Classic"] = {
-					["position"] = {
-						["y"] = -1,
-						["x"] = 0,
-						["point"] = "BOTTOMLEFT",
-					},
-					["version"] = 3,
 				},
 			},
 		},
@@ -3788,6 +3915,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Girden - Proudmoore"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Gaereztraz - Wyrmrest Accord"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -3798,6 +3934,15 @@ Bartender4DB = {
 					},
 				},
 				["Aelalenn - Wyrmrest Accord"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Hilith - Proudmoore"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -3950,7 +4095,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Roachmpx - Khaz'goroth"] = {
+				["Lyx - Proudmoore"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -3968,7 +4113,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Rhochronos - Proudmoore"] = {
+				["Blackxsixpan - Proudmoore"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4004,7 +4149,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Ferfuzond - Proudmoore"] = {
+				["Roachmpx - Khaz'goroth"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4013,7 +4158,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Lithri - Dalaran"] = {
+				["Rhochronos - Proudmoore"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4065,7 +4210,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Blackxsixpan - Proudmoore"] = {
+				["Ferfuzond - Proudmoore"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4080,743 +4225,51 @@ Bartender4DB = {
 					["position"] = {
 						["y"] = 47,
 						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Cyprinidae - Proudmoore"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Vinwjoinplz - Dalaran"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Taruzna - Wyrmrest Accord"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Vormulos - Proudmoore"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Lyx - Proudmoore"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-			},
-		},
-		["StanceBar"] = {
-			["profiles"] = {
-				["Röach - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Roches - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Mephrax - Proudmoore"] = {
-					["version"] = 3,
-				},
-				["Gaereztraz - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Aelalenn - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Yeeragor - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Ferford - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Vanagond - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Garmuul - Emerald Dream"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Froachee - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Mortheim - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Gaornash - Dalaran"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Garelt - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Gareltt - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Ilarian - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Vinwbooster - Dalaran"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Hammetinks - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Tarrenus - Emerald Dream"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Mutatedamah - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Gareeleztraz - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Rhochronos - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Emmiroth - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Elub - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Murdurr - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Cyprinidae - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["SpartanUI - Transparent"] = {
-					["fadeout"] = true,
-					["position"] = {
-						["growHorizontal"] = "LEFT",
-						["x"] = -105,
-						["point"] = "TOP",
-						["scale"] = 0.7,
-						["parent"] = "Transparent_ActionBarPlate",
-						["y"] = -15,
-					},
-					["padding"] = 1,
-					["fadeoutalpha"] = 0.25,
-					["version"] = 3,
-				},
-				["SpartanUI - Minimal"] = {
-					["fadeoutalpha"] = 0.25,
-					["position"] = {
-						["growHorizontal"] = "LEFT",
-						["x"] = -163,
-						["point"] = "TOP",
-						["scale"] = 0.7,
-						["y"] = -1,
-					},
-					["padding"] = 1,
-					["fadeout"] = true,
-					["version"] = 3,
-				},
-				["Taruzna - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["SpartanUI - Classic"] = {
-					["position"] = {
-						["growHorizontal"] = "LEFT",
-						["x"] = -605,
-						["point"] = "TOPRIGHT",
-						["scale"] = 0.85,
-						["y"] = -2,
-						["parent"] = "SUI_ActionBarPlate",
-					},
-					["padding"] = 1,
-					["version"] = 3,
-				},
-				["Ferfuzond - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["SpartanUI - Fel"] = {
-					["fadeoutalpha"] = 0.6,
-					["position"] = {
-						["growHorizontal"] = "LEFT",
-						["x"] = -115,
-						["point"] = "TOP",
-						["scale"] = 0.7,
-						["y"] = 2,
-						["parent"] = "Fel_ActionBarPlate",
-					},
-					["padding"] = 1,
-					["fadeout"] = true,
-					["version"] = 3,
-				},
-				["Lyx - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Gaerestraz - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Vinwjoinplz - Dalaran"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Roachmpx - Khaz'goroth"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Vormulos - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-				["Rhoach - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
-			},
-		},
-		["BagBar"] = {
-			["profiles"] = {
-				["Röach - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Roches - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Mephrax - Proudmoore"] = {
-					["version"] = 3,
-				},
-				["Gaereztraz - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Aelalenn - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Yeeragor - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Ferford - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Vanagond - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Garmuul - Emerald Dream"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Froachee - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Mortheim - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Gaornash - Dalaran"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Garelt - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Gareltt - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Ilarian - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Vinwbooster - Dalaran"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Hammetinks - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Ferfuzond - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Taruzna - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Tarrenus - Emerald Dream"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Mutatedamah - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Blattaris - Proudmoore"] = {
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Gareeleztraz - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Blackxsixpan - Proudmoore"] = {
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Rhochronos - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["SpartanUI - Classic"] = {
-					["keyring"] = true,
-					["padding"] = 0,
-					["version"] = 3,
-					["position"] = {
-						["growHorizontal"] = "LEFT",
-						["x"] = -6,
-						["point"] = "TOPRIGHT",
-						["scale"] = 0.7,
-						["y"] = -2,
-						["parent"] = "SUI_ActionBarPlate",
-					},
-				},
-				["Emmiroth - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Elub - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Murdurr - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Cyprinidae - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Lyx - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["SpartanUI - Transparent"] = {
-					["fadeout"] = true,
-					["position"] = {
-						["growHorizontal"] = "LEFT",
-						["x"] = 494,
-						["point"] = "TOP",
-						["scale"] = 0.7,
-						["parent"] = "Transparent_ActionBarPlate",
-						["y"] = -15,
-					},
-					["version"] = 3,
-					["padding"] = 0,
-					["fadeoutalpha"] = 0.25,
-					["keyring"] = true,
-				},
-				["SpartanUI - Minimal"] = {
-					["fadeout"] = true,
-					["position"] = {
-						["growHorizontal"] = "LEFT",
-						["x"] = 490,
-						["point"] = "TOP",
-						["scale"] = 0.7,
-						["y"] = -1,
-					},
-					["fadeoutalpha"] = 0.25,
-					["padding"] = 0,
-					["version"] = 3,
-					["keyring"] = true,
-				},
-				["Zetorus - Proudmoore"] = {
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Sildris - Emerald Dream"] = {
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Mörton - Wyrmrest Accord"] = {
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["SpartanUI - Fel"] = {
-					["fadeout"] = true,
-					["position"] = {
-						["growHorizontal"] = "LEFT",
-						["x"] = 503,
-						["point"] = "TOP",
-						["scale"] = 0.7,
-						["y"] = 2,
-						["parent"] = "Fel_ActionBarPlate",
-					},
-					["version"] = 3,
-					["padding"] = 0,
-					["fadeoutalpha"] = 0.6,
-					["keyring"] = true,
-				},
-				["Vinwjoinplz - Dalaran"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Roachmpx - Khaz'goroth"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Rhoach - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
 						["point"] = "BOTTOM",
 					},
 				},
 				["Lithri - Dalaran"] = {
+					["enabled"] = true,
+					["version"] = 3,
 					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Taruzna - Wyrmrest Accord"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Cyprinidae - Proudmoore"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
 				},
 				["Vormulos - Proudmoore"] = {
+					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
+						["y"] = 47,
+						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
 				},
-				["Gaerestraz - Wyrmrest Accord"] = {
+				["Vinwjoinplz - Dalaran"] = {
+					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
+						["y"] = 47,
+						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -5011,7 +4464,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Cyprinidae - Proudmoore"] = {
+				["Rhoach - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47.5000305175781,
@@ -5030,8 +4483,8 @@ Bartender4DB = {
 						["parent"] = "Transparent_ActionBarPlate",
 					},
 					["padding"] = 3,
-					["fadeout"] = true,
 					["version"] = 3,
+					["fadeout"] = true,
 				},
 				["SpartanUI - Minimal"] = {
 					["enabled"] = false,
@@ -5043,10 +4496,65 @@ Bartender4DB = {
 						["scale"] = 0.85,
 					},
 					["padding"] = 3,
-					["fadeoutalpha"] = 0.25,
 					["version"] = 3,
+					["fadeoutalpha"] = 0.25,
 				},
 				["Taruzna - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Roachmpx - Khaz'goroth"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Vinwjoinplz - Dalaran"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
+				["SpartanUI - Fel"] = {
+					["enabled"] = false,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 213,
+						["x"] = -15,
+						["point"] = "CENTER",
+						["scale"] = 0.85,
+						["parent"] = "Fel_ActionBarPlate",
+					},
+					["fadeoutalpha"] = 0.6,
+					["rows"] = 20,
+					["padding"] = 3,
+					["fadeout"] = true,
+				},
+				["Gaerestraz - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Lyx - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Ferfuzond - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47.5000305175781,
@@ -5066,61 +4574,6 @@ Bartender4DB = {
 					},
 					["padding"] = 3,
 				},
-				["Ferfuzond - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
-				["SpartanUI - Fel"] = {
-					["enabled"] = false,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 17.8499983787537,
-						["x"] = -17.8499918937683,
-						["point"] = "CENTER",
-						["scale"] = 0.85,
-						["parent"] = "Fel_ActionBarPlate",
-					},
-					["fadeout"] = true,
-					["rows"] = 20,
-					["padding"] = 3,
-					["fadeoutalpha"] = 0.6,
-				},
-				["Lyx - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Gaerestraz - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Vinwjoinplz - Dalaran"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Roachmpx - Khaz'goroth"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
 				["Vormulos - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
@@ -5129,11 +4582,725 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Rhoach - Proudmoore"] = {
+				["Cyprinidae - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47.5000305175781,
 						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
+			},
+		},
+		["BagBar"] = {
+			["profiles"] = {
+				["Röach - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Roches - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Mephrax - Proudmoore"] = {
+					["version"] = 3,
+				},
+				["Girden - Proudmoore"] = {
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Gaereztraz - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Aelalenn - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Hilith - Proudmoore"] = {
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Yeeragor - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ferford - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Vanagond - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Garmuul - Emerald Dream"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Froachee - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Mortheim - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Gaornash - Dalaran"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Garelt - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Gareltt - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ilarian - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Vinwbooster - Dalaran"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Hammetinks - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Gaerestraz - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Taruzna - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Tarrenus - Emerald Dream"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Mutatedamah - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Blattaris - Proudmoore"] = {
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Gareeleztraz - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Lithri - Dalaran"] = {
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Rhochronos - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Rhoach - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Emmiroth - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Elub - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Murdurr - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Roachmpx - Khaz'goroth"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Vinwjoinplz - Dalaran"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["SpartanUI - Transparent"] = {
+					["fadeout"] = true,
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["x"] = 494,
+						["point"] = "TOP",
+						["scale"] = 0.7,
+						["y"] = -15,
+						["parent"] = "Transparent_ActionBarPlate",
+					},
+					["version"] = 3,
+					["padding"] = 0,
+					["fadeoutalpha"] = 0.25,
+					["keyring"] = true,
+				},
+				["SpartanUI - Minimal"] = {
+					["fadeout"] = true,
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["x"] = 490,
+						["point"] = "TOP",
+						["scale"] = 0.7,
+						["y"] = -1,
+					},
+					["fadeoutalpha"] = 0.25,
+					["padding"] = 0,
+					["version"] = 3,
+					["keyring"] = true,
+				},
+				["Zetorus - Proudmoore"] = {
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Sildris - Emerald Dream"] = {
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Mörton - Wyrmrest Accord"] = {
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["SpartanUI - Fel"] = {
+					["fadeout"] = true,
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["x"] = 503,
+						["point"] = "TOP",
+						["scale"] = 0.7,
+						["parent"] = "Fel_ActionBarPlate",
+						["y"] = 2,
+					},
+					["version"] = 3,
+					["padding"] = 0,
+					["fadeoutalpha"] = 0.6,
+					["keyring"] = true,
+				},
+				["Lyx - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Cyprinidae - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["SpartanUI - Classic"] = {
+					["keyring"] = true,
+					["padding"] = 0,
+					["version"] = 3,
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["x"] = -6,
+						["point"] = "TOPRIGHT",
+						["scale"] = 0.7,
+						["parent"] = "SUI_ActionBarPlate",
+						["y"] = -2,
+					},
+				},
+				["Blackxsixpan - Proudmoore"] = {
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Vormulos - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ferfuzond - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Röach - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Roches - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Mephrax - Proudmoore"] = {
+					["version"] = 3,
+				},
+				["Girden - Proudmoore"] = {
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Gaereztraz - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Aelalenn - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Yeeragor - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Ferford - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Vanagond - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Garmuul - Emerald Dream"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Froachee - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Mortheim - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Gaornash - Dalaran"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Garelt - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Gareltt - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Ilarian - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Vinwbooster - Dalaran"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Hammetinks - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Tarrenus - Emerald Dream"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Mutatedamah - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Gareeleztraz - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Rhochronos - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Emmiroth - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Elub - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Murdurr - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Rhoach - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["SpartanUI - Transparent"] = {
+					["fadeout"] = true,
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["x"] = -105,
+						["point"] = "TOP",
+						["scale"] = 0.7,
+						["y"] = -15,
+						["parent"] = "Transparent_ActionBarPlate",
+					},
+					["padding"] = 1,
+					["version"] = 3,
+					["fadeoutalpha"] = 0.25,
+				},
+				["SpartanUI - Minimal"] = {
+					["fadeoutalpha"] = 0.25,
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["x"] = -163,
+						["point"] = "TOP",
+						["scale"] = 0.7,
+						["y"] = -1,
+					},
+					["padding"] = 1,
+					["version"] = 3,
+					["fadeout"] = true,
+				},
+				["Taruzna - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Roachmpx - Khaz'goroth"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Vinwjoinplz - Dalaran"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["SpartanUI - Fel"] = {
+					["version"] = 3,
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["x"] = -115,
+						["point"] = "TOP",
+						["scale"] = 0.7,
+						["parent"] = "Fel_ActionBarPlate",
+						["y"] = 2,
+					},
+					["padding"] = 1,
+					["fadeout"] = true,
+					["fadeoutalpha"] = 0.6,
+				},
+				["Gaerestraz - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Lyx - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Ferfuzond - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["SpartanUI - Classic"] = {
+					["position"] = {
+						["growHorizontal"] = "LEFT",
+						["x"] = -605,
+						["point"] = "TOPRIGHT",
+						["scale"] = 0.85,
+						["parent"] = "SUI_ActionBarPlate",
+						["y"] = -2,
+					},
+					["padding"] = 1,
+					["version"] = 3,
+				},
+				["Vormulos - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
+				["Cyprinidae - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
 						["point"] = "CENTER",
 					},
 				},
@@ -5160,6 +5327,13 @@ Bartender4DB = {
 				["Mephrax - Proudmoore"] = {
 					["version"] = 3,
 				},
+				["Girden - Proudmoore"] = {
+					["position"] = {
+						["y"] = 116,
+						["x"] = -120,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Gaereztraz - Wyrmrest Accord"] = {
 					["version"] = 3,
 					["position"] = {
@@ -5170,6 +5344,13 @@ Bartender4DB = {
 				},
 				["Aelalenn - Wyrmrest Accord"] = {
 					["version"] = 3,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Hilith - Proudmoore"] = {
 					["position"] = {
 						["y"] = 116,
 						["x"] = -460,
@@ -5272,7 +5453,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Ferfuzond - Proudmoore"] = {
+				["Gaerestraz - Wyrmrest Accord"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 116,
@@ -5319,7 +5500,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Blackxsixpan - Proudmoore"] = {
+				["Lithri - Dalaran"] = {
 					["position"] = {
 						["y"] = 116,
 						["x"] = -460,
@@ -5334,19 +5515,13 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["SpartanUI - Classic"] = {
-					["position"] = {
-						["y"] = -6,
-						["x"] = 5,
-						["point"] = "TOPLEFT",
-						["scale"] = 0.7,
-						["parent"] = "SUI_ActionBarPlate",
-					},
+				["Rhoach - Proudmoore"] = {
 					["version"] = 3,
-					["skin"] = {
-						["Zoom"] = true,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -120,
+						["point"] = "BOTTOM",
 					},
-					["padding"] = 1,
 				},
 				["Emmiroth - Wyrmrest Accord"] = {
 					["version"] = 3,
@@ -5372,7 +5547,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Cyprinidae - Proudmoore"] = {
+				["Roachmpx - Khaz'goroth"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 116,
@@ -5380,7 +5555,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Lyx - Proudmoore"] = {
+				["Vinwjoinplz - Dalaran"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 116,
@@ -5393,9 +5568,6 @@ Bartender4DB = {
 					["skin"] = {
 						["Zoom"] = true,
 					},
-					["fadeout"] = true,
-					["padding"] = 1,
-					["version"] = 3,
 					["position"] = {
 						["y"] = -15,
 						["x"] = -493,
@@ -5403,21 +5575,24 @@ Bartender4DB = {
 						["scale"] = 0.7,
 						["parent"] = "Transparent_ActionBarPlate",
 					},
+					["padding"] = 1,
+					["version"] = 3,
+					["fadeout"] = true,
 				},
 				["SpartanUI - Minimal"] = {
 					["fadeout"] = true,
 					["skin"] = {
 						["Zoom"] = true,
 					},
+					["version"] = 3,
+					["padding"] = 1,
+					["fadeoutalpha"] = 0.25,
 					["position"] = {
 						["y"] = -1,
 						["x"] = -492,
 						["point"] = "TOP",
 						["scale"] = 0.7,
 					},
-					["padding"] = 1,
-					["fadeoutalpha"] = 0.25,
-					["version"] = 3,
 				},
 				["Zetorus - Proudmoore"] = {
 					["position"] = {
@@ -5441,10 +5616,13 @@ Bartender4DB = {
 					},
 				},
 				["SpartanUI - Fel"] = {
-					["fadeout"] = true,
+					["version"] = 3,
 					["skin"] = {
 						["Zoom"] = true,
 					},
+					["fadeoutalpha"] = 0.6,
+					["padding"] = 1,
+					["fadeout"] = true,
 					["position"] = {
 						["y"] = 2,
 						["x"] = -497,
@@ -5452,35 +5630,38 @@ Bartender4DB = {
 						["scale"] = 0.7,
 						["parent"] = "Fel_ActionBarPlate",
 					},
+				},
+				["Lyx - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Cyprinidae - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["SpartanUI - Classic"] = {
+					["skin"] = {
+						["Zoom"] = true,
+					},
+					["version"] = 3,
+					["position"] = {
+						["y"] = -6,
+						["x"] = 5,
+						["point"] = "TOPLEFT",
+						["scale"] = 0.7,
+						["parent"] = "SUI_ActionBarPlate",
+					},
 					["padding"] = 1,
-					["fadeoutalpha"] = 0.6,
-					["version"] = 3,
 				},
-				["Vinwjoinplz - Dalaran"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Roachmpx - Khaz'goroth"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Rhoach - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -120,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Lithri - Dalaran"] = {
+				["Blackxsixpan - Proudmoore"] = {
 					["position"] = {
 						["y"] = 116,
 						["x"] = -460,
@@ -5495,7 +5676,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Gaerestraz - Wyrmrest Accord"] = {
+				["Ferfuzond - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 116,
@@ -5523,8 +5704,10 @@ Bartender4DB = {
 		["Röach - Proudmoore"] = "SpartanUI - Classic",
 		["Cyprinidae - Proudmoore"] = "SpartanUI - Fel",
 		["Mephrax - Proudmoore"] = "SpartanUI - Classic",
+		["Girden - Proudmoore"] = "SpartanUI - Fel",
 		["Gaerestraz - Wyrmrest Accord"] = "SpartanUI - Classic",
 		["Aelalenn - Wyrmrest Accord"] = "SpartanUI - Classic",
+		["Hilith - Proudmoore"] = "SpartanUI - Fel",
 		["Yeeragor - Wyrmrest Accord"] = "SpartanUI - Classic",
 		["Lyx - Proudmoore"] = "SpartanUI - Classic",
 		["Vanagond - Proudmoore"] = "SpartanUI - Classic",
@@ -5545,20 +5728,20 @@ Bartender4DB = {
 		["Emmiroth - Wyrmrest Accord"] = "SpartanUI - Classic",
 		["Elub - Proudmoore"] = "SpartanUI - Classic",
 		["Murdurr - Proudmoore"] = "SpartanUI - Classic",
-		["Roches - Proudmoore"] = "SpartanUI - Classic",
+		["Ferfuzond - Proudmoore"] = "SpartanUI - Classic",
 		["Lithri - Dalaran"] = "SpartanUI - Classic",
-		["Blackxsixpan - Proudmoore"] = "SpartanUI - Classic",
-		["Gareltt - Wyrmrest Accord"] = "SpartanUI - Classic",
+		["Vinwbooster - Dalaran"] = "SpartanUI - Classic",
+		["Roachmpx - Khaz'goroth"] = "SpartanUI - Classic",
 		["Zetorus - Proudmoore"] = "SpartanUI - Fel",
 		["Sildris - Emerald Dream"] = "SpartanUI - Classic",
 		["Mörton - Wyrmrest Accord"] = "SpartanUI - Classic",
-		["Gaereztraz - Wyrmrest Accord"] = "SpartanUI - Classic",
-		["Rhoach - Proudmoore"] = "SpartanUI - Classic",
 		["Ferford - Proudmoore"] = "SpartanUI - Classic",
-		["Roachmpx - Khaz'goroth"] = "SpartanUI - Classic",
-		["Vinwbooster - Dalaran"] = "SpartanUI - Classic",
+		["Rhoach - Proudmoore"] = "SpartanUI - Classic",
+		["Gaereztraz - Wyrmrest Accord"] = "SpartanUI - Classic",
+		["Gareltt - Wyrmrest Accord"] = "SpartanUI - Classic",
+		["Blackxsixpan - Proudmoore"] = "SpartanUI - Classic",
 		["Vormulos - Proudmoore"] = "SpartanUI - Classic",
-		["Ferfuzond - Proudmoore"] = "SpartanUI - Classic",
+		["Roches - Proudmoore"] = "SpartanUI - Classic",
 	},
 	["profiles"] = {
 		["Röach - Proudmoore"] = {
@@ -5576,12 +5759,22 @@ Bartender4DB = {
 				["hide"] = true,
 			},
 		},
+		["Girden - Proudmoore"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
 		["Gaereztraz - Wyrmrest Accord"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 		["Aelalenn - Wyrmrest Accord"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Hilith - Proudmoore"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -5646,7 +5839,7 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Ferfuzond - Proudmoore"] = {
+		["Gaerestraz - Wyrmrest Accord"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -5676,7 +5869,7 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Blackxsixpan - Proudmoore"] = {
+		["Lithri - Dalaran"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -5686,12 +5879,10 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["SpartanUI - Classic"] = {
+		["Rhoach - Proudmoore"] = {
+			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
-			["buttonlock"] = true,
-			["minimapIcon"] = {
-				["hide"] = true,
-			},
+			["outofrange"] = "hotkey",
 		},
 		["Emmiroth - Wyrmrest Accord"] = {
 			["focuscastmodifier"] = false,
@@ -5708,12 +5899,12 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Cyprinidae - Proudmoore"] = {
+		["Roachmpx - Khaz'goroth"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Lyx - Proudmoore"] = {
+		["Vinwjoinplz - Dalaran"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -5727,6 +5918,7 @@ Bartender4DB = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
+			["buttonlock"] = true,
 		},
 		["Zetorus - Proudmoore"] = {
 			["focuscastmodifier"] = false,
@@ -5744,25 +5936,28 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["SpartanUI - Fel"] = {
+			["snapping"] = false,
 			["blizzardVehicle"] = true,
 			["buttonlock"] = true,
 		},
-		["Vinwjoinplz - Dalaran"] = {
+		["Lyx - Proudmoore"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Roachmpx - Khaz'goroth"] = {
+		["Cyprinidae - Proudmoore"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Rhoach - Proudmoore"] = {
-			["focuscastmodifier"] = false,
+		["SpartanUI - Classic"] = {
 			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
+			["buttonlock"] = true,
+			["minimapIcon"] = {
+				["hide"] = true,
+			},
 		},
-		["Lithri - Dalaran"] = {
+		["Blackxsixpan - Proudmoore"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -5772,7 +5967,7 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Gaerestraz - Wyrmrest Accord"] = {
+		["Ferfuzond - Proudmoore"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",

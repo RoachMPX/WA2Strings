@@ -1,0 +1,2 @@
+ShadowedUnitFrames: disabled
+ShadowedUF_Options: disabled

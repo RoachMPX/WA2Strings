@@ -1,9 +1,9 @@
-SpartanUI_SpinCam: enabled
+SpartanUI_SpinCam: disabled
 MogIt: disabled
 TradeSkillMaster: enabled
 MyRolePlay: disabled
 TradeSkillMaster_Accounting: enabled
-TradeSkillMaster_AuctionDB: enabled
+TradeSkillMaster_AuctionDB: disabled
 TradeSkillMaster_Auctioning: enabled
 TradeSkillMaster_Crafting: disabled
 TradeSkillMaster_Mailing: disabled
@@ -19,7 +19,7 @@ MogIt_Ranged: disabled
 MogIt_TwoHanded: disabled
 SpartanUI: enabled
 Bartender4: enabled
-SpartanUI_PlayerFrames: enabled
+SpartanUI_PlayerFrames: disabled
 AngryAssignments: enabled
 TradeSkillMaster_Destroying: disabled
 Details: enabled
@@ -32,7 +32,7 @@ Details_TimeAttack: enabled
 Details_TinyThreat: enabled
 Details_Vanguard: enabled
 Details_3DModelsPaths: enabled
-Details_Streamer: enabled
+Details_Streamer: disabled
 Details_RaidInfo-EmeraldNightmare: enabled
 Details_RaidInfo-Nighthold: enabled
 Details_RaidInfo-TombOfSargeras: enabled
@@ -48,8 +48,8 @@ SpartanUI_Style_Minimal: enabled
 SpartanUI_Style_Transparent: enabled
 SpartanUI_Artwork: enabled
 SpartanUI_FilmEffects: enabled
-SpartanUI_PartyFrames: enabled
-SpartanUI_RaidFrames: enabled
+SpartanUI_PartyFrames: disabled
+SpartanUI_RaidFrames: disabled
 SpartanUI_Style_Fel: enabled
 WeakAuras: enabled
 WeakAurasModelPaths: enabled
@@ -77,3 +77,7 @@ DBM-TrialofValor: enabled
 DBM-WorldEvents: enabled
 DBM-AntorusBurningThrone: enabled
 DBM-Argus: enabled
+VuhDo: disabled
+VuhDoOptions: disabled
+ShadowedUF_Options: enabled
+ShadowedUnitFrames: enabled

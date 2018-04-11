@@ -44,3 +44,5 @@ DBM-Nighthold: enabled
 DBM-TrialofValor: enabled
 DBM-WorldEvents: enabled
 TradeSkillMaster_Destroying: disabled
+ShadowedUnitFrames: disabled
+ShadowedUF_Options: disabled

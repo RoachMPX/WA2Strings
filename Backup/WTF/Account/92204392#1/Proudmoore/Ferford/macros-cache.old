@@ -26,7 +26,7 @@ END
 VER 3 0100000000000009 "Vanish/stopattac" "INV_MISC_QUESTIONMARK"
 #showtooltip Vanish
 /cast Vanish
-aw/cast Shadowstrike
+/cast Shadowstrike
 /stopattack
 END
 VER 3 0100000000000007 "Vanvenrup" "INV_MISC_QUESTIONMARK"

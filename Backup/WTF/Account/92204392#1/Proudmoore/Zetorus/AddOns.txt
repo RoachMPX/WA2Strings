@@ -1,0 +1,7 @@
+VuhDo: disabled
+VuhDoOptions: disabled
+SpartanUI_SpinCam: disabled
+TradeSkillMaster_AuctionDB: disabled
+Details_Streamer: disabled
+ShadowedUF_Options: disabled
+ShadowedUnitFrames: disabled
