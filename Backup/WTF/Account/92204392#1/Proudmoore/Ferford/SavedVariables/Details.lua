@@ -5,11 +5,646 @@ _detalhes_database = {
 	["mythic_dungeon_id"] = 0,
 	["tabela_historico"] = {
 		["tabelas"] = {
+			{
+				{
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1352,
+							["totalabsorbed"] = 6923.002496,
+							["damage_from"] = {
+								["Ramkahen Guardian"] = true,
+								["Wolf"] = true,
+								["Unknown"] = true,
+								["Fujiwarac-Antonidas"] = true,
+								["Missyacie"] = true,
+							},
+							["targets"] = {
+								["Tailó-Tichondrius"] = 1538,
+								["Ramkahen Guardian"] = 23331,
+								["Ferford"] = 5196,
+								["Wolf"] = 5827,
+								["Unknown"] = 2193,
+								["Fujiwarac-Antonidas"] = 6923,
+								["Missyacie"] = 7783,
+							},
+							["enemy"] = true,
+							["pets"] = {
+							},
+							["end_time"] = 1534490603,
+							["friendlyfire_total"] = 0,
+							["classe"] = "DEMONHUNTER",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 52791.002496,
+							["last_dps"] = 0.388058584957238,
+							["tipo"] = 1,
+							["fight_component"] = true,
+							["total"] = 52791.002496,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["nome"] = "Dreaddemon-Kil'jaeden",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1580,
+										["targets"] = {
+											["Tailó-Tichondrius"] = 978,
+											["Ramkahen Guardian"] = 2378,
+											["Fujiwarac-Antonidas"] = 1181,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4537,
+										["n_min"] = 387,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 4537,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									}, -- [1]
+									[204598] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 8787,
+										["g_amt"] = 0,
+										["n_max"] = 1254,
+										["targets"] = {
+											["Ramkahen Guardian"] = 8178,
+											["Wolf"] = 4451,
+											["Ferford"] = 4481,
+											["Unknown"] = 1307,
+											["Tailó-Tichondrius"] = 334,
+											["Missyacie"] = 4078,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 14042,
+										["n_min"] = 85,
+										["g_dmg"] = 0,
+										["counter"] = 30,
+										["total"] = 22829,
+										["c_max"] = 2509,
+										["c_min"] = 128,
+										["id"] = 204598,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 21,
+										["spellschool"] = 4,
+										["IMMUNE"] = 1,
+									},
+									[178741] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2660,
+										["g_amt"] = 0,
+										["n_max"] = 1396,
+										["targets"] = {
+											["Tailó-Tichondrius"] = 226,
+											["Ramkahen Guardian"] = 4499,
+											["Ferford"] = 715,
+											["Wolf"] = 355,
+											["Unknown"] = 886,
+											["Fujiwarac-Antonidas"] = 223,
+											["Missyacie"] = 1426,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5670,
+										["n_min"] = 57,
+										["g_dmg"] = 0,
+										["counter"] = 19,
+										["total"] = 8330,
+										["c_max"] = 2660,
+										["c_min"] = 2660,
+										["id"] = 178741,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 17,
+										["spellschool"] = 4,
+										["IMMUNE"] = 1,
+									},
+									[225919] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1515,
+										["targets"] = {
+											["Fujiwarac-Antonidas"] = 752,
+											["Ramkahen Guardian"] = 1515,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2267,
+										["n_min"] = 752,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2267,
+										["c_max"] = 0,
+										["id"] = 225919,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									},
+									[228478] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 786,
+										["targets"] = {
+											["Wolf"] = 208,
+											["Fujiwarac-Antonidas"] = 786,
+											["Ferford"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 994,
+										["n_min"] = 208,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 994,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 228478,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["spellschool"] = 1,
+										["DODGE"] = 1,
+									},
+									[225921] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2991,
+										["g_amt"] = 0,
+										["n_max"] = 741,
+										["targets"] = {
+											["Fujiwarac-Antonidas"] = 741,
+											["Ramkahen Guardian"] = 2991,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 741,
+										["n_min"] = 741,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 3732,
+										["c_max"] = 2991,
+										["id"] = 225921,
+										["r_dmg"] = 0,
+										["c_min"] = 2991,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
+									},
+									[281721] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 191,
+										["targets"] = {
+											["Fujiwarac-Antonidas"] = 381,
+											["Missyacie"] = 199,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 580,
+										["n_min"] = 29,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 580,
+										["c_max"] = 0,
+										["id"] = 281721,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["spellschool"] = 8,
+									},
+									[273239] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 107,
+										["targets"] = {
+											["Wolf"] = 320,
+											["Missyacie"] = 106,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 426,
+										["n_min"] = 106,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 426,
+										["c_max"] = 0,
+										["id"] = 273239,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
+									},
+									[247455] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 3770,
+										["targets"] = {
+											["Fujiwarac-Antonidas"] = 2859,
+											["Wolf"] = 493,
+											["Ramkahen Guardian"] = 3770,
+											["Missyacie"] = 1974,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 9096,
+										["n_min"] = 493,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 9096,
+										["c_max"] = 0,
+										["id"] = 247455,
+										["r_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["damage_taken"] = 88139.002496,
+							["spec"] = 581,
+							["custom"] = 0,
+							["colocacao"] = 1,
+							["last_event"] = 1534490602,
+							["on_hold"] = false,
+							["start_time"] = 1534490593,
+							["serial"] = "Player-9-0A7476CE",
+							["friendlyfire"] = {
+							},
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003439,
+							["damage_from"] = {
+								["Dreaddemon-Kil'jaeden"] = true,
+							},
+							["targets"] = {
+							},
+							["delay"] = 0,
+							["pets"] = {
+							},
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003439,
+							["classe"] = "ROGUE",
+							["fight_component"] = true,
+							["total"] = 0.003439,
+							["damage_taken"] = 5196.003439,
+							["dps_started"] = false,
+							["nome"] = "Ferford",
+							["spec"] = 261,
+							["grupo"] = true,
+							["last_dps"] = 0,
+							["end_time"] = 1534490603,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1534490603,
+							["serial"] = "Player-5-09F6F304",
+							["friendlyfire"] = {
+							},
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 65.406415333786,
+							["resource"] = 0.006415,
+							["targets"] = {
+								["Dreaddemon-Kil'jaeden"] = 65.400000333786,
+							},
+							["enemy"] = true,
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "DEMONHUNTER",
+							["fight_component"] = true,
+							["total"] = 65.406415333786,
+							["nome"] = "Dreaddemon-Kil'jaeden",
+							["spells"] = {
+								["_ActorTable"] = {
+									[178741] = {
+										["id"] = 178741,
+										["total"] = 6.60000014305115,
+										["targets"] = {
+											["Dreaddemon-Kil'jaeden"] = 6.60000014305115,
+										},
+										["counter"] = 3,
+									},
+									[263642] = {
+										["id"] = 263642,
+										["total"] = 50,
+										["targets"] = {
+											["Dreaddemon-Kil'jaeden"] = 50,
+										},
+										["counter"] = 2,
+									},
+									[178740] = {
+										["id"] = 178740,
+										["total"] = 8.80000019073486,
+										["targets"] = {
+											["Dreaddemon-Kil'jaeden"] = 8.80000019073486,
+										},
+										["counter"] = 1,
+									},
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["tipo"] = 3,
+							["last_event"] = 1534490602,
+							["flag_original"] = 1352,
+							["alternatepower"] = 0.006415,
+							["serial"] = "Player-9-0A7476CE",
+							["spec"] = 581,
+						}, -- [1]
+						{
+							["received"] = 0.004835,
+							["resource"] = 0.004835,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["total"] = 0.004835,
+							["nome"] = "Ferford",
+							["spec"] = 261,
+							["grupo"] = true,
+							["flag_original"] = 1300,
+							["last_event"] = 0,
+							["alternatepower"] = 99.004835,
+							["tipo"] = 3,
+							["serial"] = "Player-5-09F6F304",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+						}, -- [2]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Ferford",
+							["spec"] = 261,
+							["grupo"] = true,
+							["fight_component"] = true,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["classe"] = "ROGUE",
+							["buff_uptime"] = 0,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[269083] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+									[2479] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 2479,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+									[69395] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 69395,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+									[227723] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 227723,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-5-09F6F304",
+							["last_event"] = 1534490603,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Ferford"] = {
+						["last"] = 0,
+						["total"] = 99,
+					},
+				},
+				["enemy"] = "Ramkahen Guardian",
+				["combat_counter"] = 1211,
+				["playing_solo"] = true,
+				["totals"] = {
+					52790.925849, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 65.373341333786,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 136038.744,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["frags"] = {
+				},
+				["data_fim"] = "00:23:24",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					52791, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 65.400000333786,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 0,
+				["TimeData"] = {
+				},
+				["data_inicio"] = 0,
+			}, -- [1]
 		},
 	},
-	["last_version"] = "v7.3.5.5499",
+	["last_version"] = "v8.0.1.6131",
 	["SoloTablesSaved"] = {
-		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
 		["Mode"] = 1,
 	},
 	["tabela_instancias"] = {
@@ -33,7 +668,7 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -120.618438720703,
+					["y"] = -120.618286132813,
 					["x"] = -819.809341430664,
 					["w"] = 234.666458129883,
 					["h"] = 202.126907348633,
@@ -81,17 +716,8 @@ _detalhes_database = {
 		}, -- [2]
 	},
 	["cached_talents"] = {
-		["Player-5-09F6F304"] = {
-			22128, -- [1]
-			22334, -- [2]
-			19239, -- [3]
-			19233, -- [4]
-			22335, -- [5]
-			21188, -- [6]
-			22331, -- [7]
-		},
 	},
-	["last_instance_id"] = 657,
+	["last_instance_id"] = 1493,
 	["announce_interrupts"] = {
 		["enabled"] = false,
 		["whisper"] = "",
@@ -99,15 +725,15 @@ _detalhes_database = {
 		["custom"] = "",
 		["next"] = "",
 	},
-	["last_instance_time"] = 1521328084,
+	["last_instance_time"] = 1526099262,
 	["active_profile"] = "Ferford",
-	["last_day"] = "07",
+	["last_day"] = "25",
 	["ignore_nicktag"] = true,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["animate"] = false,
 			["showamount"] = false,
+			["animate"] = false,
 			["useplayercolor"] = false,
 			["useclasscolors"] = false,
 			["author"] = "Details! Team",
@@ -140,8 +766,8 @@ _detalhes_database = {
 			["annouce"] = true,
 			["dpshistory"] = {
 			},
-			["dps"] = 0,
 			["author"] = "Details! Team",
+			["dps"] = 0,
 			["level"] = 1,
 			["enabled"] = true,
 		},
@@ -233,7 +859,6 @@ _detalhes_database = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["y"] = 0,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -245,10 +870,11 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
+			["font_size"] = 10,
 			["x"] = -3.05175781250e-005,
 			["font_face"] = "Friz Quadrata TT",
+			["y"] = 0,
 			["use_spark"] = true,
-			["font_size"] = 10,
 			["author"] = "Details! Team",
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
@@ -271,11 +897,11 @@ _detalhes_database = {
 	},
 	["last_encounter"] = "Gul'dan",
 	["nick_tag_cache"] = {
-		["nextreset"] = 1523337774,
+		["nextreset"] = 1536514840,
 		["last_version"] = 10,
 	},
 	["force_font_outline"] = "",
-	["combat_id"] = 218,
+	["combat_id"] = 57,
 	["savedStyles"] = {
 		{
 			["hide_in_combat_type"] = 1,
@@ -363,14 +989,11 @@ _detalhes_database = {
 				["x"] = 37.0791358947754,
 				["point"] = "LEFT",
 			},
-			["menu_anchor_down"] = {
-				16, -- [1]
-				-3, -- [2]
-			},
+			["bars_grow_direction"] = 1,
 			["switch_tank"] = false,
 			["strata"] = "LOW",
 			["desaturated_menu"] = false,
-			["bars_grow_direction"] = 1,
+			["window_scale"] = 1,
 			["ignore_mass_showhide"] = false,
 			["hide_in_combat_alpha"] = 0,
 			["plugins_grow_direction"] = 1,
@@ -393,7 +1016,10 @@ _detalhes_database = {
 					0.333333333333333, -- [3]
 				},
 			},
-			["window_scale"] = 1,
+			["menu_anchor_down"] = {
+				16, -- [1]
+				-3, -- [2]
+			},
 			["row_show_animation"] = {
 				["anim"] = "Fade",
 				["options"] = {
@@ -401,13 +1027,13 @@ _detalhes_database = {
 			},
 			["bg_alpha"] = 0.0984569266438484,
 			["skin"] = "Minimalistic",
-			["hide_icon"] = true,
 			["grab_on_top"] = false,
+			["switch_damager_in_combat"] = false,
 			["auto_hide_menu"] = {
 				["left"] = false,
 				["right"] = false,
 			},
-			["switch_damager_in_combat"] = false,
+			["hide_icon"] = true,
 			["auto_current"] = true,
 			["toolbar_side"] = 1,
 			["bg_g"] = 0.0941176470588235,
@@ -451,11 +1077,7 @@ _detalhes_database = {
 				["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
 				["textL_outline"] = false,
 				["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
-				["textR_show_data"] = {
-					true, -- [1]
-					true, -- [2]
-					true, -- [3]
-				},
+				["textL_outline_small"] = true,
 				["percent_type"] = 1,
 				["fixed_text_color"] = {
 					1, -- [1]
@@ -521,7 +1143,11 @@ _detalhes_database = {
 				},
 				["no_icon"] = true,
 				["textR_class_colors"] = false,
-				["textL_outline_small"] = true,
+				["textR_show_data"] = {
+					true, -- [1]
+					true, -- [2]
+					true, -- [3]
+				},
 				["font_face"] = "Accidental Presidency",
 				["texture_class_colors"] = true,
 				["backdrop"] = {
@@ -547,7 +1173,7 @@ _detalhes_database = {
 		}, -- [1]
 	},
 	["character_data"] = {
-		["logons"] = 49,
+		["logons"] = 67,
 	},
 	["announce_firsthit"] = {
 		["enabled"] = true,
@@ -563,6 +1189,373 @@ _detalhes_database = {
 		{
 			["tipo"] = 2,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1352,
+					["totalabsorbed"] = 6923.005959,
+					["damage_from"] = {
+						["Ramkahen Guardian"] = true,
+						["Wolf"] = true,
+						["Unknown"] = true,
+						["Fujiwarac-Antonidas"] = true,
+						["Missyacie"] = true,
+					},
+					["targets"] = {
+						["Ferford"] = 5196,
+						["Ramkahen Guardian"] = 23331,
+						["Fujiwarac-Antonidas"] = 6923,
+						["Unknown"] = 2193,
+						["Wolf"] = 5827,
+						["Tailó-Tichondrius"] = 1538,
+						["Missyacie"] = 7783,
+					},
+					["enemy"] = true,
+					["pets"] = {
+					},
+					["delay"] = 0,
+					["classe"] = "DEMONHUNTER",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 52791.005959,
+					["end_time"] = 1534490604,
+					["damage_taken"] = 88139.005959,
+					["dps_started"] = false,
+					["total"] = 52791.005959,
+					["friendlyfire_total"] = 0,
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1580,
+								["targets"] = {
+									["Ramkahen Guardian"] = 2378,
+									["Tailó-Tichondrius"] = 978,
+									["Fujiwarac-Antonidas"] = 1181,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4537,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 4537,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							}, -- [1]
+							[204598] = {
+								["c_amt"] = 8,
+								["b_amt"] = 0,
+								["c_dmg"] = 8787,
+								["g_amt"] = 0,
+								["n_max"] = 1254,
+								["targets"] = {
+									["Ramkahen Guardian"] = 8178,
+									["Unknown"] = 1307,
+									["Tailó-Tichondrius"] = 334,
+									["Wolf"] = 4451,
+									["Ferford"] = 4481,
+									["Missyacie"] = 4078,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14042,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 30,
+								["total"] = 22829,
+								["c_max"] = 2509,
+								["id"] = 204598,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 21,
+								["a_dmg"] = 0,
+								["IMMUNE"] = 1,
+							},
+							[178741] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 2660,
+								["g_amt"] = 0,
+								["n_max"] = 1396,
+								["targets"] = {
+									["Ferford"] = 715,
+									["Ramkahen Guardian"] = 4499,
+									["Fujiwarac-Antonidas"] = 223,
+									["Unknown"] = 886,
+									["Wolf"] = 355,
+									["Tailó-Tichondrius"] = 226,
+									["Missyacie"] = 1426,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 5670,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 19,
+								["total"] = 8330,
+								["c_max"] = 2660,
+								["id"] = 178741,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 17,
+								["a_dmg"] = 0,
+								["IMMUNE"] = 1,
+							},
+							[247455] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 3770,
+								["targets"] = {
+									["Ramkahen Guardian"] = 3770,
+									["Wolf"] = 493,
+									["Fujiwarac-Antonidas"] = 2859,
+									["Missyacie"] = 1974,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 9096,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 9096,
+								["c_max"] = 0,
+								["id"] = 247455,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[228478] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 786,
+								["targets"] = {
+									["Wolf"] = 208,
+									["Fujiwarac-Antonidas"] = 786,
+									["Ferford"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 994,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 994,
+								["c_max"] = 0,
+								["id"] = 228478,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["a_dmg"] = 0,
+								["DODGE"] = 1,
+							},
+							[273239] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 107,
+								["targets"] = {
+									["Missyacie"] = 106,
+									["Wolf"] = 320,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 426,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 426,
+								["c_max"] = 0,
+								["id"] = 273239,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[281721] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 191,
+								["targets"] = {
+									["Fujiwarac-Antonidas"] = 381,
+									["Missyacie"] = 199,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 580,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 580,
+								["c_max"] = 0,
+								["id"] = 281721,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[225919] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1515,
+								["targets"] = {
+									["Fujiwarac-Antonidas"] = 752,
+									["Ramkahen Guardian"] = 1515,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2267,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 2267,
+								["c_max"] = 0,
+								["id"] = 225919,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[225921] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 2991,
+								["g_amt"] = 0,
+								["n_max"] = 741,
+								["targets"] = {
+									["Fujiwarac-Antonidas"] = 741,
+									["Ramkahen Guardian"] = 2991,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 741,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 3732,
+								["c_max"] = 2991,
+								["id"] = 225921,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["nome"] = "Dreaddemon-Kil'jaeden",
+					["spec"] = 581,
+					["grupo"] = true,
+					["fight_component"] = true,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1534490591,
+					["serial"] = "Player-9-0A7476CE",
+					["on_hold"] = false,
+				}, -- [1]
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.008924,
+					["damage_from"] = {
+						["Dreaddemon-Kil'jaeden"] = true,
+					},
+					["targets"] = {
+					},
+					["delay"] = 0,
+					["pets"] = {
+					},
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["last_dps"] = 0,
+					["classe"] = "ROGUE",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.008924,
+					["on_hold"] = false,
+					["fight_component"] = true,
+					["end_time"] = 1534490604,
+					["damage_taken"] = 5196.008924,
+					["tipo"] = 1,
+					["nome"] = "Ferford",
+					["spec"] = 261,
+					["grupo"] = true,
+					["friendlyfire_total"] = 0,
+					["total"] = 0.008924,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1534490601,
+					["serial"] = "Player-5-09F6F304",
+					["dps_started"] = false,
+				}, -- [2]
 			},
 		}, -- [1]
 		{
@@ -573,11 +1566,146 @@ _detalhes_database = {
 		{
 			["tipo"] = 7,
 			["_ActorTable"] = {
+				{
+					["received"] = 65.407738333786,
+					["resource"] = 0.014153,
+					["targets"] = {
+						["Dreaddemon-Kil'jaeden"] = 0,
+					},
+					["enemy"] = true,
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["classe"] = "DEMONHUNTER",
+					["fight_component"] = true,
+					["total"] = 65.407738333786,
+					["nome"] = "Dreaddemon-Kil'jaeden",
+					["spec"] = 581,
+					["grupo"] = true,
+					["flag_original"] = 1352,
+					["tipo"] = 3,
+					["alternatepower"] = 0.007738,
+					["last_event"] = 0,
+					["serial"] = "Player-9-0A7476CE",
+					["spells"] = {
+						["_ActorTable"] = {
+							[178741] = {
+								["id"] = 178741,
+								["total"] = 6.60000014305115,
+								["targets"] = {
+									["Dreaddemon-Kil'jaeden"] = 0,
+								},
+								["counter"] = 3,
+							},
+							[263642] = {
+								["id"] = 263642,
+								["total"] = 50,
+								["targets"] = {
+									["Dreaddemon-Kil'jaeden"] = 0,
+								},
+								["counter"] = 2,
+							},
+							[178740] = {
+								["id"] = 178740,
+								["total"] = 8.80000019073486,
+								["targets"] = {
+									["Dreaddemon-Kil'jaeden"] = 0,
+								},
+								["counter"] = 1,
+							},
+						},
+						["tipo"] = 7,
+					},
+				}, -- [1]
+				{
+					["received"] = 0.002202,
+					["resource"] = 0.007037,
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["classe"] = "ROGUE",
+					["total"] = 0.002202,
+					["nome"] = "Ferford",
+					["spec"] = 261,
+					["grupo"] = true,
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+						},
+					},
+					["tipo"] = 3,
+					["flag_original"] = 1300,
+					["last_event"] = 0,
+					["alternatepower"] = 0.002202,
+					["serial"] = "Player-5-09F6F304",
+				}, -- [2]
 			},
 		}, -- [3]
 		{
 			["tipo"] = 9,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 261,
+					["grupo"] = true,
+					["fight_component"] = true,
+					["buff_uptime"] = 0,
+					["tipo"] = 4,
+					["nome"] = "Ferford",
+					["classe"] = "ROGUE",
+					["pets"] = {
+					},
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[269083] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
+								["id"] = 269083,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[227723] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
+								["id"] = 227723,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[69395] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
+								["id"] = 69395,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[2479] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
+								["id"] = 2479,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["serial"] = "Player-5-09F6F304",
+					["last_event"] = 0,
+				}, -- [1]
 			},
 		}, -- [4]
 		{
@@ -591,29 +1719,29 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 937,
+		["combat_counter"] = 1209,
 		["totals"] = {
-			0, -- [1]
+			176176.011463, -- [1]
 			0, -- [2]
 			{
 				0, -- [1]
-				[0] = 0,
+				[0] = 111.414721333786,
 				["alternatepower"] = 0,
-				[3] = 0,
 				[6] = 0,
+				[3] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
 				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
 			}, -- [4]
-			["frags_total"] = 0,
 			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
 		},
 		["player_last_events"] = {
 		},
@@ -621,58 +1749,69 @@ _detalhes_database = {
 		["__call"] = {
 		},
 		["data_inicio"] = 0,
-		["end_time"] = 196193.925,
-		["frags"] = {
-		},
-		["data_fim"] = 0,
-		["CombatSkillCache"] = {
-		},
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-		},
-		["start_time"] = 196193.925,
-		["TimeData"] = {
-		},
+		["end_time"] = 136038.744,
 		["PhaseData"] = {
 			{
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
+			["damage"] = {
+			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
 			["damage_section"] = {
 			},
-			["damage"] = {
-			},
+		},
+		["overall_refreshed"] = true,
+		["hasSaved"] = true,
+		["segments_added"] = {
+			{
+				["elapsed"] = 136038.744,
+				["type"] = 0,
+				["name"] = "Ramkahen Guardian",
+				["clock"] = 0,
+			}, -- [1]
+		},
+		["data_fim"] = "00:23:24",
+		["overall_enemy_name"] = "Ramkahen Guardian",
+		["CombatSkillCache"] = {
+		},
+		["totals_grupo"] = {
+			52791.005935, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 65.406415333786,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+		},
+		["start_time"] = -0.1,
+		["TimeData"] = {
+		},
+		["frags"] = {
 		},
 	},
-	["last_realversion"] = 130,
+	["last_realversion"] = 132,
 	["announce_prepots"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["combat_counter"] = 939,
+	["combat_counter"] = 1212,
 	["announce_cooldowns"] = {
 		["enabled"] = false,
 		["ignored_cooldowns"] = {

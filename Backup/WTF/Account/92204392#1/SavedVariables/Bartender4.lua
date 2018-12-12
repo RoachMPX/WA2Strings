@@ -1,6 +1,8 @@
 
 Bartender4DB = {
 	["namespaces"] = {
+		["StatusTrackingBar"] = {
+		},
 		["ActionBars"] = {
 			["profiles"] = {
 				["Röach - Proudmoore"] = {
@@ -1118,72 +1120,6 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Hammetinks - Proudmoore"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
 				["Gaerestraz - Wyrmrest Accord"] = {
 					["actionbars"] = {
 						{
@@ -1250,7 +1186,139 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Taruzna - Wyrmrest Accord"] = {
+				["Hammetinks - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Ferfuzond - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Rhochronos - Proudmoore"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -1569,6 +1637,72 @@ Bartender4DB = {
 						},
 					},
 				},
+				["Rhoach - Proudmoore"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
 				["Lithri - Dalaran"] = {
 					["actionbars"] = {
 						{
@@ -1624,73 +1758,7 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Rhochronos - Proudmoore"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
-					},
-				},
-				["Rhoach - Proudmoore"] = {
+				["Roachmpx - Khaz'goroth"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -1954,7 +2022,7 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Roachmpx - Khaz'goroth"] = {
+				["Vinwjoinplz - Dalaran"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -1975,8 +2043,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -1985,8 +2053,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -2020,7 +2088,7 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Vinwjoinplz - Dalaran"] = {
+				["Lyx - Proudmoore"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -2505,20 +2573,25 @@ Bartender4DB = {
 				["SpartanUI - Fel"] = {
 					["actionbars"] = {
 						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
+							["version"] = 3,
 							["position"] = {
 								["y"] = 36,
 								["x"] = -510,
 								["point"] = "CENTER",
 								["parent"] = "Fel_ActionBarPlate",
 								["scale"] = 0.85,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
 							},
 						}, -- [1]
 						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -8,
 								["x"] = -510,
@@ -2526,13 +2599,13 @@ Bartender4DB = {
 								["parent"] = "Fel_ActionBarPlate",
 								["scale"] = 0.85,
 							},
-							["padding"] = 3,
-							["version"] = 3,
+						}, -- [2]
+						{
 							["skin"] = {
 								["Zoom"] = true,
 							},
-						}, -- [2]
-						{
+							["padding"] = 3,
+							["version"] = 3,
 							["position"] = {
 								["y"] = 36,
 								["x"] = 108,
@@ -2540,24 +2613,19 @@ Bartender4DB = {
 								["parent"] = "Fel_ActionBarPlate",
 								["scale"] = 0.85,
 							},
-							["padding"] = 3,
-							["version"] = 3,
+						}, -- [3]
+						{
 							["skin"] = {
 								["Zoom"] = true,
 							},
-						}, -- [3]
-						{
+							["padding"] = 3,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -8,
 								["x"] = 108,
 								["point"] = "CENTER",
 								["parent"] = "Fel_ActionBarPlate",
 								["scale"] = 0.85,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
 							},
 						}, -- [4]
 						{
@@ -2566,7 +2634,6 @@ Bartender4DB = {
 								["Zoom"] = true,
 							},
 							["rows"] = 3,
-							["padding"] = 4,
 							["position"] = {
 								["y"] = 35,
 								["x"] = -645,
@@ -2574,6 +2641,7 @@ Bartender4DB = {
 								["parent"] = "Fel_ActionBarPlate",
 								["scale"] = 0.8,
 							},
+							["padding"] = 4,
 						}, -- [5]
 						{
 							["version"] = 3,
@@ -2581,7 +2649,6 @@ Bartender4DB = {
 								["Zoom"] = true,
 							},
 							["rows"] = 3,
-							["padding"] = 4,
 							["position"] = {
 								["y"] = 35,
 								["x"] = 514,
@@ -2589,46 +2656,52 @@ Bartender4DB = {
 								["parent"] = "Fel_ActionBarPlate",
 								["scale"] = 0.8,
 							},
+							["padding"] = 4,
 						}, -- [6]
 						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -105.174999898321,
 								["x"] = 214.607712347584,
 								["point"] = "BOTTOMRIGHT",
 								["parent"] = "Fel_ActionBarPlate",
 								["scale"] = 0.85,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
 							},
 						}, -- [7]
 						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -105.174999898321,
 								["x"] = 214.607712347584,
 								["point"] = "BOTTOMRIGHT",
 								["parent"] = "Fel_ActionBarPlate",
 								["scale"] = 0.85,
-							},
-							["padding"] = 3,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
 							},
 						}, -- [8]
 						{
 							["padding"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
 							["position"] = {
 								["parent"] = "Fel_ActionBarPlate",
 								["scale"] = 0.85,
-							},
-							["skin"] = {
-								["Zoom"] = true,
 							},
 						}, -- [9]
 						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -105.174999898321,
 								["x"] = 214.607712347584,
@@ -2636,78 +2709,7 @@ Bartender4DB = {
 								["scale"] = 0.85,
 								["parent"] = "Fel_ActionBarPlate",
 							},
-							["padding"] = 3,
-							["version"] = 3,
-							["skin"] = {
-								["Zoom"] = true,
-							},
 						}, -- [10]
-					},
-				},
-				["Lyx - Proudmoore"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						[10] = {
-						},
 					},
 				},
 				["Cyprinidae - Proudmoore"] = {
@@ -2869,8 +2871,8 @@ Bartender4DB = {
 								["Zoom"] = true,
 							},
 							["position"] = {
-								["scale"] = 0.85,
 								["parent"] = "SUI_ActionBarPlate",
+								["scale"] = 0.85,
 							},
 							["padding"] = 3,
 						}, -- [7]
@@ -2879,8 +2881,8 @@ Bartender4DB = {
 								["Zoom"] = true,
 							},
 							["position"] = {
-								["scale"] = 0.85,
 								["parent"] = "SUI_ActionBarPlate",
+								["scale"] = 0.85,
 							},
 							["padding"] = 3,
 						}, -- [8]
@@ -2889,8 +2891,8 @@ Bartender4DB = {
 								["Zoom"] = true,
 							},
 							["position"] = {
-								["scale"] = 0.85,
 								["parent"] = "SUI_ActionBarPlate",
+								["scale"] = 0.85,
 							},
 							["padding"] = 3,
 						}, -- [9]
@@ -2899,8 +2901,8 @@ Bartender4DB = {
 								["Zoom"] = true,
 							},
 							["position"] = {
-								["scale"] = 0.85,
 								["parent"] = "SUI_ActionBarPlate",
+								["scale"] = 0.85,
 							},
 							["padding"] = 3,
 						}, -- [10]
@@ -2947,6 +2949,72 @@ Bartender4DB = {
 						}, -- [5]
 						{
 							["padding"] = 6,
+							["position"] = {
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Taruzna - Wyrmrest Accord"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
 							["position"] = {
 								["y"] = 83,
 								["x"] = -510,
@@ -3027,70 +3095,142 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Ferfuzond - Proudmoore"] = {
+				["SpartanUI - War"] = {
 					["actionbars"] = {
 						{
-							["padding"] = 6,
 							["version"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
 							["position"] = {
-								["y"] = 41.75,
+								["y"] = 36,
 								["x"] = -510,
-								["point"] = "BOTTOM",
+								["point"] = "CENTER",
+								["scale"] = 0.85,
+								["parent"] = "War_ActionBarPlate",
+							},
+							["states"] = {
+								["stance"] = {
+									["DRUID"] = {
+										["cat"] = 0,
+										["prowl"] = 0,
+									},
+								},
 							},
 						}, -- [1]
 						{
-							["enabled"] = false,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
+								["y"] = -8,
+								["x"] = -510,
 								["point"] = "CENTER",
+								["scale"] = 0.85,
+								["parent"] = "War_ActionBarPlate",
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
-							["padding"] = 5,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
+								["y"] = 36,
+								["x"] = 108,
+								["point"] = "CENTER",
+								["scale"] = 0.85,
+								["parent"] = "War_ActionBarPlate",
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
-							["padding"] = 5,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["padding"] = 3,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
+								["y"] = -8,
+								["x"] = 108,
+								["point"] = "CENTER",
+								["scale"] = 0.85,
+								["parent"] = "War_ActionBarPlate",
 							},
 						}, -- [4]
 						{
-							["padding"] = 6,
 							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
+							["skin"] = {
+								["Zoom"] = true,
 							},
+							["rows"] = 3,
+							["position"] = {
+								["y"] = 35,
+								["x"] = -645,
+								["point"] = "CENTER",
+								["scale"] = 0.8,
+								["parent"] = "War_ActionBarPlate",
+							},
+							["padding"] = 4,
 						}, -- [5]
 						{
-							["padding"] = 6,
 							["version"] = 3,
-							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
+							["skin"] = {
+								["Zoom"] = true,
 							},
+							["rows"] = 3,
+							["position"] = {
+								["y"] = 35,
+								["x"] = 514,
+								["point"] = "CENTER",
+								["scale"] = 0.8,
+								["parent"] = "War_ActionBarPlate",
+							},
+							["padding"] = 4,
 						}, -- [6]
 						{
+							["padding"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["parent"] = "War_ActionBarPlate",
+								["scale"] = 0.85,
+							},
 						}, -- [7]
 						{
+							["padding"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["parent"] = "War_ActionBarPlate",
+								["scale"] = 0.85,
+							},
 						}, -- [8]
-						[10] = {
-						},
+						{
+							["padding"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["parent"] = "War_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+						}, -- [9]
+						{
+							["padding"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["parent"] = "War_ActionBarPlate",
+								["scale"] = 0.85,
+							},
+						}, -- [10]
 					},
 				},
 			},
@@ -3294,6 +3434,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Cyprinidae - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 223.000015258789,
+						["x"] = -31.5000610351563,
+						["point"] = "BOTTOM",
+					},
+				},
 				["SpartanUI - Transparent"] = {
 					["fadeoutalpha"] = 0.25,
 					["fadeout"] = true,
@@ -3315,14 +3463,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Taruzna - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000015258789,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Roachmpx - Khaz'goroth"] = {
 					["version"] = 3,
 					["position"] = {
@@ -3339,6 +3479,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Gaerestraz - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 223.000015258789,
+						["x"] = -31.5000610351563,
+						["point"] = "BOTTOM",
+					},
+				},
 				["SpartanUI - Fel"] = {
 					["fadeout"] = true,
 					["version"] = 3,
@@ -3348,14 +3496,6 @@ Bartender4DB = {
 						["x"] = -32,
 						["point"] = "CENTER",
 						["parent"] = "Fel_ActionBarPlate",
-					},
-				},
-				["Gaerestraz - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000015258789,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
 					},
 				},
 				["Lyx - Proudmoore"] = {
@@ -3383,6 +3523,14 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
+				["Taruzna - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 223.000015258789,
+						["x"] = -31.5000610351563,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Vormulos - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
@@ -3391,12 +3539,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Cyprinidae - Proudmoore"] = {
+				["SpartanUI - War"] = {
 					["version"] = 3,
+					["fadeoutalpha"] = 0.6,
+					["fadeout"] = true,
 					["position"] = {
-						["y"] = 223.000015258789,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
+						["y"] = 240,
+						["x"] = -32,
+						["point"] = "CENTER",
+						["parent"] = "War_ActionBarPlate",
 					},
 				},
 			},
@@ -3406,8 +3557,24 @@ Bartender4DB = {
 				["SpartanUI - Fel"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 189.706726074219,
-						["x"] = 585.290588378906,
+						["y"] = 200,
+						["x"] = -31.9999980926514,
+						["point"] = "CENTER",
+					},
+				},
+				["SpartanUI - Classic"] = {
+					["position"] = {
+						["y"] = -1,
+						["x"] = 0,
+						["point"] = "BOTTOMLEFT",
+					},
+					["version"] = 3,
+				},
+				["SpartanUI - Minimal"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 85.0000457763672,
+						["x"] = 586.082824707031,
 						["point"] = "TOPRIGHT",
 					},
 				},
@@ -3419,21 +3586,16 @@ Bartender4DB = {
 						["point"] = "BOTTOMLEFT",
 					},
 				},
-				["SpartanUI - Minimal"] = {
+				["SpartanUI - War"] = {
 					["version"] = 3,
+					["fadeoutalpha"] = 0.6,
+					["fadeout"] = true,
 					["position"] = {
-						["y"] = 85.0000457763672,
-						["x"] = 586.082824707031,
-						["point"] = "TOPRIGHT",
+						["y"] = 240,
+						["x"] = -32,
+						["point"] = "CENTER",
+						["parent"] = "War_ActionBarPlate",
 					},
-				},
-				["SpartanUI - Classic"] = {
-					["position"] = {
-						["y"] = -1,
-						["x"] = 0,
-						["point"] = "BOTTOMLEFT",
-					},
-					["version"] = 3,
 				},
 			},
 		},
@@ -3610,16 +3772,6 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Hammetinks - Proudmoore"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["y"] = 41.75,
-					},
-				},
 				["Gaerestraz - Wyrmrest Accord"] = {
 					["padding"] = -2,
 					["version"] = 3,
@@ -3630,7 +3782,27 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Taruzna - Wyrmrest Accord"] = {
+				["Hammetinks - Proudmoore"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Ferfuzond - Proudmoore"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Rhochronos - Proudmoore"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3679,16 +3851,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Lithri - Dalaran"] = {
-					["padding"] = -2,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["y"] = 41.75,
-					},
-				},
-				["Rhochronos - Proudmoore"] = {
+				["Rhoach - Proudmoore"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3698,7 +3861,16 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Rhoach - Proudmoore"] = {
+				["Lithri - Dalaran"] = {
+					["padding"] = -2,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Roachmpx - Khaz'goroth"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3738,7 +3910,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Roachmpx - Khaz'goroth"] = {
+				["Vinwjoinplz - Dalaran"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3748,7 +3920,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Vinwjoinplz - Dalaran"] = {
+				["Lyx - Proudmoore"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -3809,25 +3981,15 @@ Bartender4DB = {
 					["padding"] = -2,
 				},
 				["SpartanUI - Fel"] = {
-					["version"] = 3,
 					["fadeoutalpha"] = 0.6,
 					["fadeout"] = true,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 4,
 						["x"] = 114,
 						["point"] = "TOP",
 						["scale"] = 0.7,
 						["parent"] = "Fel_ActionBarPlate",
-					},
-				},
-				["Lyx - Proudmoore"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["y"] = 41.75,
 					},
 				},
 				["Cyprinidae - Proudmoore"] = {
@@ -3858,6 +4020,16 @@ Bartender4DB = {
 					},
 					["padding"] = -2,
 				},
+				["Taruzna - Wyrmrest Accord"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
 				["Vormulos - Proudmoore"] = {
 					["padding"] = -2,
 					["version"] = 3,
@@ -3868,14 +4040,17 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Ferfuzond - Proudmoore"] = {
-					["padding"] = -2,
+				["SpartanUI - War"] = {
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1,
-						["x"] = 37.5,
-						["point"] = "BOTTOM",
-						["y"] = 41.75,
+						["y"] = -1,
+						["x"] = 138,
+						["point"] = "TOP",
+						["scale"] = 0.65,
+						["parent"] = {
+							["variablesLoaded"] = true,
+							["firstTimeLoaded"] = 1,
+						},
 					},
 				},
 			},
@@ -4059,6 +4234,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Roachmpx - Khaz'goroth"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Tarrenus - Emerald Dream"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -4095,7 +4279,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Lyx - Proudmoore"] = {
+				["Cyprinidae - Proudmoore"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4104,7 +4288,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Rhoach - Proudmoore"] = {
+				["Rhochronos - Proudmoore"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4113,7 +4297,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Blackxsixpan - Proudmoore"] = {
+				["Taruzna - Wyrmrest Accord"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4149,7 +4333,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Roachmpx - Khaz'goroth"] = {
+				["Lyx - Proudmoore"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4158,7 +4342,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Rhochronos - Proudmoore"] = {
+				["Vinwjoinplz - Dalaran"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4210,7 +4394,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Ferfuzond - Proudmoore"] = {
+				["Gaerestraz - Wyrmrest Accord"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4219,7 +4403,16 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Gaerestraz - Wyrmrest Accord"] = {
+				["Blackxsixpan - Proudmoore"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Rhoach - Proudmoore"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4237,16 +4430,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Taruzna - Wyrmrest Accord"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Cyprinidae - Proudmoore"] = {
+				["Ferfuzond - Proudmoore"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -4264,8 +4448,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Vinwjoinplz - Dalaran"] = {
-					["enabled"] = true,
+				["SpartanUI - War"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47,
@@ -4472,6 +4655,14 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
+				["Cyprinidae - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
 				["SpartanUI - Transparent"] = {
 					["enabled"] = false,
 					["fadeoutalpha"] = 0.25,
@@ -4499,14 +4690,6 @@ Bartender4DB = {
 					["version"] = 3,
 					["fadeoutalpha"] = 0.25,
 				},
-				["Taruzna - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
 				["Roachmpx - Khaz'goroth"] = {
 					["version"] = 3,
 					["position"] = {
@@ -4516,6 +4699,14 @@ Bartender4DB = {
 					},
 				},
 				["Vinwjoinplz - Dalaran"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Gaerestraz - Wyrmrest Accord"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47.5000305175781,
@@ -4538,14 +4729,6 @@ Bartender4DB = {
 					["padding"] = 3,
 					["fadeout"] = true,
 				},
-				["Gaerestraz - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
 				["Lyx - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
@@ -4566,13 +4749,21 @@ Bartender4DB = {
 					["enabled"] = false,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 17.8499988794326,
-						["x"] = -17.8499923944471,
+						["y"] = 213,
+						["x"] = -15,
 						["point"] = "CENTER",
-						["scale"] = 0.850000023841858,
+						["scale"] = 0.85,
 						["parent"] = "SUI_ActionBarPlate",
 					},
 					["padding"] = 3,
+				},
+				["Taruzna - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
 				},
 				["Vormulos - Proudmoore"] = {
 					["version"] = 3,
@@ -4582,13 +4773,19 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Cyprinidae - Proudmoore"] = {
-					["version"] = 3,
+				["SpartanUI - War"] = {
+					["enabled"] = false,
+					["fadeoutalpha"] = 0.6,
 					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
+						["y"] = 213,
+						["x"] = -15,
 						["point"] = "CENTER",
+						["scale"] = 0.85,
+						["parent"] = "War_ActionBarPlate",
 					},
+					["padding"] = 3,
+					["version"] = 3,
+					["fadeout"] = true,
 				},
 			},
 		},
@@ -4731,14 +4928,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Hammetinks - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Gaerestraz - Wyrmrest Accord"] = {
 					["version"] = 3,
 					["position"] = {
@@ -4747,7 +4936,23 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Taruzna - Wyrmrest Accord"] = {
+				["Hammetinks - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ferfuzond - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Rhochronos - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -4786,14 +4991,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Lithri - Dalaran"] = {
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Rhochronos - Proudmoore"] = {
+				["Rhoach - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -4801,7 +4999,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Rhoach - Proudmoore"] = {
+				["Lithri - Dalaran"] = {
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Roachmpx - Khaz'goroth"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -4833,7 +5038,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Roachmpx - Khaz'goroth"] = {
+				["Vinwjoinplz - Dalaran"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -4841,7 +5046,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Vinwjoinplz - Dalaran"] = {
+				["Lyx - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -4914,14 +5119,6 @@ Bartender4DB = {
 					["fadeoutalpha"] = 0.6,
 					["keyring"] = true,
 				},
-				["Lyx - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Cyprinidae - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
@@ -4950,6 +5147,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Taruzna - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Vormulos - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
@@ -4958,12 +5163,20 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Ferfuzond - Proudmoore"] = {
+				["SpartanUI - War"] = {
+					["keyring"] = true,
+					["padding"] = 0,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
-						["point"] = "BOTTOM",
+						["growHorizontal"] = "LEFT",
+						["x"] = 465,
+						["point"] = "TOP",
+						["scale"] = 0.6,
+						["parent"] = {
+							["variablesLoaded"] = true,
+							["firstTimeLoaded"] = 1,
+						},
+						["y"] = -1,
 					},
 				},
 			},
@@ -5185,6 +5398,14 @@ Bartender4DB = {
 						["y"] = 116,
 					},
 				},
+				["Cyprinidae - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
 				["SpartanUI - Transparent"] = {
 					["fadeout"] = true,
 					["position"] = {
@@ -5212,15 +5433,6 @@ Bartender4DB = {
 					["version"] = 3,
 					["fadeout"] = true,
 				},
-				["Taruzna - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["scale"] = 1,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-						["y"] = 116,
-					},
-				},
 				["Roachmpx - Khaz'goroth"] = {
 					["version"] = 3,
 					["position"] = {
@@ -5230,6 +5442,14 @@ Bartender4DB = {
 					},
 				},
 				["Vinwjoinplz - Dalaran"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Gaerestraz - Wyrmrest Accord"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -14.9999618530273,
@@ -5250,14 +5470,6 @@ Bartender4DB = {
 					["padding"] = 1,
 					["fadeout"] = true,
 					["fadeoutalpha"] = 0.6,
-				},
-				["Gaerestraz - Wyrmrest Accord"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
-					},
 				},
 				["Lyx - Proudmoore"] = {
 					["version"] = 3,
@@ -5287,6 +5499,15 @@ Bartender4DB = {
 					["padding"] = 1,
 					["version"] = 3,
 				},
+				["Taruzna - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 116,
+					},
+				},
 				["Vormulos - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
@@ -5296,12 +5517,19 @@ Bartender4DB = {
 						["y"] = 116,
 					},
 				},
-				["Cyprinidae - Proudmoore"] = {
+				["SpartanUI - War"] = {
+					["padding"] = 1,
 					["version"] = 3,
 					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
+						["growHorizontal"] = "LEFT",
+						["x"] = -129,
+						["point"] = "TOP",
+						["scale"] = 0.6,
+						["parent"] = {
+							["variablesLoaded"] = true,
+							["firstTimeLoaded"] = 1,
+						},
+						["y"] = -1,
 					},
 				},
 			},
@@ -5445,14 +5673,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Hammetinks - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -120,
-						["point"] = "BOTTOM",
-					},
-				},
 				["Gaerestraz - Wyrmrest Accord"] = {
 					["version"] = 3,
 					["position"] = {
@@ -5461,11 +5681,27 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Taruzna - Wyrmrest Accord"] = {
+				["Hammetinks - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 116,
 						["x"] = -120,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ferfuzond - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Rhochronos - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -460,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -5500,6 +5736,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Rhoach - Proudmoore"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -120,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Lithri - Dalaran"] = {
 					["position"] = {
 						["y"] = 116,
@@ -5507,19 +5751,11 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Rhochronos - Proudmoore"] = {
+				["Roachmpx - Khaz'goroth"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 116,
 						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Rhoach - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -120,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -5547,7 +5783,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Roachmpx - Khaz'goroth"] = {
+				["Vinwjoinplz - Dalaran"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 116,
@@ -5555,7 +5791,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Vinwjoinplz - Dalaran"] = {
+				["Lyx - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 116,
@@ -5620,9 +5856,6 @@ Bartender4DB = {
 					["skin"] = {
 						["Zoom"] = true,
 					},
-					["fadeoutalpha"] = 0.6,
-					["padding"] = 1,
-					["fadeout"] = true,
 					["position"] = {
 						["y"] = 2,
 						["x"] = -497,
@@ -5630,14 +5863,9 @@ Bartender4DB = {
 						["scale"] = 0.7,
 						["parent"] = "Fel_ActionBarPlate",
 					},
-				},
-				["Lyx - Proudmoore"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
+					["padding"] = 1,
+					["fadeoutalpha"] = 0.6,
+					["fadeout"] = true,
 				},
 				["Cyprinidae - Proudmoore"] = {
 					["version"] = 3,
@@ -5668,6 +5896,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Taruzna - Wyrmrest Accord"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 116,
+						["x"] = -120,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Vormulos - Proudmoore"] = {
 					["version"] = 3,
 					["position"] = {
@@ -5676,12 +5912,21 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Ferfuzond - Proudmoore"] = {
+				["SpartanUI - War"] = {
+					["skin"] = {
+						["Zoom"] = true,
+					},
+					["padding"] = 1,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
-						["point"] = "BOTTOM",
+						["y"] = -1,
+						["x"] = -465,
+						["point"] = "TOP",
+						["scale"] = 0.65,
+						["parent"] = {
+							["variablesLoaded"] = true,
+							["firstTimeLoaded"] = 1,
+						},
 					},
 				},
 			},
@@ -5834,17 +6079,22 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Hammetinks - Proudmoore"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
 		["Gaerestraz - Wyrmrest Accord"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Taruzna - Wyrmrest Accord"] = {
+		["Hammetinks - Proudmoore"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Ferfuzond - Proudmoore"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Rhochronos - Proudmoore"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -5869,17 +6119,17 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
+		["Rhoach - Proudmoore"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
 		["Lithri - Dalaran"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Rhochronos - Proudmoore"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-		["Rhoach - Proudmoore"] = {
+		["Roachmpx - Khaz'goroth"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -5899,12 +6149,12 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Roachmpx - Khaz'goroth"] = {
+		["Vinwjoinplz - Dalaran"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Vinwjoinplz - Dalaran"] = {
+		["Lyx - Proudmoore"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -5940,11 +6190,6 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["buttonlock"] = true,
 		},
-		["Lyx - Proudmoore"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
 		["Cyprinidae - Proudmoore"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
@@ -5962,12 +6207,17 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
+		["Taruzna - Wyrmrest Accord"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
 		["Vormulos - Proudmoore"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Ferfuzond - Proudmoore"] = {
+		["SpartanUI - War"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",

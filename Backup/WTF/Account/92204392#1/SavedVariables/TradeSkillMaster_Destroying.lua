@@ -18,15 +18,6 @@ TradeSkillMaster_DestroyingDB = {
 			"Blattaris - Proudmoore", -- [8]
 			"Ilarian - Proudmoore", -- [9]
 		},
-		["realm"] = {
-			"Wyrmrest Accord", -- [1]
-			"Proudmoore", -- [2]
-			"Dalaran", -- [3]
-			"Emerald Dream", -- [4]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
 		["factionrealm"] = {
 			"Alliance - Wyrmrest Accord", -- [1]
 			"Alliance - Proudmoore", -- [2]
@@ -34,36 +25,18 @@ TradeSkillMaster_DestroyingDB = {
 			"Horde - Dalaran", -- [4]
 			"Horde - Emerald Dream", -- [5]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["realm"] = {
+			"Wyrmrest Accord", -- [1]
+			"Proudmoore", -- [2]
+			"Dalaran", -- [3]
+			"Emerald Dream", -- [4]
+		},
 	},
 	["g@ @autoShow"] = true,
 	["g@ @autoStack"] = true,
-	["g@ @logDays"] = 14,
-	["g@ @deAbovePrice"] = "0c",
-	["g@ @history"] = {
-		["Disenchant"] = {
-			{
-				["item"] = "i:121247::2:108:1812:1000110",
-				["time"] = 1481797592,
-				["result"] = {
-					["i:124440"] = 3,
-				},
-			}, -- [1]
-			{
-				["item"] = "i:121262::2:108:1812:1000110",
-				["time"] = 1482742274,
-				["result"] = {
-					["i:124440"] = 3,
-				},
-			}, -- [2]
-		},
-	},
-	["g@ @helpPlatesShown"] = {
-		["destroyingFrame"] = true,
-	},
-	["_hash"] = 14107345,
-	["g@ @includeSoulbound"] = false,
-	["g@ @deMaxQuality"] = 3,
-	["_version"] = 1,
 	["_currentProfile"] = {
 		["Garmuul - Emerald Dream"] = "Default",
 		["Ilarian - Proudmoore"] = "Default",
@@ -75,4 +48,31 @@ TradeSkillMaster_DestroyingDB = {
 		["Ferford - Proudmoore"] = "Default",
 		["Mortheim - Wyrmrest Accord"] = "Default",
 	},
+	["_version"] = 1,
+	["g@ @history"] = {
+		["Disenchant"] = {
+			{
+				["result"] = {
+					["i:124440"] = 3,
+				},
+				["item"] = "i:121247::2:108:1812:1000110",
+				["time"] = 1481797592,
+			}, -- [1]
+			{
+				["result"] = {
+					["i:124440"] = 3,
+				},
+				["item"] = "i:121262::2:108:1812:1000110",
+				["time"] = 1482742274,
+			}, -- [2]
+		},
+	},
+	["g@ @helpPlatesShown"] = {
+		["destroyingFrame"] = true,
+	},
+	["g@ @includeSoulbound"] = false,
+	["_hash"] = 14107345,
+	["g@ @deMaxQuality"] = 3,
+	["g@ @deAbovePrice"] = "0c",
+	["g@ @logDays"] = 14,
 }

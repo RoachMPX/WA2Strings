@@ -14,6 +14,19 @@ VER 3 0100000000000006 "Blood Boil" "237513"
 /cancelaura Rejuvenation
 /cancelaura Lifebloom
 END
+VER 3 010000000000000C "Breath" "1029007"
+#showtooltip Breath of Sindragosa
+/use 13
+/use 14
+/cast Empower Rune Weapon
+/cast Breath of Sindragosa
+END
+VER 3 010000000000000D "DT" "342913"
+#showtooltip Dark Transformation
+/use 13
+/use 14
+/cast Dark Transformation
+END
 VER 3 0100000000000007 "Heart Strike" "135675"
 #showtooltip Heart Strike
 /cast Heart Strike
@@ -28,7 +41,8 @@ END
 VER 3 0100000000000002 "Prospect Macro" "INV_MISC_QUESTIONMARK"
 #showtooltip Prospecting
 /cast Prospecting
-/use Empyrium
+//use Storm Silver Ore
+/use Monelite Ore
 END
 VER 3 0100000000000001 "Raise Ally Macro" "INV_MISC_QUESTIONMARK"
 #showtooltip Raise Ally

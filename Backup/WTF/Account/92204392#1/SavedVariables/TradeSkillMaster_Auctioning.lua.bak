@@ -18,20 +18,20 @@ TradeSkillMaster_AuctioningDB = {
 		["Lyx"] = true,
 		["Cyprinidae"] = true,
 		["Hilith"] = true,
-		["Ferford"] = true,
 		["Mephrax"] = true,
-		["Blattaris"] = true,
 		["Girden"] = true,
+		["Blattaris"] = true,
+		["Ferford"] = true,
 		["Zetorus"] = true,
 	},
 	["_hash"] = 5870975,
 	["_currentProfile"] = {
-		["Cyprinidae - Proudmoore"] = "Default",
 		["Garmuul - Emerald Dream"] = "Default",
+		["Cyprinidae - Proudmoore"] = "Default",
 		["Ilarian - Proudmoore"] = "Default",
-		["Ferford - Proudmoore"] = "Default",
-		["Blackxsixpan - Proudmoore"] = "Default",
+		["Lyx - Proudmoore"] = "Default",
 		["Mephrax - Proudmoore"] = "Default",
+		["Blackxsixpan - Proudmoore"] = "Default",
 		["Girden - Proudmoore"] = "Default",
 		["Sildris - Emerald Dream"] = "Default",
 		["Zetorus - Proudmoore"] = "Default",
@@ -40,7 +40,7 @@ TradeSkillMaster_AuctioningDB = {
 		["Mortheim - Wyrmrest Accord"] = "Default",
 		["Hilith - Proudmoore"] = "Default",
 		["Lithri - Dalaran"] = "Default",
-		["Lyx - Proudmoore"] = "Default",
+		["Ferford - Proudmoore"] = "Default",
 		["Emmiroth - Wyrmrest Accord"] = "Default",
 	},
 	["g@ @roundNormalPrice"] = false,
@@ -55,9 +55,9 @@ TradeSkillMaster_AuctioningDB = {
 		["Gaornash"] = true,
 		["Lithri"] = true,
 	},
-	["f@Alliance - Wyrmrest Accord@whitelist"] = {
+	["f@Horde - Dalaran@whitelist"] = {
 	},
-	["g@ @matchWhitelist"] = true,
+	["g@ @scanCompleteSound"] = "TSM_NO_SOUND",
 	["f@Horde - Proudmoore@whitelist"] = {
 	},
 	["_scopeKeys"] = {
@@ -79,6 +79,15 @@ TradeSkillMaster_AuctioningDB = {
 			"Girden - Proudmoore", -- [15]
 			"Hilith - Proudmoore", -- [16]
 		},
+		["realm"] = {
+			"Wyrmrest Accord", -- [1]
+			"Proudmoore", -- [2]
+			"Dalaran", -- [3]
+			"Emerald Dream", -- [4]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
 		["factionrealm"] = {
 			"Alliance - Wyrmrest Accord", -- [1]
 			"Alliance - Proudmoore", -- [2]
@@ -86,18 +95,9 @@ TradeSkillMaster_AuctioningDB = {
 			"Horde - Dalaran", -- [4]
 			"Horde - Emerald Dream", -- [5]
 		},
-		["profile"] = {
-			"Default", -- [1]
-		},
-		["realm"] = {
-			"Wyrmrest Accord", -- [1]
-			"Proudmoore", -- [2]
-			"Dalaran", -- [3]
-			"Emerald Dream", -- [4]
-		},
 	},
-	["g@ @scanCompleteSound"] = "TSM_NO_SOUND",
-	["f@Horde - Dalaran@whitelist"] = {
+	["g@ @matchWhitelist"] = true,
+	["f@Alliance - Wyrmrest Accord@whitelist"] = {
 	},
 	["_version"] = 1,
 	["f@Alliance - Proudmoore@whitelist"] = {

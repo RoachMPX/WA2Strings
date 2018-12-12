@@ -2,7 +2,7 @@ VER 3 0000000000000007 "Focus Interrupt" "INV_MISC_QUESTIONMARK"
 #showtooltip Mind Freeze
 //Cast [target=focus] Mind Freeze
 /tar Fanatical Pyromancer
-//tar thu'raya
+/tar thu'raya
 /Cast Mind Freeze
 END
 VER 3 0000000000000008 "Grip" "INV_MISC_QUESTIONMARK"
@@ -25,6 +25,9 @@ END
 VER 3 0000000000000009 "Mouseover temp" "INV_MISC_QUESTIONMARK"
 #showtooltip Spell Name
 /use [@mouseover,help,nodead][help,nodead][@player] Spell Name
+END
+VER 3 000000000000000A "Paper" "INV_MISC_QUESTIONMARK"
+/tar Paper Zep
 END
 VER 3 0000000000000002 "Start Quest" "136075"
 /script SelectGossipAvailableQuest(1) 

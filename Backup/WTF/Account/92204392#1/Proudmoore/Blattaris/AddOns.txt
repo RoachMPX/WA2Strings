@@ -2,7 +2,7 @@ MogIt: disabled
 Bartender4: enabled
 TidyPlates: disabled
 SpartanUI: enabled
-SpartanUI_SpinCam: disabled
+SpartanUI_SpinCam: enabled
 ExRT: enabled
 HandyNotes: enabled
 HandyNotes_LegionRaresTreasures: enabled
@@ -31,7 +31,7 @@ WeakAuras: enabled
 WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
-WeakAurasTutorials: disabled
+WeakAurasTutorials: enabled
 DBM-Core: enabled
 DBM-DefaultSkin: enabled
 DBM-GUI: enabled
@@ -45,13 +45,13 @@ DBM-Nighthold: enabled
 DBM-TrialofValor: enabled
 DBM-WorldEvents: enabled
 TradeSkillMaster_Destroying: disabled
-TradeSkillMaster: enabled
-TradeSkillMaster_Accounting: enabled
+TradeSkillMaster: disabled
+TradeSkillMaster_Accounting: disabled
 TradeSkillMaster_AuctionDB: disabled
-TradeSkillMaster_Auctioning: enabled
+TradeSkillMaster_Auctioning: disabled
 TradeSkillMaster_Crafting: disabled
 TradeSkillMaster_Mailing: disabled
-TradeSkillMaster_Shopping: enabled
+TradeSkillMaster_Shopping: disabled
 AngryAssignments: enabled
 Details: enabled
 Details_DmgRank: enabled
@@ -63,7 +63,7 @@ Details_TimeAttack: enabled
 Details_TinyThreat: enabled
 Details_Vanguard: enabled
 Details_3DModelsPaths: enabled
-Details_Streamer: disabled
+Details_Streamer: enabled
 Details_RaidInfo-EmeraldNightmare: enabled
 Details_RaidInfo-Nighthold: enabled
 Details_RaidInfo-TombOfSargeras: enabled
@@ -83,3 +83,10 @@ VuhDo: disabled
 VuhDoOptions: disabled
 ShadowedUF_Options: disabled
 ShadowedUnitFrames: disabled
+HandyNotes_Argus: enabled
+SpartanUI_Style_War: enabled
+DBM-Azeroth-BfA: enabled
+DBM-KulTiras: enabled
+DBM-Party-BfA: enabled
+DBM-Uldir: enabled
+DBM-Zandalar: enabled

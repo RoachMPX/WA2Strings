@@ -7,10 +7,10 @@ HandyNotes_ArgusDB = {
 		["Girden - Proudmoore"] = "Girden - Proudmoore",
 		["Gaornash - Dalaran"] = "Gaornash - Dalaran",
 		["Blattaris - Proudmoore"] = "Blattaris - Proudmoore",
-		["Ferford - Proudmoore"] = "Ferford - Proudmoore",
+		["Lyx - Proudmoore"] = "Lyx - Proudmoore",
 		["Hilith - Proudmoore"] = "Hilith - Proudmoore",
 		["Yeeragor - Wyrmrest Accord"] = "Yeeragor - Wyrmrest Accord",
-		["Lyx - Proudmoore"] = "Lyx - Proudmoore",
+		["Ferford - Proudmoore"] = "Ferford - Proudmoore",
 		["Emmiroth - Wyrmrest Accord"] = "Emmiroth - Wyrmrest Accord",
 	},
 	["profiles"] = {
@@ -26,13 +26,13 @@ HandyNotes_ArgusDB = {
 		},
 		["Blattaris - Proudmoore"] = {
 		},
-		["Ferford - Proudmoore"] = {
+		["Lyx - Proudmoore"] = {
 		},
 		["Hilith - Proudmoore"] = {
 		},
 		["Yeeragor - Wyrmrest Accord"] = {
 		},
-		["Lyx - Proudmoore"] = {
+		["Ferford - Proudmoore"] = {
 		},
 		["Emmiroth - Wyrmrest Accord"] = {
 		},

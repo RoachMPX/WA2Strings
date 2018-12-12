@@ -14,6 +14,13 @@ VER 3 0100000000000006 "Blood Boil" "237513"
 /cancelaura Rejuvenation
 /cancelaura Lifebloom
 END
+VER 3 010000000000000C "Breath" "1029007"
+#showtooltip Breath of Sindragosa
+/use 13
+/use 14
+/cast Empower Rune Weapon
+/cast Breath of Sindragosa
+END
 VER 3 0100000000000007 "Heart Strike" "135675"
 #showtooltip Heart Strike
 /cast Heart Strike
@@ -28,7 +35,8 @@ END
 VER 3 0100000000000002 "Prospect Macro" "INV_MISC_QUESTIONMARK"
 #showtooltip Prospecting
 /cast Prospecting
-/use Empyrium
+//use Storm Silver Ore
+/use Monelite Ore
 END
 VER 3 0100000000000001 "Raise Ally Macro" "INV_MISC_QUESTIONMARK"
 #showtooltip Raise Ally
@@ -38,6 +46,16 @@ VER 3 0100000000000005 "Templar" "INV_MISC_QUESTIONMARK"
 #showtooltip Dark Command
 /tar Reanimated Templar
 //cast Dark Command
+END
+VER 3 010000000000000B "varim-hb" "INV_MISC_QUESTIONMARK"
+#showtooltip Howling Blast
+/tar Shadow
+/cast Howling Blast
+END
+VER 3 010000000000000A "varim-ob" "INV_MISC_QUESTIONMARK"
+#showtooltip Obliterate
+/tar Shadow
+/cast Obliterate
 END
 VER 3 0100000000000008 "VuhDoDCShieldData" "Ability_Repair"
 P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]

@@ -1,22 +1,8 @@
 
 TradeSkillMaster_ShoppingDB = {
-	["_currentProfile"] = {
-		["Garmuul - Emerald Dream"] = "Default",
-		["Ilarian - Proudmoore"] = "Default",
-		["Mephrax - Proudmoore"] = "Default",
-		["Zetorus - Proudmoore"] = "Default",
-		["Sildris - Emerald Dream"] = "Default",
-		["Cyprinidae - Proudmoore"] = "Default",
-		["Gaornash - Dalaran"] = "Default",
-		["Blattaris - Proudmoore"] = "Default",
-		["Ferford - Proudmoore"] = "Default",
-		["Hilith - Proudmoore"] = "Default",
-		["Lithri - Dalaran"] = "Default",
-		["Lyx - Proudmoore"] = "Default",
-		["Girden - Proudmoore"] = "Default",
-	},
-	["_version"] = 3,
-	["g@ @sniperVendorPrice"] = true,
+	["g@ @sniperCustomPrice"] = "0c",
+	["g@ @maxDeSearchPercent"] = 1,
+	["g@ @postUndercut"] = "1c",
 	["g@ @postBidPercent"] = 0.95,
 	["_scopeKeys"] = {
 		["char"] = {
@@ -34,38 +20,35 @@ TradeSkillMaster_ShoppingDB = {
 			"Girden - Proudmoore", -- [12]
 			"Hilith - Proudmoore", -- [13]
 		},
-		["factionrealm"] = {
-			"Alliance - Proudmoore", -- [1]
-			"Horde - Emerald Dream", -- [2]
-			"Horde - Dalaran", -- [3]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
 		["realm"] = {
 			"Proudmoore", -- [1]
 			"Emerald Dream", -- [2]
 			"Dalaran", -- [3]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Alliance - Proudmoore", -- [1]
+			"Horde - Emerald Dream", -- [2]
+			"Horde - Dalaran", -- [3]
+		},
 	},
 	["g@ @helpPlatesShown"] = {
 		["auction"] = true,
 	},
-	["g@ @postUndercut"] = "1c",
-	["g@ @minDeSearchLvl"] = 1,
-	["g@ @maxDeSearchLvl"] = 735,
-	["g@ @sniperSound"] = "TSM_NO_SOUND",
-	["g@ @marketValueSource"] = "dbmarket",
+	["g@ @sniperVendorPrice"] = true,
+	["_hash"] = 1861581,
 	["g@ @savedSearches"] = {
 		{
 			["searchMode"] = "normal",
-			["lastSearch"] = 1522547535,
+			["lastSearch"] = 1531627870,
 			["name"] = "prolonged power",
 			["filter"] = "prolonged power",
 		}, -- [1]
 		{
 			["searchMode"] = "normal",
-			["lastSearch"] = 1520219900,
+			["lastSearch"] = 1527474716,
 			["name"] = "countless armies",
 			["filter"] = "countless armies",
 		}, -- [2]
@@ -184,8 +167,25 @@ TradeSkillMaster_ShoppingDB = {
 			["filter"] = "ghost iron bar",
 		}, -- [21]
 	},
-	["_hash"] = 1861581,
+	["g@ @sniperSound"] = "TSM_NO_SOUND",
+	["g@ @marketValueSource"] = "dbmarket",
+	["g@ @maxDeSearchLvl"] = 735,
+	["g@ @minDeSearchLvl"] = 1,
 	["g@ @normalPostPrice"] = "150% dbmarket",
-	["g@ @maxDeSearchPercent"] = 1,
-	["g@ @sniperCustomPrice"] = "0c",
+	["_version"] = 3,
+	["_currentProfile"] = {
+		["Garmuul - Emerald Dream"] = "Default",
+		["Ilarian - Proudmoore"] = "Default",
+		["Mephrax - Proudmoore"] = "Default",
+		["Zetorus - Proudmoore"] = "Default",
+		["Sildris - Emerald Dream"] = "Default",
+		["Girden - Proudmoore"] = "Default",
+		["Gaornash - Dalaran"] = "Default",
+		["Blattaris - Proudmoore"] = "Default",
+		["Lyx - Proudmoore"] = "Default",
+		["Hilith - Proudmoore"] = "Default",
+		["Lithri - Dalaran"] = "Default",
+		["Ferford - Proudmoore"] = "Default",
+		["Cyprinidae - Proudmoore"] = "Default",
+	},
 }

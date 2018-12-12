@@ -1701,50 +1701,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shanglao-BurningBlade",
 		},
-		[10258] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Archaedas",
-		},
-		[16867] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Baroness Anastari",
-		},
-		[17434] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Lord Aurius Rivendare",
-		},
-		[80850] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Thuzadin Necromancer",
-		},
-		[43667] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Prince Keleseth",
-		},
 		[18327] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
@@ -1755,6 +1711,48 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Baroness Anastari",
 		},
+		[16867] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Baroness Anastari",
+		},
+		[206333] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Greyblood-Drak'thul",
+		},
+		[205708] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Cliver-BlackwaterRaiders",
+		},
+		[10258] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Archaedas",
+		},
+		[17434] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Lord Aurius Rivendare",
+		},
 		[51124] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -1763,14 +1761,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hyndui-Azralon",
 		},
-		[8258] = {
-			["school"] = 2,
-			["type"] = "BUFF",
+		[147732] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Fineous Darkvire",
+			["source"] = "Honiahaka-Mug'thol",
 		},
 		[255723] = {
 			["school"] = 1,
@@ -1789,36 +1786,42 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gloom'rel",
 		},
-		[206333] = {
+		[150072] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Aarux",
+		},
+		[8258] = {
+			["school"] = 2,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Greyblood-Drak'thul",
+			["source"] = "Fineous Darkvire",
 		},
-		[205708] = {
-			["school"] = 16,
-			["type"] = "DEBUFF",
+		[80850] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Cliver-BlackwaterRaiders",
+			["source"] = "Thuzadin Necromancer",
 		},
-		[17466] = {
+		[43667] = {
 			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lord Aurius Rivendare",
-		},
-		[147732] = {
-			["school"] = 16,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Honiahaka-Mug'thol",
+			["source"] = "Prince Keleseth",
 		},
 		[22592] = {
 			["school"] = 1,
@@ -1871,6 +1874,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Alaquae-Zul'jin",
 		},
+		[15586] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Vile'rel",
+		},
+		[10093] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sand Storm",
+		},
 		[13899] = {
 			["school"] = 4,
 			["type"] = "DEBUFF",
@@ -1883,22 +1904,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lord Incendius",
 		},
-		[5185] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Notfermilkin-Blade'sEdge",
-		},
-		[77593] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
-			},
-			["source"] = "Rejuvenated Thunder Lizard",
-		},
 		[151928] = {
 			["school"] = 8,
 			["token"] = {
@@ -1906,14 +1911,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gelatanized Plague Gunk",
 		},
-		[10093] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[190357] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sand Storm",
+			["source"] = "Cliver-BlackwaterRaiders",
 		},
 		[12889] = {
 			["school"] = 32,
@@ -1943,29 +1946,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Grimlok",
 		},
-		[190357] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Cliver-BlackwaterRaiders",
-		},
-		[190446] = {
-			["school"] = 16,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Cliver-BlackwaterRaiders",
-		},
-		[150332] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Splinterbone Warrior",
-		},
 		[11977] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -1976,13 +1956,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Arnak Grimtotem",
 		},
-		[205648] = {
+		[5185] = {
 			["school"] = 8,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Gedrah",
+			["source"] = "Notfermilkin-Blade'sEdge",
+		},
+		[150332] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Splinterbone Warrior",
 		},
 		[10452] = {
 			["school"] = 4,
@@ -1994,6 +1983,22 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Stonevault Geomancer",
+		},
+		[205648] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Gedrah",
+		},
+		[190446] = {
+			["school"] = 16,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Cliver-BlackwaterRaiders",
 		},
 		[6726] = {
 			["school"] = 8,
@@ -2048,25 +2053,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Twilight's Hammer Ambassador",
 		},
-		[196771] = {
-			["school"] = 16,
+		[188070] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Hyndui-Azralon",
-		},
-		[33975] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Instructor Galford",
+			["source"] = "Gedrah",
+		},
+		[124255] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Shanglao-BurningBlade",
 		},
 		[6742] = {
 			["school"] = 8,
@@ -2084,14 +2085,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Priestess of Thaurissan",
 		},
-		[188070] = {
-			["school"] = 8,
+		[196771] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Gedrah",
+			["source"] = "Hyndui-Azralon",
 		},
 		[11436] = {
 			["school"] = 64,
@@ -2129,13 +2129,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hakkari Frostwing",
 		},
-		[135299] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[19319] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Marrabella",
+			["source"] = "Alzzin the Wildshaper",
 		},
 		[77978] = {
 			["school"] = 8,
@@ -2154,13 +2154,17 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Anger'rel",
 		},
-		[19319] = {
-			["school"] = 1,
+		[33975] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Alzzin the Wildshaper",
+			["source"] = "Instructor Galford",
 		},
 		[22417] = {
 			["school"] = 32,
@@ -2229,21 +2233,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Unknown",
 		},
-		[14099] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Lord Incendius",
-		},
-		[52212] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Choklee-Illidan",
-		},
 		[8599] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -2261,15 +2250,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Grimtotem Geomancer",
-		},
-		[16868] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Baroness Anastari",
 		},
 		[22478] = {
 			["school"] = 32,
@@ -2291,6 +2271,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mangled Cadaver",
 		},
+		[16868] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Baroness Anastari",
+		},
 		[66290] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
@@ -2301,14 +2290,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Balnazzar",
 		},
-		[15620] = {
-			["school"] = 1,
+		[17435] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Hearthsinger Forresten",
+			["source"] = "Lord Aurius Rivendare",
 		},
 		[15616] = {
 			["school"] = 4,
@@ -2321,6 +2310,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pyromancer Loregrain",
 		},
+		[15620] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Hearthsinger Forresten",
+		},
+		[127802] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Cliver-BlackwaterRaiders",
+		},
 		[13584] = {
 			["school"] = 1,
 			["token"] = {
@@ -2329,14 +2335,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Theradrim Shardling",
 		},
-		[17435] = {
-			["school"] = 32,
+		[14099] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lord Aurius Rivendare",
+			["source"] = "Lord Incendius",
 		},
 		[15636] = {
 			["school"] = 4,
@@ -2347,14 +2352,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Emperor Dagran Thaurissan",
 		},
-		[150082] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[52212] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aarux",
+			["source"] = "Choklee-Illidan",
 		},
 		[15574] = {
 			["school"] = 4,
@@ -2532,15 +2535,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pimgib",
 		},
-		[18649] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Wildspawn Betrayer",
-		},
 		[8292] = {
 			["school"] = 8,
 			["token"] = {
@@ -2550,13 +2544,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Grimlok",
 		},
-		[12151] = {
+		[80983] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Atal'ai High Priest",
+			["source"] = "Arnak Grimtotem",
+		},
+		[18649] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Wildspawn Betrayer",
 		},
 		[13338] = {
 			["school"] = 32,
@@ -2641,19 +2645,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shanglao-BurningBlade",
 		},
-		[10666] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Vault Warder",
-		},
 		[17279] = {
 			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Willey Hopebreaker",
+		},
+		[10666] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Vault Warder",
 		},
 		[7896] = {
 			["school"] = 4,
@@ -2818,14 +2822,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Balnazzar",
 		},
-		[80983] = {
+		[12151] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Arnak Grimtotem",
+			["source"] = "Atal'ai High Priest",
 		},
 		[17399] = {
 			["school"] = 32,
@@ -2940,13 +2943,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sôbek",
 		},
-		[127802] = {
-			["school"] = 32,
+		[150082] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Cliver-BlackwaterRaiders",
+			["source"] = "Aarux",
 		},
 		[149835] = {
 			["school"] = 1,
@@ -3054,12 +3058,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shade of Eranikus",
 		},
-		[124255] = {
-			["school"] = 1,
+		[135299] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Shanglao-BurningBlade",
+			["source"] = "Marrabella",
 		},
 		[11876] = {
 			["school"] = 1,
@@ -3115,14 +3120,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Undead Scarab",
 		},
-		[15586] = {
-			["school"] = 2,
+		[77593] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Vile'rel",
+			["source"] = "Rejuvenated Thunder Lizard",
 		},
 		[8004] = {
 			["school"] = 8,
@@ -3142,15 +3145,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Princess Theradras",
 		},
-		[150072] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[17466] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aarux",
+			["source"] = "Lord Aurius Rivendare",
 		},
 		[15493] = {
 			["school"] = 2,

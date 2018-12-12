@@ -7,757 +7,99 @@ _detalhes_database = {
 		["tabelas"] = {
 			{
 				{
-					["combatId"] = 518,
+					["combatId"] = 738,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.00192,
-							["spec"] = 71,
+							["flag_original"] = 1300,
+							["totalabsorbed"] = 0.00671,
 							["damage_from"] = {
-								["Grom'kar Grunt"] = true,
 							},
 							["targets"] = {
-								["Grom'kar Grunt"] = 153157,
+								["Pridelord Karash"] = 711357,
+								["Bloodmane Hunter"] = 380379,
+								["Bloodmane Earthbinder"] = 311443,
+								["Bloodmane Bonereaver"] = 469131,
 							},
 							["pets"] = {
+								"Terokk <Cyprinidae>", -- [1]
 							},
-							["colocacao"] = 1,
-							["end_time"] = 1522555604,
+							["on_hold"] = false,
 							["classe"] = "WARRIOR",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 153157.00192,
+							["total_without_pet"] = 0.00671,
+							["colocacao"] = 1,
 							["friendlyfire"] = {
 							},
 							["dps_started"] = false,
-							["total"] = 153157.00192,
+							["end_time"] = 1525409542,
 							["friendlyfire_total"] = 0,
-							["on_hold"] = false,
+							["spec"] = 71,
 							["nome"] = "Cyprinidae",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
-									{
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["c_dmg"] = 8308,
-										["g_amt"] = 0,
-										["n_max"] = 2110,
-										["targets"] = {
-											["Grom'kar Grunt"] = 14448,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 6140,
-										["n_min"] = 2001,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 14448,
-										["c_max"] = 4215,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 4093,
-									}, -- [1]
-									[1464] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 13251,
-										["g_amt"] = 0,
-										["n_max"] = 6407,
-										["targets"] = {
-											["Grom'kar Grunt"] = 25706,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 12455,
-										["n_min"] = 6048,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 25706,
-										["c_max"] = 13251,
-										["id"] = 1464,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 13251,
-									},
-									[163201] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 16530,
-										["targets"] = {
-											["Grom'kar Grunt"] = 32258,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 32258,
-										["n_min"] = 15728,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 32258,
-										["c_max"] = 0,
-										["id"] = 163201,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[57755] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1005,
-										["targets"] = {
-											["Grom'kar Grunt"] = 1005,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1005,
-										["n_min"] = 1005,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1005,
-										["c_max"] = 0,
-										["id"] = 57755,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[5308] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 16106,
-										["targets"] = {
-											["Grom'kar Grunt"] = 16106,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 16106,
-										["n_min"] = 16106,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 16106,
-										["c_max"] = 0,
-										["id"] = 5308,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[34428] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3228,
-										["targets"] = {
-											["Grom'kar Grunt"] = 6456,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 6456,
-										["n_min"] = 3228,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 6456,
-										["c_max"] = 0,
-										["id"] = 34428,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[126664] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2055,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Grom'kar Grunt"] = 2055,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 2055,
-										["c_max"] = 2055,
-										["id"] = 126664,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 2055,
-									},
-									[12294] = {
-										["c_amt"] = 3,
-										["b_amt"] = 0,
-										["c_dmg"] = 55123,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Grom'kar Grunt"] = 55123,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 55123,
-										["c_max"] = 19176,
-										["id"] = 12294,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 16964,
-									},
 								},
 							},
 							["grupo"] = true,
+							["total"] = 1872310.00671,
 							["serial"] = "Player-5-0A9895DA",
-							["last_dps"] = 8530.04744750769,
+							["last_dps"] = 113294.808587388,
 							["custom"] = 0,
-							["last_event"] = 1522555604,
-							["damage_taken"] = 51718.00192,
-							["start_time"] = 1522555586,
+							["last_event"] = 1525409542,
+							["damage_taken"] = 0.00671,
+							["start_time"] = 1525409527,
 							["delay"] = 0,
 							["tipo"] = 1,
 						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 518,
-					["tipo"] = 3,
-					["_ActorTable"] = {
 						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Cyprinidae"] = true,
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.005679,
+							["serial"] = "Vehicle-0-3878-1116-16505-82820-00006BE683",
+							["damage_from"] = {
+								["Pridelord Karash"] = true,
+								["Bloodmane Hunter"] = true,
+								["Bloodmane Earthbinder"] = true,
+								["Bloodmane Bonereaver"] = true,
+							},
+							["targets"] = {
+								["Pridelord Karash"] = 711357,
+								["Bloodmane Hunter"] = 380379,
+								["Bloodmane Earthbinder"] = 311443,
+								["Bloodmane Bonereaver"] = 469131,
 							},
 							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 2705.005494,
-							["total_without_pet"] = 65201.005494,
-							["total"] = 65201.005494,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
-							["serial"] = "Player-5-0A9895DA",
-							["totalabsorb"] = 0.005494,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Cyprinidae"] = 67906,
-							},
-							["totalover_without_pet"] = 0.005494,
-							["healing_taken"] = 65201.005494,
-							["fight_component"] = true,
-							["end_time"] = 1522555604,
-							["targets_overheal"] = {
-								["Cyprinidae"] = 2705,
-							},
-							["nome"] = "Cyprinidae",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[118779] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Cyprinidae"] = 2705,
-										},
-										["n_max"] = 29916,
-										["targets"] = {
-											["Cyprinidae"] = 57127,
-										},
-										["n_min"] = 27211,
-										["counter"] = 2,
-										["overheal"] = 2705,
-										["total"] = 57127,
-										["c_max"] = 0,
-										["id"] = 118779,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 57127,
-										["n_amt"] = 2,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[59913] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 2019,
-										["targets"] = {
-											["Cyprinidae"] = 8074,
-										},
-										["n_min"] = 2018,
-										["counter"] = 4,
-										["overheal"] = 0,
-										["total"] = 8074,
-										["c_max"] = 0,
-										["id"] = 59913,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 8074,
-										["n_amt"] = 4,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1522555600,
-							["custom"] = 0,
-							["last_event"] = 1522555604,
-							["spec"] = 71,
-							["totaldenied"] = 0.005494,
-							["delay"] = 1522555590,
-							["tipo"] = 2,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 518,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = -14.993593,
-							["resource"] = 0.006407,
-							["targets"] = {
-								["Cyprinidae"] = -15,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = -14.993593,
-							["nome"] = "Cyprinidae",
-							["spec"] = 71,
-							["grupo"] = true,
-							["flag_original"] = 1297,
-							["last_event"] = 1522555604,
-							["alternatepower"] = 0.006407,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[173401] = {
-										["id"] = 173401,
-										["total"] = 25,
-										["targets"] = {
-											["Cyprinidae"] = 25,
-										},
-										["counter"] = 5,
-									},
-									[163201] = {
-										["id"] = 163201,
-										["total"] = -60,
-										["targets"] = {
-											["Cyprinidae"] = -60,
-										},
-										["counter"] = 2,
-									},
-									[100] = {
-										["id"] = 100,
-										["total"] = 20,
-										["targets"] = {
-											["Cyprinidae"] = 20,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 3,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 518,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[105771] = {
-										["activedamt"] = 0,
-										["id"] = 105771,
-										["targets"] = {
-										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
-										["targets"] = {
-										},
-										["uptime"] = 9,
-										["appliedamt"] = 2,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[236027] = {
-										["activedamt"] = 0,
-										["id"] = 236027,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 44,
-							["cc_done_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[105771] = {
-										["id"] = 105771,
-										["targets"] = {
-											["Grom'kar Grunt"] = 1,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["classe"] = "WARRIOR",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[118779] = {
-										["activedamt"] = 2,
-										["id"] = 118779,
-										["targets"] = {
-										},
-										["actived_at"] = 1522555602,
-										["uptime"] = 6,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-									[32216] = {
-										["activedamt"] = 3,
-										["id"] = 32216,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 3,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[109128] = {
-										["activedamt"] = 1,
-										["id"] = 109128,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[193333] = {
-										["activedamt"] = 1,
-										["id"] = 193333,
-										["targets"] = {
-										},
-										["uptime"] = 18,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[1719] = {
-										["activedamt"] = 1,
-										["id"] = 1719,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[199854] = {
-										["activedamt"] = 2,
-										["id"] = 199854,
-										["targets"] = {
-										},
-										["actived_at"] = 1522555604,
-										["uptime"] = 3,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-								},
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 16,
-							["cc_done"] = 1.006649,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 71,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[1464] = 3,
-								[163201] = 2,
-								[12294] = 2,
-								[100] = 1,
-								[34428] = 2,
-								[1719] = 1,
-								[126664] = 1,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["cc_done_targets"] = {
-								["Grom'kar Grunt"] = 1,
-							},
-							["last_event"] = 1522555604,
-							["nome"] = "Cyprinidae",
-							["pets"] = {
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 518,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Cyprinidae"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Grom'kar Grunt",
-				["combat_counter"] = 1005,
-				["playing_solo"] = true,
-				["totals"] = {
-					153156.990431, -- [1]
-					65201, -- [2]
-					{
-						0, -- [1]
-						[0] = -15,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = true,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Cyprinidae"] = 65201.005494,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Cyprinidae"] = 153157.00192,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 10386.537,
-				["combat_id"] = 518,
-				["instance_type"] = "none",
-				["frags"] = {
-					["Grom'kar Grunt"] = 2,
-				},
-				["data_fim"] = "21:06:44",
-				["data_inicio"] = "21:06:26",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					153157, -- [1]
-					65201, -- [2]
-					{
-						0, -- [1]
-						[0] = -15,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 10368.582,
-				["contra"] = "Grom'kar Grunt",
-				["TimeData"] = {
-				},
-			}, -- [1]
-			{
-				{
-					["combatId"] = 517,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.003373,
-							["total"] = 143922.003373,
-							["damage_from"] = {
-								["Boneyard Tunneler"] = true,
-							},
-							["targets"] = {
-								["Boneyard Tunneler"] = 140205,
-								["Gold Beetle"] = 3717,
-							},
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["colocacao"] = 1,
-							["classe"] = "WARRIOR",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 143922.003373,
-							["friendlyfire_total"] = 0,
+							["total_without_pet"] = 1872310.005679,
 							["dps_started"] = false,
-							["end_time"] = 1522555578,
-							["on_hold"] = false,
-							["spec"] = 71,
-							["nome"] = "Cyprinidae",
+							["total"] = 1872310.005679,
+							["classe"] = "PET",
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Terokk <Cyprinidae>",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
-										["c_amt"] = 1,
+										["c_amt"] = 0,
 										["b_amt"] = 0,
-										["c_dmg"] = 4098,
+										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1966,
+										["n_max"] = 22037,
 										["targets"] = {
-											["Boneyard Tunneler"] = 7985,
+											["Pridelord Karash"] = 33442,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 3887,
-										["n_min"] = 1921,
+										["n_dmg"] = 33442,
+										["n_min"] = 11405,
 										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 7985,
-										["c_max"] = 4098,
+										["counter"] = 2,
+										["total"] = 33442,
+										["c_max"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -769,770 +111,26 @@ _detalhes_database = {
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
 										["r_amt"] = 0,
-										["c_min"] = 4098,
+										["c_min"] = 0,
 									}, -- [1]
-									[845] = {
-										["c_amt"] = 1,
+									[166714] = {
+										["c_amt"] = 0,
 										["b_amt"] = 0,
-										["c_dmg"] = 3761,
+										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1887,
+										["n_max"] = 98300,
 										["targets"] = {
-											["Boneyard Tunneler"] = 11096,
+											["Pridelord Karash"] = 279075,
+											["Bloodmane Bonereaver"] = 191373,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 7335,
-										["n_min"] = 1760,
+										["n_dmg"] = 470448,
+										["n_min"] = 91204,
 										["g_dmg"] = 0,
 										["counter"] = 5,
-										["total"] = 11096,
-										["c_max"] = 3761,
-										["id"] = 845,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
-										["c_min"] = 3761,
-									},
-									[163201] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 15927,
-										["targets"] = {
-											["Boneyard Tunneler"] = 15927,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 15927,
-										["n_min"] = 15927,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 15927,
+										["total"] = 470448,
 										["c_max"] = 0,
-										["id"] = 163201,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[199658] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3717,
-										["targets"] = {
-											["Boneyard Tunneler"] = 22056,
-											["Gold Beetle"] = 3717,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 25773,
-										["n_min"] = 1749,
-										["g_dmg"] = 0,
-										["counter"] = 10,
-										["total"] = 25773,
-										["c_max"] = 0,
-										["id"] = 199658,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 10,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[5308] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 15855,
-										["targets"] = {
-											["Boneyard Tunneler"] = 15855,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 15855,
-										["n_min"] = 15855,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 15855,
-										["c_max"] = 0,
-										["id"] = 5308,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[12294] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 9559,
-										["targets"] = {
-											["Boneyard Tunneler"] = 18285,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 18285,
-										["n_min"] = 8726,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 18285,
-										["c_max"] = 0,
-										["id"] = 12294,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[34428] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3228,
-										["targets"] = {
-											["Boneyard Tunneler"] = 3228,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 3228,
-										["n_min"] = 3228,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 3228,
-										["c_max"] = 0,
-										["id"] = 34428,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[199850] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3054,
-										["targets"] = {
-											["Boneyard Tunneler"] = 44764,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 44764,
-										["n_min"] = 1782,
-										["g_dmg"] = 0,
-										["counter"] = 18,
-										["total"] = 44764,
-										["c_max"] = 0,
-										["id"] = 199850,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 18,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[52174] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1009,
-										["targets"] = {
-											["Boneyard Tunneler"] = 1009,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1009,
-										["n_min"] = 1009,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1009,
-										["c_max"] = 0,
-										["id"] = 52174,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["serial"] = "Player-5-0A9895DA",
-							["last_dps"] = 12080.0741457942,
-							["custom"] = 0,
-							["last_event"] = 1522555576,
-							["damage_taken"] = 36898.003373,
-							["start_time"] = 1522555566,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 517,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Cyprinidae"] = true,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 7064.006847,
-							["total_without_pet"] = 34966.006847,
-							["total"] = 34966.006847,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["serial"] = "Player-5-0A9895DA",
-							["totalabsorb"] = 0.006847,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Cyprinidae"] = 42030,
-							},
-							["totalover_without_pet"] = 0.006847,
-							["healing_taken"] = 34966.006847,
-							["fight_component"] = true,
-							["end_time"] = 1522555578,
-							["targets_overheal"] = {
-								["Cyprinidae"] = 7064,
-							},
-							["nome"] = "Cyprinidae",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[118779] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Cyprinidae"] = 7064,
-										},
-										["n_max"] = 22852,
-										["targets"] = {
-											["Cyprinidae"] = 22852,
-										},
-										["n_min"] = 22852,
-										["counter"] = 1,
-										["overheal"] = 7064,
-										["total"] = 22852,
-										["c_max"] = 0,
-										["id"] = 118779,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 22852,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[59913] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 2019,
-										["targets"] = {
-											["Cyprinidae"] = 12114,
-										},
-										["n_min"] = 2019,
-										["counter"] = 6,
-										["overheal"] = 0,
-										["total"] = 12114,
-										["c_max"] = 0,
-										["id"] = 59913,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 12114,
-										["n_amt"] = 6,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1522555566,
-							["custom"] = 0,
-							["last_event"] = 1522555576,
-							["spec"] = 71,
-							["totaldenied"] = 0.006847,
-							["delay"] = 0,
-							["tipo"] = 2,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 517,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = -6.991098,
-							["resource"] = 0.008902,
-							["targets"] = {
-								["Cyprinidae"] = -7,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = -6.991098,
-							["nome"] = "Cyprinidae",
-							["spec"] = 71,
-							["grupo"] = true,
-							["flag_original"] = 1297,
-							["last_event"] = 1522555576,
-							["alternatepower"] = 0.008902,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[173401] = {
-										["id"] = 173401,
-										["total"] = 23,
-										["targets"] = {
-											["Cyprinidae"] = 23,
-										},
-										["counter"] = 15,
-									},
-									[163201] = {
-										["id"] = 163201,
-										["total"] = -30,
-										["targets"] = {
-											["Cyprinidae"] = -30,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 3,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 517,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
-										["targets"] = {
-										},
-										["uptime"] = 4,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 28,
-							["classe"] = "WARRIOR",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[118779] = {
-										["activedamt"] = 1,
-										["id"] = 118779,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[202164] = {
-										["activedamt"] = 1,
-										["id"] = 202164,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[199854] = {
-										["activedamt"] = 1,
-										["id"] = 199854,
-										["targets"] = {
-										},
-										["actived_at"] = 1522555575,
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-									[193333] = {
-										["activedamt"] = 1,
-										["id"] = 193333,
-										["targets"] = {
-										},
-										["uptime"] = 12,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[188923] = {
-										["activedamt"] = 2,
-										["id"] = 188923,
-										["targets"] = {
-										},
-										["uptime"] = 4,
-										["appliedamt"] = 2,
-										["refreshamt"] = 3,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[32216] = {
-										["activedamt"] = 2,
-										["id"] = 32216,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 2,
-										["refreshamt"] = 2,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 4,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 71,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[845] = 2,
-								[163201] = 1,
-								[199658] = 3,
-								[34428] = 1,
-								[12294] = 1,
-								[1680] = 3,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["last_event"] = 1522555578,
-							["nome"] = "Cyprinidae",
-							["pets"] = {
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 517,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Cyprinidae"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Boneyard Tunneler",
-				["combat_counter"] = 1004,
-				["playing_solo"] = true,
-				["totals"] = {
-					143921.96953, -- [1]
-					34966, -- [2]
-					{
-						0, -- [1]
-						[0] = -7,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = true,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Cyprinidae"] = 34966.006847,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Cyprinidae"] = 143922.003373,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 10359.709,
-				["combat_id"] = 517,
-				["instance_type"] = "none",
-				["frags"] = {
-					["Boneyard Tunneler"] = 3,
-					["Gold Beetle"] = 1,
-				},
-				["data_fim"] = "21:06:18",
-				["data_inicio"] = "21:06:06",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					143922, -- [1]
-					34966, -- [2]
-					{
-						0, -- [1]
-						[0] = -7,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 10347.795,
-				["contra"] = "Boneyard Tunneler",
-				["TimeData"] = {
-				},
-			}, -- [2]
-			{
-				{
-					["combatId"] = 516,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.008992,
-							["total"] = 71395.008992,
-							["damage_from"] = {
-								["Boneyard Tunneler"] = true,
-								["Grom'kar Grunt"] = true,
-							},
-							["targets"] = {
-								["Grom'kar Grunt"] = 71395,
-							},
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["colocacao"] = 1,
-							["classe"] = "WARRIOR",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 71395.008992,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1522555561,
-							["on_hold"] = false,
-							["spec"] = 71,
-							["nome"] = "Cyprinidae",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 3919,
-										["g_amt"] = 0,
-										["n_max"] = 2107,
-										["targets"] = {
-											["Grom'kar Grunt"] = 10034,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 6115,
-										["n_min"] = 1927,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 10034,
-										["c_max"] = 3919,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 3919,
-									}, -- [1]
-									[1464] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 6440,
-										["targets"] = {
-											["Grom'kar Grunt"] = 18637,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 18637,
-										["n_min"] = 6038,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 18637,
-										["c_max"] = 0,
-										["id"] = 1464,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[163201] = {
-										["c_amt"] = 0,
-										["b_amt"] = 1,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 11158,
-										["targets"] = {
-											["Grom'kar Grunt"] = 11158,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 11158,
-										["n_min"] = 11158,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 11158,
-										["c_max"] = 0,
-										["id"] = 163201,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 11158,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[772] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 5755,
-										["targets"] = {
-											["Grom'kar Grunt"] = 26282,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 26282,
-										["n_min"] = 3264,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 26282,
-										["c_max"] = 0,
-										["id"] = 772,
+										["id"] = 166714,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
@@ -1545,52 +143,89 @@ _detalhes_database = {
 										["r_amt"] = 0,
 										["c_min"] = 0,
 									},
-									[34428] = {
+									[166811] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 3229,
+										["n_max"] = 10880,
 										["targets"] = {
-											["Grom'kar Grunt"] = 3229,
+											["Pridelord Karash"] = 41558,
+											["Bloodmane Hunter"] = 51428,
+											["Bloodmane Bonereaver"] = 10131,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 3229,
-										["n_min"] = 3229,
+										["n_dmg"] = 103117,
+										["n_min"] = 10120,
 										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 3229,
+										["counter"] = 10,
+										["total"] = 103117,
 										["c_max"] = 0,
-										["id"] = 34428,
+										["id"] = 166811,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["spellschool"] = 8,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 1,
+										["n_amt"] = 10,
 										["r_amt"] = 0,
 										["c_min"] = 0,
 									},
-									[126664] = {
-										["c_amt"] = 1,
+									[166778] = {
+										["c_amt"] = 0,
 										["b_amt"] = 0,
-										["c_dmg"] = 2055,
+										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["n_max"] = 66912,
 										["targets"] = {
-											["Grom'kar Grunt"] = 2055,
+											["Pridelord Karash"] = 182605,
+											["Bloodmane Hunter"] = 129885,
+											["Bloodmane Earthbinder"] = 59001,
+											["Bloodmane Bonereaver"] = 65353,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
+										["n_dmg"] = 436844,
+										["n_min"] = 59001,
 										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 2055,
-										["c_max"] = 2055,
-										["id"] = 126664,
+										["counter"] = 7,
+										["total"] = 436844,
+										["c_max"] = 0,
+										["id"] = 166778,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166774] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22784,
+										["targets"] = {
+											["Pridelord Karash"] = 174677,
+											["Bloodmane Hunter"] = 199066,
+											["Bloodmane Earthbinder"] = 252442,
+											["Bloodmane Bonereaver"] = 202274,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 828459,
+										["n_min"] = 12724,
+										["g_dmg"] = 0,
+										["counter"] = 50,
+										["total"] = 828459,
+										["c_max"] = 0,
+										["id"] = 166774,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
@@ -1599,103 +234,55 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 0,
+										["n_amt"] = 50,
 										["r_amt"] = 0,
-										["c_min"] = 2055,
+										["c_min"] = 0,
 									},
 								},
 							},
-							["grupo"] = true,
-							["serial"] = "Player-5-0A9895DA",
-							["last_dps"] = 6621.68512261111,
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525409542,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1522555560,
-							["damage_taken"] = 28927.008992,
-							["start_time"] = 1522555549,
-							["delay"] = 0,
 							["tipo"] = 1,
-						}, -- [1]
+							["damage_taken"] = 122809.005679,
+							["start_time"] = 1525409527,
+							["delay"] = 0,
+							["last_event"] = 1525409542,
+						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 516,
+					["combatId"] = 738,
 					["tipo"] = 3,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Cyprinidae"] = true,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 22770.007412,
-							["total_without_pet"] = 11184.007412,
-							["total"] = 11184.007412,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["serial"] = "Player-5-0A9895DA",
-							["totalabsorb"] = 0.007412,
+							["totalabsorb"] = 0.003692,
 							["last_hps"] = 0,
-							["targets"] = {
-								["Cyprinidae"] = 33954,
-							},
-							["totalover_without_pet"] = 0.007412,
-							["healing_taken"] = 11184.007412,
-							["fight_component"] = true,
-							["end_time"] = 1522555561,
 							["targets_overheal"] = {
-								["Cyprinidae"] = 22770,
+								["Cyprinidae"] = 62209,
 							},
-							["nome"] = "Cyprinidae",
+							["targets"] = {
+							},
 							["spells"] = {
 								["tipo"] = 3,
 								["_ActorTable"] = {
-									[118779] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Cyprinidae"] = 22770,
-										},
-										["n_max"] = 7146,
-										["targets"] = {
-											["Cyprinidae"] = 7146,
-										},
-										["n_min"] = 7146,
-										["counter"] = 1,
-										["overheal"] = 22770,
-										["total"] = 7146,
-										["c_max"] = 0,
-										["id"] = 118779,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 7146,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
 									[59913] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
+											["Cyprinidae"] = 62209,
 										},
-										["n_max"] = 2019,
+										["n_max"] = 0,
 										["targets"] = {
-											["Cyprinidae"] = 4038,
+											["Cyprinidae"] = 0,
 										},
-										["n_min"] = 2019,
-										["counter"] = 2,
-										["overheal"] = 0,
-										["total"] = 4038,
+										["n_min"] = 0,
+										["counter"] = 16,
+										["overheal"] = 62209,
+										["total"] = 0,
 										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
@@ -1704,206 +291,133 @@ _detalhes_database = {
 										["m_crit"] = 0,
 										["c_min"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 4038,
-										["n_amt"] = 2,
+										["n_curado"] = 0,
+										["n_amt"] = 16,
 										["totaldenied"] = 0,
 										["m_healed"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 							},
-							["grupo"] = true,
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["healing_from"] = {
+							},
+							["classe"] = "WARRIOR",
+							["totalover"] = 62209.003692,
+							["total_without_pet"] = 0.003692,
 							["heal_enemy_amt"] = 0,
-							["start_time"] = 1522555560,
-							["custom"] = 0,
-							["last_event"] = 1522555560,
+							["totalover_without_pet"] = 0.003692,
+							["healing_taken"] = 0.003692,
+							["total"] = 0.003692,
+							["end_time"] = 1525409542,
+							["start_time"] = 1525409532,
+							["nome"] = "Cyprinidae",
+							["targets_absorbs"] = {
+							},
+							["grupo"] = true,
 							["spec"] = 71,
-							["totaldenied"] = 0.007412,
-							["delay"] = 1522555550,
+							["heal_enemy"] = {
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["custom"] = 0,
 							["tipo"] = 2,
+							["on_hold"] = false,
+							["totaldenied"] = 0.003692,
+							["delay"] = 0,
+							["last_event"] = 1525409541,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 516,
+					["combatId"] = 738,
 					["tipo"] = 7,
 					["_ActorTable"] = {
-						{
-							["received"] = -19.994842,
-							["resource"] = 0.005158,
-							["targets"] = {
-								["Cyprinidae"] = -20,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 6,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = -19.994842,
-							["nome"] = "Cyprinidae",
-							["spec"] = 71,
-							["grupo"] = true,
-							["resource_type"] = 5,
-							["flag_original"] = 1297,
-							["last_event"] = 1522555560,
-							["alternatepower"] = 0.005158,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[173401] = {
-										["id"] = 173401,
-										["total"] = 10,
-										["targets"] = {
-											["Cyprinidae"] = 10,
-										},
-										["counter"] = 2,
-									},
-									[163201] = {
-										["id"] = 163201,
-										["total"] = -30,
-										["targets"] = {
-											["Cyprinidae"] = -30,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 3,
-						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 516,
+					["combatId"] = 738,
 					["tipo"] = 9,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[105771] = {
-										["activedamt"] = 0,
-										["id"] = 105771,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[772] = {
-										["activedamt"] = 0,
-										["id"] = 772,
-										["targets"] = {
-										},
-										["uptime"] = 8,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[236027] = {
-										["activedamt"] = 0,
-										["id"] = 236027,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
+							["buff_uptime_targets"] = {
 							},
-							["buff_uptime"] = 22,
+							["spec"] = 71,
+							["grupo"] = true,
+							["buff_uptime"] = 32,
+							["nome"] = "Cyprinidae",
+							["pets"] = {
+								"Terokk <Cyprinidae>", -- [1]
+								"Zephyr <Cyprinidae>", -- [2]
+							},
+							["last_event"] = 1525409542,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["tipo"] = 9,
 								["_ActorTable"] = {
-									[118779] = {
+									[178119] = {
 										["activedamt"] = 1,
-										["id"] = 118779,
+										["id"] = 178119,
 										["targets"] = {
 										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[248622] = {
-										["activedamt"] = 1,
-										["id"] = 248622,
-										["targets"] = {
-										},
-										["uptime"] = 2,
+										["uptime"] = 16,
 										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[32216] = {
-										["activedamt"] = 2,
+										["activedamt"] = 1,
 										["id"] = 32216,
 										["targets"] = {
 										},
-										["uptime"] = 2,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[109128] = {
-										["activedamt"] = 0,
-										["id"] = 109128,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[193333] = {
-										["activedamt"] = 1,
-										["id"] = 193333,
-										["targets"] = {
-										},
-										["uptime"] = 12,
+										["uptime"] = 16,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
+										["refreshamt"] = 8,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
 							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 14,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 71,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[1464] = 3,
-								[772] = 1,
-								[34428] = 1,
-								[163201] = 1,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["last_event"] = 1522555561,
-							["nome"] = "Cyprinidae",
-							["pets"] = {
-							},
 							["serial"] = "Player-5-0A9895DA",
 							["tipo"] = 4,
 						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Terokk <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[166774] = 3,
+								[166778] = 3,
+								[166714] = 3,
+							},
+							["serial"] = "Vehicle-0-3878-1116-16505-82820-00006BE683",
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Zephyr <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[166789] = 3,
+							},
+							["serial"] = "Creature-0-3878-1116-16505-82885-00006BE706",
+							["last_event"] = 0,
+						}, -- [3]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 516,
+					["combatId"] = 738,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 					},
@@ -1915,15 +429,15 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["enemy"] = "Grom'kar Grunt",
-				["combat_counter"] = 1003,
+				["enemy"] = "Pridelord Karash",
+				["combat_counter"] = 1305,
 				["playing_solo"] = true,
 				["totals"] = {
-					71394.991099, -- [1]
-					11184, -- [2]
+					1872309.985457, -- [1]
+					0, -- [2]
 					{
 						0, -- [1]
-						[0] = -20,
+						[0] = 0,
 						["alternatepower"] = 0,
 						[3] = 0,
 						[6] = 0,
@@ -1942,83 +456,6 @@ _detalhes_database = {
 					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
-					["Cyprinidae"] = {
-						{
-							true, -- [1]
-							1, -- [2]
-							1844, -- [3]
-							1522555565.959, -- [4]
-							78712, -- [5]
-							"Boneyard Tunneler", -- [6]
-							nil, -- [7]
-							1, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [1]
-						{
-						}, -- [2]
-						{
-						}, -- [3]
-						{
-						}, -- [4]
-						{
-						}, -- [5]
-						{
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						{
-						}, -- [11]
-						{
-						}, -- [12]
-						{
-						}, -- [13]
-						{
-						}, -- [14]
-						{
-						}, -- [15]
-						{
-						}, -- [16]
-						{
-						}, -- [17]
-						{
-						}, -- [18]
-						{
-						}, -- [19]
-						{
-						}, -- [20]
-						{
-						}, -- [21]
-						{
-						}, -- [22]
-						{
-						}, -- [23]
-						{
-						}, -- [24]
-						{
-						}, -- [25]
-						{
-						}, -- [26]
-						{
-						}, -- [27]
-						{
-						}, -- [28]
-						{
-						}, -- [29]
-						{
-						}, -- [30]
-						{
-						}, -- [31]
-						{
-						}, -- [32]
-						["n"] = 2,
-					},
 				},
 				["frags_need_refresh"] = true,
 				["__call"] = {
@@ -2032,33 +469,37 @@ _detalhes_database = {
 					},
 					["heal"] = {
 						{
-							["Cyprinidae"] = 11184.007412,
+							["Cyprinidae"] = 0.01113,
 						}, -- [1]
 					},
 					["damage_section"] = {
 					},
 					["damage"] = {
 						{
-							["Cyprinidae"] = 71395.008992,
+							["Cyprinidae"] = 2213736.018587,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 10343.388,
-				["combat_id"] = 516,
+				["end_time"] = 642291.977,
+				["combat_id"] = 738,
 				["instance_type"] = "none",
+				["resincked"] = true,
 				["frags"] = {
-					["Grom'kar Grunt"] = 1,
+					["Bloodmane Earthbinder"] = 2,
+					["Pridelord Karash"] = 1,
+					["Bloodmane Hunter"] = 3,
+					["Bloodmane Bonereaver"] = 2,
 				},
-				["data_fim"] = "21:06:01",
-				["data_inicio"] = "21:05:49",
+				["data_fim"] = "21:52:23",
+				["data_inicio"] = "21:52:07",
 				["CombatSkillCache"] = {
 				},
 				["totals_grupo"] = {
-					71395, -- [1]
-					11184, -- [2]
+					0, -- [1]
+					0, -- [2]
 					{
 						0, -- [1]
-						[0] = -20,
+						[0] = 0,
 						["alternatepower"] = 0,
 						[3] = 0,
 						[6] = 0,
@@ -2074,311 +515,1214 @@ _detalhes_database = {
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["start_time"] = 10331.597,
-				["contra"] = "Grom'kar Grunt",
+				["start_time"] = 642275.451,
+				["contra"] = "Bloodmane Earthbinder",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 737,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1300,
+							["totalabsorbed"] = 0.00171,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Bloodmane Shortfang"] = 291893,
+								["Bloodmane Earthbinder"] = 114948,
+							},
+							["total"] = 406841.00171,
+							["pets"] = {
+								"Terokk <Cyprinidae>", -- [1]
+							},
+							["on_hold"] = false,
+							["classe"] = "WARRIOR",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.00171,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1525409522,
+							["friendlyfire_total"] = 0,
+							["spec"] = 71,
+							["nome"] = "Cyprinidae",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-5-0A9895DA",
+							["last_dps"] = 45360.7984957232,
+							["custom"] = 0,
+							["last_event"] = 1525409520,
+							["damage_taken"] = 0.00171,
+							["start_time"] = 1525409511,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.007691,
+							["serial"] = "Vehicle-0-3878-1116-16505-82820-00006BE683",
+							["damage_from"] = {
+								["Bloodmane Shortfang"] = true,
+							},
+							["targets"] = {
+								["Bloodmane Shortfang"] = 291893,
+								["Bloodmane Earthbinder"] = 114948,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 406841.007691,
+							["dps_started"] = false,
+							["total"] = 406841.007691,
+							["classe"] = "PET",
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Terokk <Cyprinidae>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[166774] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22447,
+										["targets"] = {
+											["Bloodmane Shortfang"] = 74438,
+											["Bloodmane Earthbinder"] = 21360,
+											["Bloodmane Bonereaver"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 95798,
+										["n_min"] = 14682,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 95798,
+										["c_max"] = 0,
+										["EVADE"] = 1,
+										["id"] = 166774,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166811] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Bloodmane Bonereaver"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["EVADE"] = 2,
+										["id"] = 166811,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166778] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 66585,
+										["targets"] = {
+											["Bloodmane Shortfang"] = 124452,
+											["Bloodmane Bonereaver"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 124452,
+										["n_min"] = 57867,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 124452,
+										["c_max"] = 0,
+										["EVADE"] = 1,
+										["id"] = 166778,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166714] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 93588,
+										["targets"] = {
+											["Bloodmane Shortfang"] = 93003,
+											["Bloodmane Earthbinder"] = 93588,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 186591,
+										["n_min"] = 93003,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 186591,
+										["c_max"] = 0,
+										["id"] = 166714,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525409522,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 7010.007691,
+							["start_time"] = 1525409511,
+							["delay"] = 0,
+							["last_event"] = 1525409520,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 737,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.006606,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["targets"] = {
+							},
+							["targets_absorbs"] = {
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.006606,
+							["targets_overheal"] = {
+								["Cyprinidae"] = 31104,
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 31104.006606,
+							["total_without_pet"] = 0.006606,
+							["iniciar_hps"] = false,
+							["classe"] = "WARRIOR",
+							["end_time"] = 1525409522,
+							["total"] = 0.006606,
+							["healing_taken"] = 0.006606,
+							["start_time"] = 1525409511,
+							["nome"] = "Cyprinidae",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Cyprinidae"] = 31104,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Cyprinidae"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 8,
+										["overheal"] = 31104,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 8,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 71,
+							["heal_enemy"] = {
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["custom"] = 0,
+							["last_event"] = 1525409520,
+							["on_hold"] = false,
+							["totaldenied"] = 0.006606,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 737,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 737,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 71,
+							["grupo"] = true,
+							["buff_uptime"] = 22,
+							["nome"] = "Cyprinidae",
+							["pets"] = {
+								"Terokk <Cyprinidae>", -- [1]
+								"Zephyr <Cyprinidae>", -- [2]
+							},
+							["last_event"] = 1525409522,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[178119] = {
+										["activedamt"] = 1,
+										["id"] = 178119,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[32216] = {
+										["activedamt"] = 1,
+										["id"] = 32216,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 4,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Terokk <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[166774] = 2,
+								[166778] = 2,
+								[166714] = 1,
+							},
+							["serial"] = "Vehicle-0-3878-1116-16505-82820-00006BE683",
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Zephyr <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[166789] = 2,
+							},
+							["serial"] = "Creature-0-3878-1116-16505-82885-00006BE6F3",
+							["last_event"] = 0,
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 737,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Cyprinidae"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Bloodmane Shortfang",
+				["combat_counter"] = 1304,
+				["playing_solo"] = true,
+				["totals"] = {
+					406840.990345, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Cyprinidae"] = 0.006606,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Cyprinidae"] = 406841.00171,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 642272.231,
+				["combat_id"] = 737,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Bloodmane Shortfang"] = 3,
+					["Bloodmane Earthbinder"] = 1,
+				},
+				["data_fim"] = "21:52:03",
+				["data_inicio"] = "21:51:51",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 642260.434,
+				["contra"] = "Bloodmane Shortfang",
+				["TimeData"] = {
+				},
+			}, -- [2]
+			{
+				{
+					["combatId"] = 736,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1300,
+							["totalabsorbed"] = 0.004662,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Bloodmane Shortfang"] = 509856,
+								["Bloodmane Hunter"] = 236731,
+							},
+							["total"] = 746587.004662,
+							["pets"] = {
+								"Terokk <Cyprinidae>", -- [1]
+							},
+							["on_hold"] = false,
+							["classe"] = "WARRIOR",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004662,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1525409491,
+							["friendlyfire_total"] = 0,
+							["spec"] = 71,
+							["nome"] = "Cyprinidae",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-5-0A9895DA",
+							["last_dps"] = 89917.7411363927,
+							["custom"] = 0,
+							["last_event"] = 1525409490,
+							["damage_taken"] = 0.004662,
+							["start_time"] = 1525409483,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.001793,
+							["serial"] = "Vehicle-0-3878-1116-16505-82820-00006BE683",
+							["damage_from"] = {
+								["Bloodmane Shortfang"] = true,
+							},
+							["targets"] = {
+								["Bloodmane Shortfang"] = 509856,
+								["Bloodmane Hunter"] = 236731,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 746587.001793,
+							["dps_started"] = false,
+							["total"] = 746587.001793,
+							["classe"] = "PET",
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Terokk <Cyprinidae>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[166774] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22616,
+										["targets"] = {
+											["Bloodmane Shortfang"] = 174890,
+											["Bloodmane Hunter"] = 99372,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 274262,
+										["n_min"] = 13884,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 274262,
+										["c_max"] = 0,
+										["id"] = 166774,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 16,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166714] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 95105,
+										["targets"] = {
+											["Bloodmane Shortfang"] = 187119,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 187119,
+										["n_min"] = 92014,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 187119,
+										["c_max"] = 0,
+										["id"] = 166714,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166778] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 69444,
+										["targets"] = {
+											["Bloodmane Shortfang"] = 137450,
+											["Bloodmane Hunter"] = 137359,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 274809,
+										["n_min"] = 68006,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 274809,
+										["c_max"] = 0,
+										["id"] = 166778,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166811] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 10397,
+										["targets"] = {
+											["Bloodmane Shortfang"] = 10397,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10397,
+										["n_min"] = 10397,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 10397,
+										["c_max"] = 0,
+										["id"] = 166811,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525409491,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 10484.001793,
+							["start_time"] = 1525409483,
+							["delay"] = 0,
+							["last_event"] = 1525409490,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 736,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.00598,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["targets"] = {
+							},
+							["targets_absorbs"] = {
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.00598,
+							["targets_overheal"] = {
+								["Cyprinidae"] = 54433,
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 54433.00598,
+							["total_without_pet"] = 0.00598,
+							["iniciar_hps"] = false,
+							["classe"] = "WARRIOR",
+							["end_time"] = 1525409491,
+							["total"] = 0.00598,
+							["healing_taken"] = 0.00598,
+							["start_time"] = 1525409486,
+							["nome"] = "Cyprinidae",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Cyprinidae"] = 54433,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Cyprinidae"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 14,
+										["overheal"] = 54433,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 14,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 71,
+							["heal_enemy"] = {
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["custom"] = 0,
+							["last_event"] = 1525409490,
+							["on_hold"] = false,
+							["totaldenied"] = 0.00598,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 736,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 736,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 71,
+							["grupo"] = true,
+							["buff_uptime"] = 16,
+							["nome"] = "Cyprinidae",
+							["pets"] = {
+								"Terokk <Cyprinidae>", -- [1]
+								"Zephyr <Cyprinidae>", -- [2]
+							},
+							["last_event"] = 1525409491,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[178119] = {
+										["activedamt"] = 1,
+										["id"] = 178119,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[32216] = {
+										["activedamt"] = 1,
+										["id"] = 32216,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 7,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Terokk <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[166714] = 2,
+								[166778] = 2,
+								[166774] = 1,
+							},
+							["serial"] = "Vehicle-0-3878-1116-16505-82820-00006BE683",
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Zephyr <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[166789] = 2,
+							},
+							["serial"] = "Creature-0-3878-1116-16505-82885-00006BE6D7",
+							["last_event"] = 0,
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 736,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Cyprinidae"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Bloodmane Shortfang",
+				["combat_counter"] = 1300,
+				["playing_solo"] = true,
+				["totals"] = {
+					746586.992159, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Cyprinidae"] = 0.014593,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Cyprinidae"] = 1711229.019901,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 642241.067,
+				["combat_id"] = 736,
+				["instance_type"] = "none",
+				["resincked"] = true,
+				["frags"] = {
+					["Bloodmane Shortfang"] = 5,
+					["Bloodmane Hunter"] = 2,
+				},
+				["data_fim"] = "21:51:32",
+				["data_inicio"] = "21:51:24",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 642232.764,
+				["contra"] = "Bloodmane Shortfang",
 				["TimeData"] = {
 				},
 			}, -- [3]
 			{
 				{
-					["combatId"] = 515,
+					["combatId"] = 735,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.008619,
+							["flag_original"] = 1300,
+							["totalabsorbed"] = 0.004159,
 							["damage_from"] = {
-								["Grom'kar Grunt"] = true,
 							},
 							["targets"] = {
-								["Grom'kar Grunt"] = 68329,
+								["Bloodmane Earthbinder"] = 116479,
+								["Bloodmane Hunter"] = 298670,
+								["Bloodmane Bonereaver"] = 248567,
 							},
-							["total"] = 68329.008619,
+							["total"] = 663716.004159,
 							["pets"] = {
+								"Terokk <Cyprinidae>", -- [1]
 							},
 							["on_hold"] = false,
 							["classe"] = "WARRIOR",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 68329.008619,
+							["total_without_pet"] = 0.004159,
 							["colocacao"] = 1,
 							["friendlyfire"] = {
 							},
 							["dps_started"] = false,
-							["end_time"] = 1522555546,
+							["end_time"] = 1525409474,
 							["friendlyfire_total"] = 0,
 							["spec"] = 71,
 							["nome"] = "Cyprinidae",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
-									{
-										["c_amt"] = 1,
-										["b_amt"] = 1,
-										["c_dmg"] = 5427,
-										["g_amt"] = 0,
-										["n_max"] = 2089,
-										["targets"] = {
-											["Grom'kar Grunt"] = 9365,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 3938,
-										["n_min"] = 1849,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 9365,
-										["c_max"] = 5427,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 1849,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 5427,
-									}, -- [1]
-									[1464] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 17477,
-										["g_amt"] = 0,
-										["n_max"] = 8786,
-										["targets"] = {
-											["Grom'kar Grunt"] = 34797,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 17320,
-										["n_min"] = 8534,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 34797,
-										["c_max"] = 17477,
-										["id"] = 1464,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 17477,
-									},
-									[57755] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1046,
-										["targets"] = {
-											["Grom'kar Grunt"] = 1046,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1046,
-										["n_min"] = 1046,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1046,
-										["c_max"] = 0,
-										["id"] = 57755,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[34428] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 8689,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Grom'kar Grunt"] = 8689,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 8689,
-										["c_max"] = 8689,
-										["id"] = 34428,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 8689,
-									},
-									[167105] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 7140,
-										["targets"] = {
-											["Grom'kar Grunt"] = 12377,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 12377,
-										["n_min"] = 5237,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 12377,
-										["c_max"] = 0,
-										["id"] = 167105,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[126664] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 2055,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Grom'kar Grunt"] = 2055,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 2055,
-										["c_max"] = 2055,
-										["id"] = 126664,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 2055,
-									},
 								},
 							},
 							["grupo"] = true,
 							["serial"] = "Player-5-0A9895DA",
-							["last_dps"] = 6811.78433047494,
+							["last_dps"] = 87124.7051926411,
 							["custom"] = 0,
-							["last_event"] = 1522555545,
-							["damage_taken"] = 18683.008619,
-							["start_time"] = 1522555536,
+							["last_event"] = 1525409473,
+							["damage_taken"] = 0.004159,
+							["start_time"] = 1525409467,
 							["delay"] = 0,
 							["tipo"] = 1,
 						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.00801,
+							["serial"] = "Vehicle-0-3878-1116-16505-82820-00006BE683",
+							["damage_from"] = {
+								["Bloodmane Earthbinder"] = true,
+								["Bloodmane Hunter"] = true,
+								["Bloodmane Bonereaver"] = true,
+							},
+							["targets"] = {
+								["Bloodmane Earthbinder"] = 116479,
+								["Bloodmane Hunter"] = 298670,
+								["Bloodmane Bonereaver"] = 248567,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 663716.00801,
+							["dps_started"] = false,
+							["total"] = 663716.00801,
+							["classe"] = "PET",
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Terokk <Cyprinidae>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[166774] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22773,
+										["targets"] = {
+											["Bloodmane Earthbinder"] = 49924,
+											["Bloodmane Hunter"] = 166870,
+											["Bloodmane Bonereaver"] = 68737,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 285531,
+										["n_min"] = 13966,
+										["g_dmg"] = 0,
+										["counter"] = 17,
+										["total"] = 285531,
+										["c_max"] = 0,
+										["id"] = 166774,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 17,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166714] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 93635,
+										["targets"] = {
+											["Bloodmane Bonereaver"] = 93635,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 93635,
+										["n_min"] = 93635,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 93635,
+										["c_max"] = 0,
+										["id"] = 166714,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166778] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 66555,
+										["targets"] = {
+											["Bloodmane Earthbinder"] = 66555,
+											["Bloodmane Hunter"] = 121545,
+											["Bloodmane Bonereaver"] = 65663,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 253763,
+										["n_min"] = 58021,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 253763,
+										["c_max"] = 0,
+										["id"] = 166778,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166811] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 10366,
+										["targets"] = {
+											["Bloodmane Hunter"] = 10255,
+											["Bloodmane Bonereaver"] = 20532,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 30787,
+										["n_min"] = 10166,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 30787,
+										["c_max"] = 0,
+										["id"] = 166811,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525409474,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 22805.00801,
+							["start_time"] = 1525409467,
+							["delay"] = 0,
+							["last_event"] = 1525409473,
+						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 515,
+					["combatId"] = 735,
 					["tipo"] = 3,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
+							["totalabsorb"] = 0.007604,
+							["last_hps"] = 0,
 							["healing_from"] = {
-								["Cyprinidae"] = true,
+							},
+							["targets"] = {
+							},
+							["targets_absorbs"] = {
 							},
 							["pets"] = {
 							},
+							["totalover_without_pet"] = 0.007604,
+							["targets_overheal"] = {
+								["Cyprinidae"] = 31104,
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 31104.007604,
+							["total_without_pet"] = 0.007604,
 							["iniciar_hps"] = false,
 							["classe"] = "WARRIOR",
-							["totalover"] = 13293.002755,
-							["total_without_pet"] = 20661.002755,
-							["total"] = 20661.002755,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["serial"] = "Player-5-0A9895DA",
-							["totalabsorb"] = 0.002755,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Cyprinidae"] = 33954,
-							},
-							["totalover_without_pet"] = 0.002755,
-							["healing_taken"] = 20661.002755,
-							["fight_component"] = true,
-							["end_time"] = 1522555546,
-							["targets_overheal"] = {
-								["Cyprinidae"] = 13293,
-							},
+							["end_time"] = 1525409474,
+							["total"] = 0.007604,
+							["healing_taken"] = 0.007604,
+							["start_time"] = 1525409469,
 							["nome"] = "Cyprinidae",
 							["spells"] = {
 								["tipo"] = 3,
 								["_ActorTable"] = {
-									[118779] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Cyprinidae"] = 13293,
-										},
-										["n_max"] = 16623,
-										["targets"] = {
-											["Cyprinidae"] = 16623,
-										},
-										["n_min"] = 16623,
-										["counter"] = 1,
-										["overheal"] = 13293,
-										["total"] = 16623,
-										["c_max"] = 0,
-										["id"] = 118779,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 16623,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
 									[59913] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
+											["Cyprinidae"] = 31104,
 										},
-										["n_max"] = 2019,
+										["n_max"] = 0,
 										["targets"] = {
-											["Cyprinidae"] = 4038,
+											["Cyprinidae"] = 0,
 										},
-										["n_min"] = 2019,
-										["counter"] = 2,
-										["overheal"] = 0,
-										["total"] = 4038,
+										["n_min"] = 0,
+										["counter"] = 8,
+										["overheal"] = 31104,
+										["total"] = 0,
 										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
@@ -2387,8 +1731,8 @@ _detalhes_database = {
 										["m_crit"] = 0,
 										["c_min"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 4038,
-										["n_amt"] = 2,
+										["n_curado"] = 0,
+										["n_amt"] = 8,
 										["totaldenied"] = 0,
 										["m_healed"] = 0,
 										["absorbed"] = 0,
@@ -2396,218 +1740,107 @@ _detalhes_database = {
 								},
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1522555540,
-							["custom"] = 0,
-							["last_event"] = 1522555545,
 							["spec"] = 71,
-							["totaldenied"] = 0.002755,
+							["heal_enemy"] = {
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["custom"] = 0,
+							["last_event"] = 1525409473,
+							["on_hold"] = false,
+							["totaldenied"] = 0.007604,
 							["delay"] = 0,
 							["tipo"] = 2,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 515,
+					["combatId"] = 735,
 					["tipo"] = 7,
 					["_ActorTable"] = {
-						{
-							["received"] = 40.002166,
-							["resource"] = 0.002166,
-							["targets"] = {
-								["Cyprinidae"] = 40,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = 40.002166,
-							["nome"] = "Cyprinidae",
-							["spec"] = 71,
-							["grupo"] = true,
-							["resource_type"] = 4,
-							["flag_original"] = 1297,
-							["last_event"] = 1522555549,
-							["alternatepower"] = 0.002166,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[100] = {
-										["id"] = 100,
-										["total"] = 40,
-										["targets"] = {
-											["Cyprinidae"] = 40,
-										},
-										["counter"] = 2,
-									},
-								},
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 3,
-						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 515,
+					["combatId"] = 735,
 					["tipo"] = 9,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[105771] = {
-										["activedamt"] = 0,
-										["id"] = 105771,
-										["targets"] = {
-										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[208086] = {
-										["activedamt"] = 0,
-										["id"] = 208086,
-										["targets"] = {
-										},
-										["uptime"] = 7,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[236027] = {
-										["activedamt"] = 0,
-										["id"] = 236027,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 32,
-							["cc_done_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[105771] = {
-										["id"] = 105771,
-										["targets"] = {
-											["Grom'kar Grunt"] = 1,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["classe"] = "WARRIOR",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[118779] = {
-										["activedamt"] = 1,
-										["id"] = 118779,
-										["targets"] = {
-										},
-										["actived_at"] = 1522555540,
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-									[248622] = {
-										["activedamt"] = 1,
-										["id"] = 248622,
-										["targets"] = {
-										},
-										["uptime"] = 8,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[32216] = {
-										["activedamt"] = 2,
-										["id"] = 32216,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[109128] = {
-										["activedamt"] = 1,
-										["id"] = 109128,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[193333] = {
-										["activedamt"] = 1,
-										["id"] = 193333,
-										["targets"] = {
-										},
-										["uptime"] = 10,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[199854] = {
-										["activedamt"] = 1,
-										["id"] = 199854,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 14,
-							["cc_done"] = 1.003021,
 							["buff_uptime_targets"] = {
 							},
 							["spec"] = 71,
 							["grupo"] = true,
-							["spell_cast"] = {
-								[1464] = 3,
-								[100] = 1,
-								[34428] = 1,
-								[167105] = 2,
-								[126664] = 1,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["cc_done_targets"] = {
-								["Grom'kar Grunt"] = 1,
-							},
-							["last_event"] = 1522555546,
+							["buff_uptime"] = 14,
 							["nome"] = "Cyprinidae",
 							["pets"] = {
+								"Terokk <Cyprinidae>", -- [1]
+								"Zephyr <Cyprinidae>", -- [2]
+							},
+							["last_event"] = 1525409474,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[178119] = {
+										["activedamt"] = 1,
+										["id"] = 178119,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[32216] = {
+										["activedamt"] = 1,
+										["id"] = 32216,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 4,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
 							},
 							["serial"] = "Player-5-0A9895DA",
 							["tipo"] = 4,
 						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Terokk <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[166714] = 1,
+								[166778] = 2,
+								[166774] = 1,
+							},
+							["serial"] = "Vehicle-0-3878-1116-16505-82820-00006BE683",
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Zephyr <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[166789] = 2,
+							},
+							["serial"] = "Creature-0-3878-1116-16505-82885-00006BE6C6",
+							["last_event"] = 0,
+						}, -- [3]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 515,
+					["combatId"] = 735,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 					},
@@ -2619,15 +1852,15 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["enemy"] = "Grom'kar Grunt",
-				["combat_counter"] = 1002,
+				["enemy"] = "Bloodmane Earthbinder",
+				["combat_counter"] = 1298,
 				["playing_solo"] = true,
 				["totals"] = {
-					68328.983845, -- [1]
-					20661, -- [2]
+					663715.989672, -- [1]
+					0, -- [2]
 					{
 						0, -- [1]
-						[0] = 40,
+						[0] = 0,
 						["alternatepower"] = 0,
 						[3] = 0,
 						[6] = 0,
@@ -2659,33 +1892,36 @@ _detalhes_database = {
 					},
 					["heal"] = {
 						{
-							["Cyprinidae"] = 20661.002755,
+							["Cyprinidae"] = 0.016351,
 						}, -- [1]
 					},
 					["damage_section"] = {
 					},
 					["damage"] = {
 						{
-							["Cyprinidae"] = 68329.008619,
+							["Cyprinidae"] = 754821.012986,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 10327.975,
-				["combat_id"] = 515,
+				["end_time"] = 642223.997,
+				["combat_id"] = 735,
 				["instance_type"] = "none",
+				["resincked"] = true,
 				["frags"] = {
-					["Grom'kar Grunt"] = 1,
+					["Bloodmane Hunter"] = 2,
+					["Bloodmane Earthbinder"] = 1,
+					["Bloodmane Bonereaver"] = 1,
 				},
-				["data_fim"] = "21:05:46",
-				["data_inicio"] = "21:05:36",
+				["data_fim"] = "21:51:15",
+				["data_inicio"] = "21:51:07",
 				["CombatSkillCache"] = {
 				},
 				["totals_grupo"] = {
-					68329, -- [1]
-					20661, -- [2]
+					0, -- [1]
+					0, -- [2]
 					{
 						0, -- [1]
-						[0] = 40,
+						[0] = 0,
 						["alternatepower"] = 0,
 						[3] = 0,
 						[6] = 0,
@@ -2701,61 +1937,130 @@ _detalhes_database = {
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["start_time"] = 10317.944,
-				["contra"] = "Grom'kar Grunt",
+				["start_time"] = 642216.379,
+				["contra"] = "Bloodmane Bonereaver",
 				["TimeData"] = {
 				},
 			}, -- [4]
 			{
 				{
-					["combatId"] = 514,
+					["combatId"] = 734,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.00208,
-							["total"] = 82923.00208,
+							["flag_original"] = 1300,
+							["totalabsorbed"] = 0.008996,
 							["damage_from"] = {
-								["Grom'kar Grunt"] = true,
 							},
 							["targets"] = {
-								["Grom'kar Grunt"] = 82923,
+								["Bloodmane Hunter"] = 91185,
+								["Bloodmane Bonereaver"] = 160308,
 							},
+							["total"] = 251493.008996,
 							["pets"] = {
+								"Terokk <Cyprinidae>", -- [1]
 							},
-							["friendlyfire"] = {
-							},
-							["colocacao"] = 1,
+							["on_hold"] = false,
 							["classe"] = "WARRIOR",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 82923.00208,
-							["friendlyfire_total"] = 0,
+							["total_without_pet"] = 0.008996,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
 							["dps_started"] = false,
-							["end_time"] = 1522555528,
-							["on_hold"] = false,
+							["end_time"] = 1525409451,
+							["friendlyfire_total"] = 0,
 							["spec"] = 71,
 							["nome"] = "Cyprinidae",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
-									{
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-5-0A9895DA",
+							["last_dps"] = 35922.4409361939,
+							["custom"] = 0,
+							["last_event"] = 1525409450,
+							["damage_taken"] = 0.008996,
+							["start_time"] = 1525409444,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.001994,
+							["serial"] = "Vehicle-0-3878-1116-16505-82820-00006BE683",
+							["damage_from"] = {
+								["Bloodmane Hunter"] = true,
+							},
+							["targets"] = {
+								["Bloodmane Hunter"] = 91185,
+								["Bloodmane Bonereaver"] = 160308,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 251493.001994,
+							["dps_started"] = false,
+							["total"] = 251493.001994,
+							["classe"] = "PET",
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Terokk <Cyprinidae>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[166714] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 2592,
+										["n_max"] = 92459,
 										["targets"] = {
-											["Grom'kar Grunt"] = 9810,
+											["Bloodmane Hunter"] = 91185,
+											["Bloodmane Bonereaver"] = 92459,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 9810,
-										["n_min"] = 2045,
+										["n_dmg"] = 183644,
+										["n_min"] = 91185,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 183644,
+										["c_max"] = 0,
+										["id"] = 166714,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[166774] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 22682,
+										["targets"] = {
+											["Bloodmane Bonereaver"] = 67849,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 67849,
+										["n_min"] = 14404,
 										["g_dmg"] = 0,
 										["counter"] = 4,
-										["total"] = 9810,
+										["total"] = 67849,
 										["c_max"] = 0,
-										["id"] = 1,
+										["id"] = 166774,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
@@ -2767,274 +2072,69 @@ _detalhes_database = {
 										["n_amt"] = 4,
 										["r_amt"] = 0,
 										["c_min"] = 0,
-									}, -- [1]
-									[12294] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 11531,
-										["targets"] = {
-											["Grom'kar Grunt"] = 11531,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 11531,
-										["n_min"] = 11531,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 11531,
-										["c_max"] = 0,
-										["id"] = 12294,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[772] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 7742,
-										["targets"] = {
-											["Grom'kar Grunt"] = 19645,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 19645,
-										["n_min"] = 4161,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 19645,
-										["c_max"] = 0,
-										["id"] = 772,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[1464] = {
-										["c_amt"] = 1,
-										["b_amt"] = 1,
-										["c_dmg"] = 17136,
-										["g_amt"] = 0,
-										["n_max"] = 8257,
-										["targets"] = {
-											["Grom'kar Grunt"] = 31311,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 14175,
-										["n_min"] = 5918,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 31311,
-										["c_max"] = 17136,
-										["id"] = 1464,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 5918,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 17136,
-									},
-									[34428] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 4345,
-										["targets"] = {
-											["Grom'kar Grunt"] = 4345,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 4345,
-										["n_min"] = 4345,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 4345,
-										["c_max"] = 0,
-										["id"] = 34428,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[167105] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 5253,
-										["targets"] = {
-											["Grom'kar Grunt"] = 5253,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 5253,
-										["n_min"] = 5253,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 5253,
-										["c_max"] = 0,
-										["id"] = 167105,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[126664] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1028,
-										["targets"] = {
-											["Grom'kar Grunt"] = 1028,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1028,
-										["n_min"] = 1028,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1028,
-										["c_max"] = 0,
-										["id"] = 126664,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
 							},
-							["grupo"] = true,
-							["serial"] = "Player-5-0A9895DA",
-							["last_dps"] = 8402.37127165822,
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525409451,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1522555528,
-							["damage_taken"] = 23495.00208,
-							["start_time"] = 1522555519,
-							["delay"] = 0,
 							["tipo"] = 1,
-						}, -- [1]
+							["damage_taken"] = 5024.001994,
+							["start_time"] = 1525409444,
+							["delay"] = 0,
+							["last_event"] = 1525409450,
+						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 514,
+					["combatId"] = 734,
 					["tipo"] = 3,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
+							["totalabsorb"] = 0.005601,
+							["last_hps"] = 0,
 							["healing_from"] = {
-								["Cyprinidae"] = true,
+							},
+							["targets"] = {
+							},
+							["targets_absorbs"] = {
 							},
 							["pets"] = {
 							},
+							["totalover_without_pet"] = 0.005601,
+							["targets_overheal"] = {
+								["Cyprinidae"] = 15552,
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 15552.005601,
+							["total_without_pet"] = 0.005601,
 							["iniciar_hps"] = false,
 							["classe"] = "WARRIOR",
-							["totalover"] = 19887.008434,
-							["total_without_pet"] = 14066.008434,
-							["total"] = 14066.008434,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["serial"] = "Player-5-0A9895DA",
-							["totalabsorb"] = 0.008434,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Cyprinidae"] = 33953,
-							},
-							["totalover_without_pet"] = 0.008434,
-							["healing_taken"] = 14066.008434,
-							["fight_component"] = true,
-							["end_time"] = 1522555528,
-							["targets_overheal"] = {
-								["Cyprinidae"] = 19887,
-							},
+							["end_time"] = 1525409451,
+							["total"] = 0.005601,
+							["healing_taken"] = 0.005601,
+							["start_time"] = 1525409448,
 							["nome"] = "Cyprinidae",
 							["spells"] = {
 								["tipo"] = 3,
 								["_ActorTable"] = {
-									[118779] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Cyprinidae"] = 19887,
-										},
-										["n_max"] = 10029,
-										["targets"] = {
-											["Cyprinidae"] = 10029,
-										},
-										["n_min"] = 10029,
-										["counter"] = 1,
-										["overheal"] = 19887,
-										["total"] = 10029,
-										["c_max"] = 0,
-										["id"] = 118779,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 10029,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
 									[59913] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
+											["Cyprinidae"] = 15552,
 										},
-										["n_max"] = 2019,
+										["n_max"] = 0,
 										["targets"] = {
-											["Cyprinidae"] = 4037,
+											["Cyprinidae"] = 0,
 										},
-										["n_min"] = 2018,
-										["counter"] = 2,
-										["overheal"] = 0,
-										["total"] = 4037,
+										["n_min"] = 0,
+										["counter"] = 4,
+										["overheal"] = 15552,
+										["total"] = 0,
 										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
@@ -3043,8 +2143,8 @@ _detalhes_database = {
 										["m_crit"] = 0,
 										["c_min"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 4037,
-										["n_amt"] = 2,
+										["n_curado"] = 0,
+										["n_amt"] = 4,
 										["totaldenied"] = 0,
 										["m_healed"] = 0,
 										["absorbed"] = 0,
@@ -3052,69 +2152,49 @@ _detalhes_database = {
 								},
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1522555520,
-							["custom"] = 0,
-							["last_event"] = 1522555528,
 							["spec"] = 71,
-							["totaldenied"] = 0.008434,
+							["heal_enemy"] = {
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["custom"] = 0,
+							["last_event"] = 1525409450,
+							["on_hold"] = false,
+							["totaldenied"] = 0.005601,
 							["delay"] = 0,
 							["tipo"] = 2,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 514,
+					["combatId"] = 734,
 					["tipo"] = 7,
 					["_ActorTable"] = {
-						{
-							["received"] = 14.008045,
-							["resource"] = 0.008045,
-							["targets"] = {
-								["Cyprinidae"] = 14,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = 14.008045,
-							["nome"] = "Cyprinidae",
-							["spec"] = 71,
-							["grupo"] = true,
-							["flag_original"] = 1297,
-							["last_event"] = 1522555524,
-							["alternatepower"] = 0.008045,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[173401] = {
-										["id"] = 173401,
-										["total"] = 14,
-										["targets"] = {
-											["Cyprinidae"] = 14,
-										},
-										["counter"] = 3,
-									},
-								},
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 3,
-						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 514,
+					["combatId"] = 734,
 					["tipo"] = 9,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 71,
+							["grupo"] = true,
+							["buff_uptime"] = 14,
+							["nome"] = "Cyprinidae",
+							["pets"] = {
+								"Terokk <Cyprinidae>", -- [1]
+								"Zephyr <Cyprinidae>", -- [2]
+							},
+							["last_event"] = 1525409451,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
 								["tipo"] = 9,
 								["_ActorTable"] = {
-									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
+									[178119] = {
+										["activedamt"] = 1,
+										["id"] = 178119,
 										["targets"] = {
 										},
 										["uptime"] = 7,
@@ -3123,141 +2203,56 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[208086] = {
-										["activedamt"] = 0,
-										["id"] = 208086,
-										["targets"] = {
-										},
-										["uptime"] = 9,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[105771] = {
-										["activedamt"] = 0,
-										["id"] = 105771,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[236027] = {
-										["activedamt"] = 0,
-										["id"] = 236027,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[772] = {
-										["activedamt"] = 0,
-										["id"] = 772,
-										["targets"] = {
-										},
-										["uptime"] = 4,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 26,
-							["classe"] = "WARRIOR",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[118779] = {
-										["activedamt"] = 1,
-										["id"] = 118779,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[248622] = {
-										["activedamt"] = 1,
-										["id"] = 248622,
-										["targets"] = {
-										},
-										["uptime"] = 8,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[32216] = {
-										["activedamt"] = 2,
+										["activedamt"] = 1,
 										["id"] = 32216,
 										["targets"] = {
 										},
-										["uptime"] = 2,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[109128] = {
-										["activedamt"] = 0,
-										["id"] = 109128,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[193333] = {
-										["activedamt"] = 1,
-										["id"] = 193333,
-										["targets"] = {
-										},
-										["uptime"] = 10,
+										["uptime"] = 7,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
+										["refreshamt"] = 2,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 26,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 71,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[12294] = 1,
-								[772] = 1,
-								[1464] = 3,
-								[34428] = 1,
-								[167105] = 1,
-								[126664] = 1,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["last_event"] = 1522555528,
-							["nome"] = "Cyprinidae",
-							["pets"] = {
 							},
 							["serial"] = "Player-5-0A9895DA",
 							["tipo"] = 4,
 						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Terokk <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[166774] = 1,
+								[166778] = 1,
+								[166714] = 2,
+							},
+							["serial"] = "Vehicle-0-3878-1116-16505-82820-00006BE683",
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Zephyr <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[166789] = 1,
+							},
+							["serial"] = "Creature-0-3878-1116-16505-82885-00006BE6B0",
+							["last_event"] = 0,
+						}, -- [3]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 514,
+					["combatId"] = 734,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 					},
@@ -3269,15 +2264,15 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["enemy"] = "Grom'kar Grunt",
-				["combat_counter"] = 1001,
+				["enemy"] = "Bloodmane Hunter",
+				["combat_counter"] = 1295,
 				["playing_solo"] = true,
 				["totals"] = {
-					82922.996966, -- [1]
-					14066, -- [2]
+					251492.988678, -- [1]
+					0, -- [2]
 					{
 						0, -- [1]
-						[0] = 14,
+						[0] = 0,
 						["alternatepower"] = 0,
 						[3] = 0,
 						[6] = 0,
@@ -3309,33 +2304,35 @@ _detalhes_database = {
 					},
 					["heal"] = {
 						{
-							["Cyprinidae"] = 14066.008434,
+							["Cyprinidae"] = 0.022479,
 						}, -- [1]
 					},
 					["damage_section"] = {
 					},
 					["damage"] = {
 						{
-							["Cyprinidae"] = 82923.00208,
+							["Cyprinidae"] = 1013222.012394,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 10310.475,
-				["combat_id"] = 514,
+				["end_time"] = 642200.447,
+				["combat_id"] = 734,
 				["instance_type"] = "none",
+				["resincked"] = true,
 				["frags"] = {
-					["Grom'kar Grunt"] = 1,
+					["Bloodmane Hunter"] = 1,
+					["Bloodmane Bonereaver"] = 1,
 				},
-				["data_fim"] = "21:05:28",
-				["data_inicio"] = "21:05:19",
+				["data_fim"] = "21:50:52",
+				["data_inicio"] = "21:50:45",
 				["CombatSkillCache"] = {
 				},
 				["totals_grupo"] = {
-					82923, -- [1]
-					14066, -- [2]
+					0, -- [1]
+					0, -- [2]
 					{
 						0, -- [1]
-						[0] = 14,
+						[0] = 0,
 						["alternatepower"] = 0,
 						[3] = 0,
 						[6] = 0,
@@ -3351,18 +2348,15 @@ _detalhes_database = {
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["start_time"] = 10300.606,
-				["contra"] = "Grom'kar Grunt",
+				["start_time"] = 642193.446,
+				["contra"] = "Bloodmane Hunter",
 				["TimeData"] = {
 				},
 			}, -- [5]
 		},
 	},
-	["combat_counter"] = 1005,
-	["SoloTablesSaved"] = {
-		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
-		["Mode"] = 1,
-	},
+	["combat_counter"] = 1307,
+	["force_font_outline"] = "",
 	["tabela_instancias"] = {
 	},
 	["local_instances_config"] = {
@@ -3435,15 +2429,16 @@ _detalhes_database = {
 	},
 	["cached_talents"] = {
 		["Player-5-0A9895DA"] = {
-			22800, -- [1]
-			22409, -- [2]
-			22627, -- [3]
-			22397, -- [4]
-			22489, -- [5]
+			19138, -- [1]
+			22800, -- [2]
+			22409, -- [3]
+			22627, -- [4]
+			22397, -- [5]
 			22371, -- [6]
+			21667, -- [7]
 		},
 	},
-	["last_instance_id"] = 657,
+	["last_instance_id"] = 249,
 	["announce_interrupts"] = {
 		["enabled"] = false,
 		["whisper"] = "",
@@ -3451,15 +2446,15 @@ _detalhes_database = {
 		["custom"] = "",
 		["next"] = "",
 	},
-	["last_instance_time"] = 1513061638,
+	["last_instance_time"] = 1525162680,
 	["active_profile"] = "Cyprinidae",
-	["last_day"] = "31",
+	["last_day"] = "03",
 	["ignore_nicktag"] = true,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
 			["enabled"] = true,
-			["animate"] = false,
+			["showamount"] = false,
 			["useplayercolor"] = false,
 			["author"] = "Details! Team",
 			["useclasscolors"] = false,
@@ -3468,7 +2463,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			},
-			["showamount"] = false,
+			["animate"] = false,
 		},
 		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
 			["lasttry"] = {
@@ -3477,9 +2472,9 @@ _detalhes_database = {
 			["dpshistory"] = {
 			},
 			["enabled"] = true,
-			["dps"] = 0,
-			["level"] = 1,
 			["author"] = "Details! Team",
+			["level"] = 1,
+			["dps"] = 0,
 		},
 		["DETAILS_PLUGIN_TIME_ATTACK"] = {
 			["enabled"] = true,
@@ -3575,20 +2570,6 @@ _detalhes_database = {
 			},
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 10,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["main_frame_strata"] = "LOW",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["y"] = 0,
-			["x"] = -3.05175781250e-005,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -3600,6 +2581,20 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 10,
+			["use_spark"] = true,
+			["x"] = -3.05175781250e-005,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = 0,
 			["author"] = "Details! Team",
 			["point"] = "CENTER",
 			["row_height"] = 20,
@@ -3621,12 +2616,10 @@ _detalhes_database = {
 		["frame"] = {
 		},
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["last_version"] = "v7.3.5.5499",
-	["combat_id"] = 518,
+	["last_encounter"] = "Onyxia",
+	["last_realversion"] = 130,
+	["last_version"] = "v7.3.5.5572",
+	["combat_id"] = 738,
 	["savedStyles"] = {
 		{
 			["hide_in_combat_type"] = 1,
@@ -3902,7 +2895,10 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["last_realversion"] = 130,
+	["nick_tag_cache"] = {
+		["last_version"] = 10,
+		["nextreset"] = 1526704985,
+	},
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -3913,21 +2909,1195 @@ _detalhes_database = {
 		{
 			["tipo"] = 2,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.006586,
+					["damage_from"] = {
+						["Onyxian Whelp"] = true,
+						["Onyxia"] = true,
+					},
+					["targets"] = {
+						["Gardul Venomshiv"] = 0,
+						["Onyxia"] = 39671507,
+						["Shattered Hand Brewer"] = 0,
+						["Shattered Hand Blood-Singer"] = 0,
+						["Onyxian Whelp"] = 10090482,
+						["Shattered Hand Sadist"] = 0,
+					},
+					["pets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["last_event"] = 0,
+					["classe"] = "WARRIOR",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 49761989.006586,
+					["serial"] = "Player-5-0A9895DA",
+					["dps_started"] = false,
+					["end_time"] = 1525162841,
+					["spec"] = 71,
+					["friendlyfire"] = {
+					},
+					["nome"] = "Cyprinidae",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 8,
+								["b_amt"] = 0,
+								["c_dmg"] = 3445658,
+								["g_amt"] = 0,
+								["n_max"] = 271482,
+								["targets"] = {
+									["Gardul Venomshiv"] = 0,
+									["Onyxia"] = 5094440,
+									["Shattered Hand Brewer"] = 0,
+									["Shattered Hand Sadist"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1648782,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 15,
+								["total"] = 5094440,
+								["c_max"] = 578890,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[1464] = {
+								["c_amt"] = 4,
+								["b_amt"] = 2,
+								["c_dmg"] = 6337289,
+								["g_amt"] = 0,
+								["n_max"] = 949453,
+								["targets"] = {
+									["Onyxia"] = 12918098,
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6580809,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 13,
+								["total"] = 12918098,
+								["c_max"] = 1762239,
+								["id"] = 1464,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1041906,
+								["n_amt"] = 9,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[57755] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 72005,
+								["targets"] = {
+									["Onyxia"] = 72005,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 72005,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 72005,
+								["c_max"] = 0,
+								["id"] = 57755,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[236027] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Onyxia"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 236027,
+								["r_dmg"] = 0,
+								["IMMUNE"] = 2,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[12294] = {
+								["c_amt"] = 1,
+								["b_amt"] = 1,
+								["c_dmg"] = 2421816,
+								["g_amt"] = 0,
+								["n_max"] = 1579224,
+								["targets"] = {
+									["Gardul Venomshiv"] = 0,
+									["Onyxia"] = 7146937,
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4725121,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 7146937,
+								["c_max"] = 2421816,
+								["id"] = 12294,
+								["r_dmg"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 1,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 813396,
+								["n_amt"] = 4,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[126664] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 102278,
+								["g_amt"] = 0,
+								["n_max"] = 85156,
+								["targets"] = {
+									["Gardul Venomshiv"] = 0,
+									["Onyxia"] = 187434,
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 85156,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 187434,
+								["c_max"] = 102278,
+								["id"] = 126664,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[34428] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 34428,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[105771] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Onyxian Warder"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 105771,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[52174] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 52174,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[50622] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 1645868,
+								["g_amt"] = 0,
+								["n_max"] = 443847,
+								["targets"] = {
+									["Shattered Hand Blood-Singer"] = 0,
+									["Shattered Hand Brewer"] = 0,
+									["Onyxian Whelp"] = 10090482,
+									["Shattered Hand Sadist"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8444614,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 23,
+								["total"] = 10090482,
+								["c_max"] = 872946,
+								["id"] = 50622,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 21,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[5308] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Shattered Hand Sadist"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 5308,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[163201] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 7751402,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Gardul Venomshiv"] = 0,
+									["Onyxia"] = 7751402,
+									["Shattered Hand Blood-Singer"] = 0,
+									["Shattered Hand Sadist"] = 0,
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 7751402,
+								["c_max"] = 4175986,
+								["id"] = 163201,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[167105] = {
+								["c_amt"] = 3,
+								["b_amt"] = 0,
+								["c_dmg"] = 4159956,
+								["g_amt"] = 0,
+								["n_max"] = 836016,
+								["targets"] = {
+									["Gardul Venomshiv"] = 0,
+									["Onyxia"] = 5401249,
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1241293,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 5401249,
+								["c_max"] = 1648196,
+								["id"] = 167105,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[209577] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 1099942,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Onyxia"] = 1099942,
+									["Shattered Hand Blood-Singer"] = 0,
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 1099942,
+								["c_max"] = 1099942,
+								["id"] = 209577,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["total"] = 49761989.006586,
+					["on_hold"] = false,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1525162774,
+					["delay"] = 0,
+					["damage_taken"] = 8017.006586,
+				}, -- [1]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.007842,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Cyprinidae"] = 0,
+					},
+					["pets"] = {
+					},
+					["last_dps"] = 0,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.007842,
+					["delay"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1525408985,
+					["nome"] = "Onyxia",
+					["damage_taken"] = 0.007842,
+					["boss_fight_component"] = true,
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							}, -- [1]
+							[18431] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 18431,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[18392] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 18392,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[18435] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 18435,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[68868] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 68868,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[18500] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 18500,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["tipo"] = 1,
+					["friendlyfire_total"] = 0,
+					["on_hold"] = false,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1525408982,
+					["serial"] = "Creature-0-3135-249-24262-10184-00006822BB",
+					["total"] = 0.007842,
+				}, -- [2]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.006648,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Cyprinidae"] = 0,
+					},
+					["pets"] = {
+					},
+					["last_dps"] = 0,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.006648,
+					["delay"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1525408985,
+					["nome"] = "Onyxian Whelp",
+					["damage_taken"] = 0.006648,
+					["boss_fight_component"] = true,
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["tipo"] = 1,
+					["friendlyfire_total"] = 0,
+					["on_hold"] = false,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1525408982,
+					["serial"] = "Creature-0-3135-249-24262-11262-000068232F",
+					["total"] = 0.006648,
+				}, -- [3]
 			},
 		}, -- [1]
 		{
 			["tipo"] = 3,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["targets_overheal"] = {
+						["Cyprinidae"] = 0,
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 0.007852,
+					["total_without_pet"] = 0.007852,
+					["total"] = 0.007852,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-5-0A9895DA",
+					["totalabsorb"] = 0.007852,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Cyprinidae"] = 0,
+					},
+					["totalover_without_pet"] = 0.007852,
+					["healing_taken"] = 0.007852,
+					["fight_component"] = true,
+					["end_time"] = 1525408985,
+					["spec"] = 71,
+					["nome"] = "Cyprinidae",
+					["spells"] = {
+						["_ActorTable"] = {
+							[59913] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Cyprinidae"] = 0,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 59913,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 0,
+								["n_curado"] = 0,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
+							[118779] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Cyprinidae"] = 0,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 118779,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 0,
+								["n_curado"] = 0,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+					["grupo"] = true,
+					["healing_from"] = {
+					},
+					["tipo"] = 2,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["totaldenied"] = 0.007852,
+					["start_time"] = 1525408982,
+					["delay"] = 0,
+					["classe"] = "WARRIOR",
+				}, -- [1]
 			},
 		}, -- [2]
 		{
 			["tipo"] = 7,
 			["_ActorTable"] = {
+				{
+					["received"] = -39.992245,
+					["resource"] = 0.059009,
+					["targets"] = {
+						["Cyprinidae"] = 0,
+					},
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["classe"] = "WARRIOR",
+					["total"] = -39.992245,
+					["nome"] = "Cyprinidae",
+					["spells"] = {
+						["_ActorTable"] = {
+							[163201] = {
+								["id"] = 163201,
+								["total"] = -60,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["counter"] = 2,
+							},
+							[173401] = {
+								["id"] = 173401,
+								["total"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["counter"] = 8,
+							},
+							[100] = {
+								["id"] = 100,
+								["total"] = 20,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["counter"] = 1,
+							},
+						},
+						["tipo"] = 7,
+					},
+					["grupo"] = true,
+					["flag_original"] = 1297,
+					["tipo"] = 3,
+					["alternatepower"] = 0.007755,
+					["last_event"] = 0,
+					["serial"] = "Player-5-0A9895DA",
+					["spec"] = 71,
+				}, -- [1]
 			},
 		}, -- [3]
 		{
 			["tipo"] = 9,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[115804] = {
+								["refreshamt"] = 2,
+								["activedamt"] = 0,
+								["appliedamt"] = 3,
+								["id"] = 115804,
+								["uptime"] = 41,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[355] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 355,
+								["uptime"] = 3,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[105771] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 2,
+								["id"] = 105771,
+								["uptime"] = 1,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[236027] = {
+								["id"] = 236027,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[208086] = {
+								["refreshamt"] = 4,
+								["activedamt"] = 0,
+								["appliedamt"] = 2,
+								["id"] = 208086,
+								["uptime"] = 49,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["cooldowns_defensive"] = 3.011738,
+					["pets"] = {
+					},
+					["cc_done_spells"] = {
+						["_ActorTable"] = {
+							[105771] = {
+								["id"] = 105771,
+								["targets"] = {
+									["Onyxia"] = 1,
+								},
+								["counter"] = 1,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["classe"] = "WARRIOR",
+					["cooldowns_defensive_targets"] = {
+						["Cyprinidae"] = 2,
+						["[*] raid wide cooldown"] = 1,
+					},
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[32216] = {
+								["id"] = 32216,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[199854] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 3,
+								["activedamt"] = 3,
+								["uptime"] = 6,
+								["id"] = 199854,
+								["actived_at"] = 1525162840,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[1719] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 1719,
+								["uptime"] = 8,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[109128] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
+								["id"] = 109128,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[202164] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 202164,
+								["uptime"] = 4,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[186406] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 186406,
+								["uptime"] = 64,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[118038] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 118038,
+								["uptime"] = 8,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[248622] = {
+								["refreshamt"] = 2,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 248622,
+								["uptime"] = 32,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[97463] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 97463,
+								["uptime"] = 10,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[118779] = {
+								["id"] = 118779,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[107574] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 107574,
+								["uptime"] = 20,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[227847] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 227847,
+								["uptime"] = 3,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[178119] = {
+								["id"] = 178119,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["debuff_uptime"] = 94,
+					["nome"] = "Cyprinidae",
+					["cc_done"] = 1.015341,
+					["debuff_uptime_targets"] = {
+					},
+					["spec"] = 71,
+					["grupo"] = true,
+					["cc_done_targets"] = {
+						["Onyxia"] = 1,
+					},
+					["cooldowns_defensive_spells"] = {
+						["_ActorTable"] = {
+							[97462] = {
+								["id"] = 97462,
+								["targets"] = {
+									["[*] raid wide cooldown"] = 1,
+								},
+								["counter"] = 1,
+							},
+							[118038] = {
+								["id"] = 118038,
+								["targets"] = {
+									["Cyprinidae"] = 2,
+								},
+								["counter"] = 2,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["buff_uptime"] = 155,
+					["last_event"] = 0,
+					["buff_uptime_targets"] = {
+					},
+					["tipo"] = 4,
+					["serial"] = "Player-5-0A9895DA",
+					["spell_cast"] = {
+						[355] = 1,
+						[118038] = 1,
+						[167105] = 5,
+						[50622] = 4,
+						[97462] = 1,
+						[52174] = 1,
+						[57755] = 1,
+						[107574] = 1,
+						[12294] = 6,
+						[227847] = 1,
+						[100] = 1,
+						[209577] = 1,
+						[126664] = 2,
+						[163201] = 2,
+						[1719] = 1,
+						[1464] = 13,
+						[34428] = 0,
+					},
+				}, -- [1]
+				{
+					["monster"] = true,
+					["last_event"] = 0,
+					["nome"] = "Onyxia",
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["flag_original"] = 68168,
+					["tipo"] = 4,
+					["boss_fight_component"] = true,
+					["serial"] = "Creature-0-3135-249-24262-10184-00006822BB",
+					["spell_cast"] = {
+						[18431] = 0,
+						[18392] = 0,
+						[18435] = 0,
+						[68868] = 0,
+						[18500] = 0,
+					},
+				}, -- [2]
+				{
+					["flag_original"] = 68168,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 9,
+					},
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["boss_debuff"] = true,
+					["monster"] = true,
+					["debuff_uptime"] = 0,
+					["spellschool"] = 1,
+					["nome"] = "Bellowing Roar",
+					["debuff_uptime_targets"] = {
+					},
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["damage_twin"] = "Onyxia",
+					["serial"] = "Creature-0-3135-249-24262-10184-00006822BB",
+					["damage_spellid"] = 18431,
+					["boss_fight_component"] = true,
+				}, -- [3]
 			},
 		}, -- [4]
 		{
@@ -3941,13 +4111,13 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 971,
+		["combat_counter"] = 1286,
 		["totals"] = {
-			0, -- [1]
+			49770006.015491, -- [1]
 			0, -- [2]
 			{
 				0, -- [1]
-				[0] = 0,
+				[0] = -39.993517,
 				["alternatepower"] = 0,
 				[3] = 0,
 				[6] = 0,
@@ -3955,22 +4125,64 @@ _detalhes_database = {
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
+				["cooldowns_defensive"] = 3.006007,
 				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
 				["cc_break"] = 0,
 				["dead"] = 0,
 			}, -- [4]
 			["frags_total"] = 0,
 			["voidzone_damage"] = 0,
 		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["__call"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["end_time"] = 395567.522,
+		["overall_refreshed"] = true,
+		["data_inicio"] = "01:19:37",
+		["hasSaved"] = true,
+		["frags"] = {
+		},
+		["data_fim"] = "01:20:41",
+		["overall_enemy_name"] = "Onyxia",
+		["CombatSkillCache"] = {
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 63.9149999999791,
+				["type"] = 8,
+				["name"] = "Onyxia",
+				["clock"] = "01:19:37",
+			}, -- [1]
+		},
+		["start_time"] = 395503.607,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
 		["totals_grupo"] = {
-			0, -- [1]
+			49761989.001952, -- [1]
 			0, -- [2]
 			{
 				0, -- [1]
-				[0] = 0,
+				[0] = -39.993517,
 				["alternatepower"] = 0,
 				[3] = 0,
 				[6] = 0,
@@ -3978,52 +4190,25 @@ _detalhes_database = {
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
+				["cooldowns_defensive"] = 3.006007,
 				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
 				["cc_break"] = 0,
 				["dead"] = 0,
 			}, -- [4]
 		},
-		["frags_need_refresh"] = false,
-		["__call"] = {
-		},
-		["data_inicio"] = 0,
-		["frags"] = {
-		},
-		["data_fim"] = 0,
-		["CombatSkillCache"] = {
-		},
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-			["damage"] = {
-			},
-		},
-		["start_time"] = 0,
-		["TimeData"] = {
-			["Raid Damage Done"] = {
-			},
-		},
-		["player_last_events"] = {
-		},
 	},
-	["force_font_outline"] = "",
 	["character_data"] = {
-		["logons"] = 34,
+		["logons"] = 40,
 	},
-	["nick_tag_cache"] = {
-		["nextreset"] = 1523767967,
-		["last_version"] = 10,
+	["SoloTablesSaved"] = {
+		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
+		["Mode"] = 1,
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {

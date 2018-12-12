@@ -17,9 +17,9 @@ LegionRaresTreasuresDB = {
 		["Sildris - Emerald Dream"] = "Default",
 		["Mörton - Wyrmrest Accord"] = "Default",
 		["Gaornash - Dalaran"] = "Default",
-		["Blackxsixpan - Proudmoore"] = "Default",
-		["Lyx - Proudmoore"] = "Default",
 		["Lithri - Dalaran"] = "Default",
+		["Lyx - Proudmoore"] = "Default",
+		["Blackxsixpan - Proudmoore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

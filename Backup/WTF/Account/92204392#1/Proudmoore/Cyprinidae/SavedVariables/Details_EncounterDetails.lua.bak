@@ -2,13 +2,25 @@
 EncounterDetailsDB = {
 	["emotes"] = {
 		{
-			["boss"] = "Asaad",
+			{
+				15.8269999999902, -- [1]
+				"This meaningless exertion bores me. I'll incinerate you all from above!", -- [2]
+				"Onyxia", -- [3]
+				7, -- [4]
+			}, -- [1]
+			{
+				44.8910000000033, -- [1]
+				"It seems you'll need another lesson, mortals!", -- [2]
+				"Onyxia", -- [3]
+				7, -- [4]
+			}, -- [2]
+			["boss"] = "Onyxia",
 		}, -- [1]
 		{
-			["boss"] = "Altairus",
+			["boss"] = "Asaad",
 		}, -- [2]
 		{
-			["boss"] = "Grand Vizier Ertan",
+			["boss"] = "Altairus",
 		}, -- [3]
 	},
 	["encounter_spells"] = {
@@ -108,6 +120,15 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Corrupted Taran Zhu",
+		},
+		[18435] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Onyxia",
 		},
 		[38166] = {
 			["school"] = 1,
@@ -263,6 +284,15 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Sha of Violence",
+		},
+		[18392] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Onyxia",
 		},
 		[106334] = {
 			["school"] = 16,
@@ -439,6 +469,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gekkan",
 		},
+		[18431] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Onyxia",
+		},
+		[113315] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Peril",
+		},
 		[118917] = {
 			["school"] = 32,
 			["token"] = {
@@ -453,13 +501,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ring of Fire",
 		},
-		[113315] = {
+		[68868] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Peril",
+			["source"] = "Onyxia",
 		},
 		[88282] = {
 			["school"] = 8,
@@ -504,6 +552,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Glintrok Oracle",
 		},
+		[106871] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sha of Violence",
+		},
 		[106797] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -514,13 +569,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Liu Flameheart",
 		},
-		[106871] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Sha of Violence",
-		},
 		[106062] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -529,6 +577,15 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Wise Mari",
+		},
+		[18500] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Onyxia",
 		},
 		[119684] = {
 			["school"] = 1,

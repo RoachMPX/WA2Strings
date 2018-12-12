@@ -1,18 +1,6 @@
 
 IskarAssistDB = {
-	["profiles"] = {
-		["Default"] = {
-			["MainPanel"] = {
-				["IsLocked"] = true,
-				["position"] = {
-					["y"] = -234.499969482422,
-					["x"] = 621.99951171875,
-				},
-			},
-			["barheight_grid"] = 53,
-			["bartexture"] = "Blizzard Raid Bar",
-		},
-	},
+	["GotLegionHeadsUp"] = true,
 	["ExportedConfig"] = true,
 	["profileKeys"] = {
 		["Röach - Proudmoore"] = "Default",
@@ -42,20 +30,32 @@ IskarAssistDB = {
 		["Emmiroth - Wyrmrest Accord"] = "Default",
 		["Elub - Proudmoore"] = "Default",
 		["Murdurr - Proudmoore"] = "Default",
-		["Blackxsixpan - Proudmoore"] = "Default",
+		["Lithri - Dalaran"] = "Default",
 		["Roches - Proudmoore"] = "Default",
 		["Zetorus - Proudmoore"] = "Default",
 		["Sildris - Emerald Dream"] = "Default",
 		["Mörton - Wyrmrest Accord"] = "Default",
-		["Ferfuzond - Proudmoore"] = "Default",
-		["Rhochronos - Proudmoore"] = "Default",
-		["Lyx - Proudmoore"] = "Default",
-		["Vinwbooster - Dalaran"] = "Default",
 		["Roachmpx - Khaz'goroth"] = "Default",
+		["Vinwbooster - Dalaran"] = "Default",
+		["Lyx - Proudmoore"] = "Default",
+		["Rhochronos - Proudmoore"] = "Default",
+		["Ferfuzond - Proudmoore"] = "Default",
 		["Vormulos - Proudmoore"] = "Default",
-		["Lithri - Dalaran"] = "Default",
+		["Blackxsixpan - Proudmoore"] = "Default",
 	},
-	["GotLegionHeadsUp"] = true,
+	["profiles"] = {
+		["Default"] = {
+			["MainPanel"] = {
+				["position"] = {
+					["y"] = -234.499969482422,
+					["x"] = 621.99951171875,
+				},
+				["IsLocked"] = true,
+			},
+			["barheight_grid"] = 53,
+			["bartexture"] = "Blizzard Raid Bar",
+		},
+	},
 }
 RADataBase = {
 	["profileKeys"] = {
@@ -78,11 +78,11 @@ RADataBase = {
 		["Sildris - Emerald Dream"] = "Default",
 		["Mörton - Wyrmrest Accord"] = "Default",
 		["Gaornash - Dalaran"] = "Default",
-		["Murdurr - Proudmoore"] = "Default",
-		["Emmiroth - Wyrmrest Accord"] = "Default",
-		["Mortheim - Wyrmrest Accord"] = "Default",
-		["Lyx - Proudmoore"] = "Default",
 		["Yeeragor - Wyrmrest Accord"] = "Default",
+		["Lyx - Proudmoore"] = "Default",
+		["Mortheim - Wyrmrest Accord"] = "Default",
+		["Emmiroth - Wyrmrest Accord"] = "Default",
+		["Murdurr - Proudmoore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -92,43 +92,43 @@ RADataBase = {
 					["menu_priority"] = 10,
 					["text_font"] = "Accidental Presidency",
 					["BattleResResFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = 0,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["background_color"] = {
 						["a"] = 0.3,
-						["r"] = 0,
-						["g"] = 0,
 						["b"] = 0,
+						["g"] = 0,
+						["r"] = 0,
 					},
-					["panel_width"] = 130,
+					["text_anchor"] = "center",
 					["RABattleResMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = 0,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
-					["panel_locked"] = false,
+					["panel_height"] = 30,
 					["panel_show_res"] = true,
 					["text_color"] = {
 						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
 						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
 					["text_size"] = 10,
 					["background_border_color"] = {
 						["a"] = 1,
-						["r"] = 0,
-						["g"] = 0,
 						["b"] = 0,
+						["g"] = 0,
+						["r"] = 0,
 					},
-					["panel_height"] = 30,
-					["text_anchor"] = "center",
+					["panel_width"] = 130,
+					["panel_locked"] = false,
 				},
 				["RaidSchedule"] = {
 					["menu_priority"] = 4,
@@ -138,54 +138,61 @@ RADataBase = {
 					["cores"] = {
 					},
 					["RARaidScheduleMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = 0,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 				},
 				["Aura Bank"] = {
 					["enabled"] = true,
-					["menu_priority"] = 25,
+					["installed_history"] = {
+					},
 					["RAAuraBankMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = 0,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
-					["installed_history"] = {
-					},
+					["menu_priority"] = 25,
 				},
 				["BisListRaid"] = {
 					["enabled"] = true,
 					["latest_raid_map"] = 1448,
 					["menu_priority"] = 14,
-					["RABisListRaidMainFrame"] = {
-						["position"] = {
-							["y"] = 0,
-							["x"] = 0,
-						},
-						["IsLocked"] = false,
-					},
 					["saved_lists"] = {
 					},
-				},
-				["Aura Check"] = {
-					["enabled"] = true,
-					["menu_priority"] = 26,
-					["RAAuraCheckMainFrame"] = {
+					["RABisListRaidMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = 0,
 							["x"] = 0,
 						},
+					},
+				},
+				["Invites"] = {
+					["presets"] = {
+					},
+					["auto_invite_keywords"] = {
+						"inv", -- [1]
+						"invite", -- [2]
+					},
+					["invite_msg"] = "[RA]: invites in 5 seconds.",
+					["first_run"] = true,
+					["RAInviteMainFrame"] = {
 						["IsLocked"] = false,
+						["position"] = {
+							["y"] = 0,
+							["x"] = 0,
+						},
 					},
-					["auto_install_from_trusted"] = false,
-					["only_from_guild"] = true,
-					["installed_history"] = {
-					},
+					["auto_accept_invites_limited"] = true,
+					["auto_accept_invites"] = false,
+					["auto_invite_limited"] = true,
+					["menu_priority"] = 16,
+					["auto_invite"] = false,
 				},
 				["Check Addons"] = {
 					["enabled"] = true,
@@ -194,105 +201,13 @@ RADataBase = {
 						["BigWigs"] = true,
 					},
 					["RAAddonsCheckMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = 0,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["menu_priority"] = 24,
-				},
-				["Iskar Assist"] = {
-					["profile"] = {
-						["group_sorting"] = 3,
-						["debuff_fel_chakram"] = false,
-						["debuff_phantasmal_wounds"] = true,
-						["eye_flash_anim"] = true,
-						["textshadow"] = true,
-						["archimonde_radar"] = false,
-						["debuff_phantasmal_corruption"] = true,
-						["right_side_debuffs"] = false,
-						["MainPanel"] = {
-							["IsLocked"] = true,
-							["position"] = {
-								["y"] = -234.499969482422,
-								["x"] = 621.99951171875,
-							},
-						},
-						["stack_count_anchor"] = "top",
-						["show_cooldown_bars"] = false,
-						["bartexture"] = "Blizzard Raid Bar",
-						["barwidth_grid"] = 55,
-						["textfont"] = "Accidental Presidency",
-						["barheight_grid"] = 53,
-						["barwidth"] = 100,
-						["debuff_phantasmal_winds"] = true,
-						["debuff_fel_bomb"] = true,
-						["MainPanel_strata"] = "DIALOG",
-						["debuff_phantasmal_bomb"] = false,
-						["dispel_ready"] = false,
-						["barheight"] = 20,
-						["cooldown"] = false,
-						["textsize"] = 14,
-					},
-					["RAIskarAssistFrameMainFrame"] = {
-						["position"] = {
-							["y"] = 0,
-							["x"] = 0,
-						},
-						["IsLocked"] = false,
-					},
-					["menu_priority"] = 1,
-				},
-				["Raid Assignments"] = {
-					["notes"] = {
-					},
-					["NotepadScreenFrame"] = {
-						["position"] = {
-							["y"] = 0,
-							["x"] = 0,
-						},
-						["IsLocked"] = false,
-					},
-					["text_size"] = 12,
-					["currently_shown"] = false,
-					["hide_on_combat"] = false,
-					["RANotepadMainFrame"] = {
-						["position"] = {
-							["y"] = 0,
-							["x"] = 0,
-						},
-						["IsLocked"] = false,
-					},
-					["text_face"] = "Friz Quadrata TT",
-					["text_shadow"] = false,
-					["text_justify"] = "left",
-					["framestrata"] = "DIALOG",
-					["menu_priority"] = 20,
-					["locked"] = false,
-					["auto_format"] = true,
-					["auto_complete"] = true,
-					["background"] = {
-						["show"] = false,
-						["r"] = 0,
-						["b"] = 0,
-						["g"] = 0,
-						["a"] = 0.5,
-					},
-				},
-				["Ready Check"] = {
-					["enabled"] = false,
-					["RAReadyCheckMainFrame"] = {
-						["position"] = {
-							["y"] = 0,
-							["x"] = 0,
-						},
-						["IsLocked"] = false,
-					},
-					["menu_priority"] = 1,
-					["text_shadow"] = false,
-					["text_size"] = 10,
-					["text_face"] = "Friz Quadrata TT",
 				},
 				["Raid Groups"] = {
 					["show_class_name"] = true,
@@ -301,87 +216,49 @@ RADataBase = {
 					["show_rank_icons"] = true,
 					["text_face"] = "Friz Quadrata TT",
 					["RARaidGroupsMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = 0,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
-					["menu_priority"] = 23,
+					["show_level"] = true,
 					["filter"] = false,
 					["enabled"] = true,
 					["text_shadow"] = false,
-					["show_level"] = true,
+					["menu_priority"] = 23,
 					["show_role_icon"] = true,
-				},
-				["BisList"] = {
-					["characters"] = {
-					},
-					["RABisListMainFrame"] = {
-						["position"] = {
-							["y"] = 0,
-							["x"] = 0,
-						},
-						["IsLocked"] = false,
-					},
-					["enabled"] = true,
-					["menu_priority"] = 13,
-				},
-				["Player Check"] = {
-					["RAPlayerCheckMainFrame"] = {
-						["position"] = {
-							["y"] = 0,
-							["x"] = 0,
-						},
-						["IsLocked"] = false,
-					},
-					["menu_priority"] = 19,
-					["leader_request_interval"] = 600,
-				},
-				["Attendance"] = {
-					["RAAttendanceMainFrame"] = {
-						["position"] = {
-							["y"] = 0,
-							["x"] = 0,
-						},
-						["IsLocked"] = false,
-					},
-					["playerids"] = {
-					},
-					["raidschedules"] = {
-					},
-					["menu_priority"] = 17,
 				},
 				["Cooldowns"] = {
 					["bar_grow_inverse"] = false,
 					["RACooldownsMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = 0,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
 					["cooldowns_panels"] = {
 					},
 					["only_in_group"] = true,
 					["bar_fixed_color"] = {
 						["a"] = 1,
-						["r"] = 0.7,
-						["g"] = 0.7,
 						["b"] = 0.7,
+						["g"] = 0.7,
+						["r"] = 0.7,
 					},
 					["panel_background_color"] = {
 						["a"] = 0.3,
-						["r"] = 0,
-						["g"] = 0,
 						["b"] = 0,
+						["g"] = 0,
+						["r"] = 0,
 					},
 					["locked"] = false,
 					["panel_background_border_color"] = {
 						["a"] = 1,
-						["r"] = 0,
-						["g"] = 0,
 						["b"] = 0,
+						["g"] = 0,
+						["r"] = 0,
 					},
 					["enabled"] = true,
 					["only_in_raid_encounter"] = false,
@@ -401,27 +278,157 @@ RADataBase = {
 						[116849] = true,
 						[114030] = true,
 						[15286] = true,
-						[740] = true,
-						[62618] = true,
+						[6940] = true,
+						[97462] = true,
 						[102342] = true,
 						[108280] = true,
-						[97462] = true,
-						[6940] = true,
+						[62618] = true,
+						[740] = true,
 					},
 					["only_in_raid_group"] = true,
 					["bar_height"] = 16,
 					["only_inside_instances"] = false,
 					["bar_class_color"] = true,
+					["text_size"] = 11,
+					["only_in_combat"] = false,
+					["text_shadow"] = false,
 					["text_color"] = {
 						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
 						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
 					},
-					["text_shadow"] = false,
-					["only_in_combat"] = false,
-					["text_size"] = 11,
 					["bar_texture"] = "Iskar Serenity",
+				},
+				["Ready Check"] = {
+					["enabled"] = false,
+					["RAReadyCheckMainFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = 0,
+							["x"] = 0,
+						},
+					},
+					["menu_priority"] = 1,
+					["text_shadow"] = false,
+					["text_size"] = 10,
+					["text_face"] = "Friz Quadrata TT",
+				},
+				["Iskar Assist"] = {
+					["profile"] = {
+						["group_sorting"] = 3,
+						["debuff_fel_chakram"] = false,
+						["debuff_phantasmal_wounds"] = true,
+						["eye_flash_anim"] = true,
+						["textshadow"] = true,
+						["archimonde_radar"] = false,
+						["debuff_phantasmal_corruption"] = true,
+						["right_side_debuffs"] = false,
+						["barwidth_grid"] = 55,
+						["stack_count_anchor"] = "top",
+						["show_cooldown_bars"] = false,
+						["bartexture"] = "Blizzard Raid Bar",
+						["MainPanel"] = {
+							["position"] = {
+								["y"] = -234.499969482422,
+								["x"] = 621.99951171875,
+							},
+							["IsLocked"] = true,
+						},
+						["barheight"] = 20,
+						["barheight_grid"] = 53,
+						["barwidth"] = 100,
+						["debuff_phantasmal_winds"] = true,
+						["debuff_phantasmal_bomb"] = false,
+						["MainPanel_strata"] = "DIALOG",
+						["debuff_fel_bomb"] = true,
+						["dispel_ready"] = false,
+						["textfont"] = "Accidental Presidency",
+						["cooldown"] = false,
+						["textsize"] = 14,
+					},
+					["RAIskarAssistFrameMainFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = 0,
+							["x"] = 0,
+						},
+					},
+					["menu_priority"] = 1,
+				},
+				["Raid Assignments"] = {
+					["notes"] = {
+					},
+					["background"] = {
+						["show"] = false,
+						["r"] = 0,
+						["a"] = 0.5,
+						["g"] = 0,
+						["b"] = 0,
+					},
+					["NotepadScreenFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = 0,
+							["x"] = 0,
+						},
+					},
+					["currently_shown"] = false,
+					["hide_on_combat"] = false,
+					["auto_complete"] = true,
+					["text_face"] = "Friz Quadrata TT",
+					["auto_format"] = true,
+					["locked"] = false,
+					["menu_priority"] = 20,
+					["framestrata"] = "DIALOG",
+					["text_justify"] = "left",
+					["text_shadow"] = false,
+					["RANotepadMainFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = 0,
+							["x"] = 0,
+						},
+					},
+					["text_size"] = 12,
+				},
+				["Player Check"] = {
+					["RAPlayerCheckMainFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = 0,
+							["x"] = 0,
+						},
+					},
+					["leader_request_interval"] = 600,
+					["menu_priority"] = 19,
+				},
+				["Attendance"] = {
+					["RAAttendanceMainFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = 0,
+							["x"] = 0,
+						},
+					},
+					["raidschedules"] = {
+					},
+					["playerids"] = {
+					},
+					["menu_priority"] = 17,
+				},
+				["BisList"] = {
+					["characters"] = {
+					},
+					["RABisListMainFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = 0,
+							["x"] = 0,
+						},
+					},
+					["enabled"] = true,
+					["menu_priority"] = 13,
 				},
 				["Leader Toolbar"] = {
 					["enabled"] = false,
@@ -432,36 +439,29 @@ RADataBase = {
 					["readycheck_timer"] = 35,
 					["hide_not_in_group"] = false,
 					["reverse_order"] = true,
-					["RALeaderToolbarMainFrame"] = {
-						["position"] = {
-							["y"] = 0,
-							["x"] = 0,
-						},
-						["IsLocked"] = false,
-					},
 					["frame_scale"] = 1,
-				},
-				["Invites"] = {
-					["presets"] = {
-					},
-					["auto_invite_keywords"] = {
-						"inv", -- [1]
-						"invite", -- [2]
-					},
-					["invite_msg"] = "[RA]: invites in 5 seconds.",
-					["first_run"] = true,
-					["RAInviteMainFrame"] = {
+					["RALeaderToolbarMainFrame"] = {
+						["IsLocked"] = false,
 						["position"] = {
 							["y"] = 0,
 							["x"] = 0,
 						},
-						["IsLocked"] = false,
 					},
-					["menu_priority"] = 16,
-					["auto_accept_invites"] = false,
-					["auto_invite_limited"] = true,
-					["auto_accept_invites_limited"] = true,
-					["auto_invite"] = false,
+				},
+				["Aura Check"] = {
+					["enabled"] = true,
+					["menu_priority"] = 26,
+					["installed_history"] = {
+					},
+					["auto_install_from_trusted"] = false,
+					["only_from_guild"] = true,
+					["RAAuraCheckMainFrame"] = {
+						["IsLocked"] = false,
+						["position"] = {
+							["y"] = 0,
+							["x"] = 0,
+						},
+					},
 				},
 			},
 		},

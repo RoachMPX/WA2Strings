@@ -18,9 +18,9 @@ HandyNotesDB = {
 		["Sildris - Emerald Dream"] = "Sildris - Emerald Dream",
 		["Mörton - Wyrmrest Accord"] = "Mörton - Wyrmrest Accord",
 		["Gaornash - Dalaran"] = "Gaornash - Dalaran",
-		["Yeeragor - Wyrmrest Accord"] = "Yeeragor - Wyrmrest Accord",
-		["Lyx - Proudmoore"] = "Lyx - Proudmoore",
 		["Mortheim - Wyrmrest Accord"] = "Mortheim - Wyrmrest Accord",
+		["Lyx - Proudmoore"] = "Lyx - Proudmoore",
+		["Yeeragor - Wyrmrest Accord"] = "Yeeragor - Wyrmrest Accord",
 	},
 	["profiles"] = {
 		["Cyprinidae - Proudmoore"] = {
@@ -57,11 +57,11 @@ HandyNotesDB = {
 		},
 		["Gaornash - Dalaran"] = {
 		},
-		["Yeeragor - Wyrmrest Accord"] = {
+		["Mortheim - Wyrmrest Accord"] = {
 		},
 		["Lyx - Proudmoore"] = {
 		},
-		["Mortheim - Wyrmrest Accord"] = {
+		["Yeeragor - Wyrmrest Accord"] = {
 		},
 	},
 }
@@ -84,9 +84,9 @@ HandyNotes_HandyNotesDB = {
 		["Sildris - Emerald Dream"] = "Sildris - Emerald Dream",
 		["Mörton - Wyrmrest Accord"] = "Mörton - Wyrmrest Accord",
 		["Gaornash - Dalaran"] = "Gaornash - Dalaran",
-		["Yeeragor - Wyrmrest Accord"] = "Yeeragor - Wyrmrest Accord",
-		["Lyx - Proudmoore"] = "Lyx - Proudmoore",
 		["Mortheim - Wyrmrest Accord"] = "Mortheim - Wyrmrest Accord",
+		["Lyx - Proudmoore"] = "Lyx - Proudmoore",
+		["Yeeragor - Wyrmrest Accord"] = "Yeeragor - Wyrmrest Accord",
 	},
 	["profiles"] = {
 		["Cyprinidae - Proudmoore"] = {
@@ -123,11 +123,11 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Gaornash - Dalaran"] = {
 		},
-		["Yeeragor - Wyrmrest Accord"] = {
+		["Mortheim - Wyrmrest Accord"] = {
 		},
 		["Lyx - Proudmoore"] = {
 		},
-		["Mortheim - Wyrmrest Accord"] = {
+		["Yeeragor - Wyrmrest Accord"] = {
 		},
 	},
 }

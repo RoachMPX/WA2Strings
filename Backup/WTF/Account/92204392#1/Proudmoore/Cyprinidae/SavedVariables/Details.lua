@@ -7,35 +7,31 @@ _detalhes_database = {
 		["tabelas"] = {
 			{
 				{
-					["combatId"] = 547,
+					["combatId"] = 798,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.001875,
+							["totalabsorbed"] = 0.002103,
 							["damage_from"] = {
-								["Heartsting Pollinator"] = true,
-								["Tangleheart Cultivator"] = true,
-								["Tangled Sapling"] = true,
+								["Boss Whalebelly"] = true,
 							},
 							["targets"] = {
-								["Heartsting Pollinator"] = 68990,
-								["Silkbead Snail"] = 5784,
-								["Tangled Sapling"] = 78379,
-								["Tangleheart Cultivator"] = 267848,
+								["Boss Whalebelly"] = 1605376,
 							},
+							["total"] = 1605376.002103,
 							["pets"] = {
 							},
 							["on_hold"] = false,
 							["classe"] = "WARRIOR",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 421001.001875,
+							["total_without_pet"] = 1605376.002103,
 							["colocacao"] = 1,
 							["friendlyfire"] = {
 							},
 							["dps_started"] = false,
-							["end_time"] = 1523172074,
+							["end_time"] = 1525414724,
 							["friendlyfire_total"] = 0,
 							["spec"] = 71,
 							["nome"] = "Cyprinidae",
@@ -45,19 +41,19 @@ _detalhes_database = {
 									{
 										["c_amt"] = 1,
 										["b_amt"] = 0,
-										["c_dmg"] = 4817,
+										["c_dmg"] = 28747,
 										["g_amt"] = 0,
-										["n_max"] = 2329,
+										["n_max"] = 22257,
 										["targets"] = {
-											["Tangleheart Cultivator"] = 11750,
+											["Boss Whalebelly"] = 200238,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 6933,
-										["n_min"] = 2280,
+										["n_dmg"] = 171491,
+										["n_min"] = 20185,
 										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 11750,
-										["c_max"] = 4817,
+										["counter"] = 9,
+										["total"] = 200238,
+										["c_max"] = 28747,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -67,28 +63,27 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 3,
+										["n_amt"] = 8,
 										["r_amt"] = 0,
-										["c_min"] = 4817,
+										["c_min"] = 28747,
 									}, -- [1]
-									[845] = {
-										["c_amt"] = 1,
+									[1464] = {
+										["c_amt"] = 2,
 										["b_amt"] = 0,
-										["c_dmg"] = 4246,
+										["c_dmg"] = 267745,
 										["g_amt"] = 0,
-										["n_max"] = 2216,
+										["n_max"] = 69258,
 										["targets"] = {
-											["Tangleheart Cultivator"] = 4192,
-											["Tangled Sapling"] = 8453,
+											["Boss Whalebelly"] = 665090,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 8399,
-										["n_min"] = 1991,
+										["n_dmg"] = 397345,
+										["n_min"] = 62959,
 										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 12645,
-										["c_max"] = 4246,
-										["id"] = 845,
+										["counter"] = 8,
+										["total"] = 665090,
+										["c_max"] = 134591,
+										["id"] = 1464,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
@@ -97,26 +92,26 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 4,
+										["n_amt"] = 6,
 										["r_amt"] = 0,
-										["c_min"] = 4246,
+										["c_min"] = 133154,
 									},
 									[163201] = {
-										["c_amt"] = 1,
+										["c_amt"] = 0,
 										["b_amt"] = 0,
-										["c_dmg"] = 37356,
+										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 20211,
+										["n_max"] = 170175,
 										["targets"] = {
-											["Tangleheart Cultivator"] = 57567,
+											["Boss Whalebelly"] = 170175,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 20211,
-										["n_min"] = 20211,
+										["n_dmg"] = 170175,
+										["n_min"] = 170175,
 										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 57567,
-										["c_max"] = 37356,
+										["counter"] = 1,
+										["total"] = 170175,
+										["c_max"] = 0,
 										["id"] = 163201,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -128,59 +123,25 @@ _detalhes_database = {
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
 										["r_amt"] = 0,
-										["c_min"] = 37356,
-									},
-									[199658] = {
-										["c_amt"] = 0,
-										["b_amt"] = 1,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 5784,
-										["targets"] = {
-											["Tangleheart Cultivator"] = 8282,
-											["Silkbead Snail"] = 5784,
-											["Tangled Sapling"] = 12716,
-											["Heartsting Pollinator"] = 2923,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 29705,
-										["n_min"] = 2923,
-										["g_dmg"] = 0,
-										["counter"] = 7,
-										["total"] = 29705,
-										["c_max"] = 0,
-										["id"] = 199658,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 2923,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
 										["c_min"] = 0,
 									},
-									[50622] = {
-										["c_amt"] = 20,
-										["b_amt"] = 1,
-										["c_dmg"] = 221527,
+									[12294] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 213696,
 										["g_amt"] = 0,
-										["n_max"] = 5783,
+										["n_max"] = 115676,
 										["targets"] = {
-											["Tangleheart Cultivator"] = 141866,
-											["Tangled Sapling"] = 31722,
-											["Heartsting Pollinator"] = 57531,
+											["Boss Whalebelly"] = 437316,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 9592,
-										["n_min"] = 3809,
+										["n_dmg"] = 223620,
+										["n_min"] = 107944,
 										["g_dmg"] = 0,
-										["counter"] = 22,
-										["total"] = 231119,
-										["c_max"] = 11779,
-										["id"] = 50622,
+										["counter"] = 3,
+										["total"] = 437316,
+										["c_max"] = 213696,
+										["id"] = 12294,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
@@ -188,28 +149,28 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 3809,
+										["b_dmg"] = 0,
 										["n_amt"] = 2,
 										["r_amt"] = 0,
-										["c_min"] = 10442,
+										["c_min"] = 213696,
 									},
-									[12294] = {
+									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 9995,
+										["n_max"] = 36000,
 										["targets"] = {
-											["Tangleheart Cultivator"] = 9995,
+											["Boss Whalebelly"] = 36000,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 9995,
-										["n_min"] = 9995,
+										["n_dmg"] = 36000,
+										["n_min"] = 36000,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["total"] = 9995,
+										["total"] = 36000,
 										["c_max"] = 0,
-										["id"] = 12294,
+										["id"] = 34428,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
@@ -222,23 +183,23 @@ _detalhes_database = {
 										["r_amt"] = 0,
 										["c_min"] = 0,
 									},
-									[34428] = {
+									[167105] = {
 										["c_amt"] = 0,
-										["b_amt"] = 0,
+										["b_amt"] = 1,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 3731,
+										["n_max"] = 47066,
 										["targets"] = {
-											["Tangleheart Cultivator"] = 11193,
+											["Boss Whalebelly"] = 89080,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 11193,
-										["n_min"] = 3731,
+										["n_dmg"] = 89080,
+										["n_min"] = 42014,
 										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 11193,
+										["counter"] = 2,
+										["total"] = 89080,
 										["c_max"] = 0,
-										["id"] = 34428,
+										["id"] = 167105,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
@@ -246,8 +207,8 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
+										["b_dmg"] = 47066,
+										["n_amt"] = 2,
 										["r_amt"] = 0,
 										["c_min"] = 0,
 									},
@@ -256,16 +217,16 @@ _detalhes_database = {
 										["b_amt"] = 0,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1188,
+										["n_max"] = 7477,
 										["targets"] = {
-											["Tangleheart Cultivator"] = 1188,
+											["Boss Whalebelly"] = 7477,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 1188,
-										["n_min"] = 1188,
+										["n_dmg"] = 7477,
+										["n_min"] = 7477,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["total"] = 1188,
+										["total"] = 7477,
 										["c_max"] = 0,
 										["id"] = 126664,
 										["r_dmg"] = 0,
@@ -280,87 +241,37 @@ _detalhes_database = {
 										["r_amt"] = 0,
 										["c_min"] = 0,
 									},
-									[199850] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 8640,
-										["g_amt"] = 0,
-										["n_max"] = 4464,
-										["targets"] = {
-											["Tangleheart Cultivator"] = 21815,
-											["Tangled Sapling"] = 25488,
-											["Heartsting Pollinator"] = 8536,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 47199,
-										["n_min"] = 4031,
-										["g_dmg"] = 0,
-										["counter"] = 12,
-										["total"] = 55839,
-										["c_max"] = 8640,
-										["id"] = 199850,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 11,
-										["r_amt"] = 0,
-										["c_min"] = 8640,
-									},
 								},
 							},
 							["grupo"] = true,
-							["total"] = 421001.001875,
 							["serial"] = "Player-5-0A9895DA",
-							["last_dps"] = 23399.344257172,
+							["last_dps"] = 79794.0256522627,
 							["custom"] = 0,
-							["last_event"] = 1523172073,
-							["damage_taken"] = 96027.001875,
-							["start_time"] = 1523172055,
+							["last_event"] = 1525414723,
+							["damage_taken"] = 56034.002103,
+							["start_time"] = 1525414704,
 							["delay"] = 0,
 							["tipo"] = 1,
 						}, -- [1]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 547,
+					["combatId"] = 798,
 					["tipo"] = 3,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["totalabsorb"] = 0.003909,
+							["totalabsorb"] = 0.002728,
 							["last_hps"] = 0,
-							["targets_overheal"] = {
-								["Cyprinidae"] = 17539,
-							},
 							["healing_from"] = {
 								["Cyprinidae"] = true,
 							},
+							["targets_overheal"] = {
+								["Cyprinidae"] = 277708,
+							},
 							["targets"] = {
-								["Cyprinidae"] = 123246,
+								["Cyprinidae"] = 277758,
 							},
-							["targets_absorbs"] = {
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["totalover_without_pet"] = 0.003909,
-							["healing_taken"] = 105707.003909,
-							["totalover"] = 17539.003909,
-							["total_without_pet"] = 105707.003909,
-							["end_time"] = 1523172074,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = 105707.003909,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1523172056,
-							["nome"] = "Cyprinidae",
-							["spec"] = 71,
-							["grupo"] = true,
 							["spells"] = {
 								["tipo"] = 3,
 								["_ActorTable"] = {
@@ -368,16 +279,16 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Cyprinidae"] = 17539,
+											["Cyprinidae"] = 277708,
 										},
-										["n_max"] = 32364,
+										["n_max"] = 50,
 										["targets"] = {
-											["Cyprinidae"] = 79553,
+											["Cyprinidae"] = 50,
 										},
-										["n_min"] = 14825,
-										["counter"] = 3,
-										["overheal"] = 17539,
-										["total"] = 79553,
+										["n_min"] = 50,
+										["counter"] = 1,
+										["overheal"] = 277708,
+										["total"] = 50,
 										["c_max"] = 0,
 										["id"] = 118779,
 										["targets_absorbs"] = {
@@ -386,93 +297,84 @@ _detalhes_database = {
 										["m_crit"] = 0,
 										["c_min"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 79553,
-										["n_amt"] = 3,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[59913] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 2180,
-										["targets"] = {
-											["Cyprinidae"] = 26154,
-										},
-										["n_min"] = 2179,
-										["counter"] = 12,
-										["overheal"] = 0,
-										["total"] = 26154,
-										["c_max"] = 0,
-										["id"] = 59913,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 26154,
-										["n_amt"] = 12,
+										["n_curado"] = 50,
+										["n_amt"] = 1,
 										["totaldenied"] = 0,
 										["m_healed"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.002728,
+							["iniciar_hps"] = false,
+							["healing_taken"] = 50.002728,
+							["totalover"] = 277708.002728,
+							["total_without_pet"] = 50.002728,
+							["end_time"] = 1525414724,
+							["heal_enemy_amt"] = 0,
+							["fight_component"] = true,
+							["total"] = 50.002728,
+							["classe"] = "WARRIOR",
+							["start_time"] = 1525414723,
+							["nome"] = "Cyprinidae",
+							["spec"] = 71,
+							["grupo"] = true,
+							["targets_absorbs"] = {
+							},
 							["heal_enemy"] = {
 							},
 							["serial"] = "Player-5-0A9895DA",
 							["custom"] = 0,
-							["tipo"] = 2,
+							["last_event"] = 1525414708,
 							["on_hold"] = false,
-							["totaldenied"] = 0.003909,
-							["delay"] = 0,
-							["last_event"] = 1523172073,
+							["totaldenied"] = 0.002728,
+							["delay"] = 1525414708,
+							["tipo"] = 2,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 547,
+					["combatId"] = 798,
 					["tipo"] = 7,
 					["_ActorTable"] = {
 						{
-							["received"] = -48.997593,
-							["resource"] = 0.002407,
+							["received"] = -25.994208,
+							["resource"] = 0.005792,
 							["targets"] = {
-								["Cyprinidae"] = -49,
+								["Cyprinidae"] = -26,
 							},
 							["pets"] = {
 							},
 							["powertype"] = 0,
 							["classe"] = "WARRIOR",
 							["fight_component"] = true,
-							["total"] = -48.997593,
+							["total"] = -25.994208,
 							["nome"] = "Cyprinidae",
 							["spec"] = 71,
 							["grupo"] = true,
 							["flag_original"] = 1297,
-							["last_event"] = 1523172073,
-							["alternatepower"] = 0.002407,
+							["last_event"] = 1525414723,
+							["alternatepower"] = 0.005792,
 							["spells"] = {
 								["tipo"] = 7,
 								["_ActorTable"] = {
 									[173401] = {
 										["id"] = 173401,
-										["total"] = 11,
+										["total"] = 2,
 										["targets"] = {
-											["Cyprinidae"] = 11,
+											["Cyprinidae"] = 2,
 										},
-										["counter"] = 12,
+										["counter"] = 4,
 									},
 									[163201] = {
 										["id"] = 163201,
-										["total"] = -60,
+										["total"] = -28,
 										["targets"] = {
-											["Cyprinidae"] = -60,
+											["Cyprinidae"] = -28,
 										},
-										["counter"] = 2,
+										["counter"] = 1,
 									},
 								},
 							},
@@ -482,7 +384,7 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 547,
+					["combatId"] = 798,
 					["tipo"] = 9,
 					["_ActorTable"] = {
 						{
@@ -495,20 +397,20 @@ _detalhes_database = {
 										["id"] = 105771,
 										["targets"] = {
 										},
-										["uptime"] = 1,
+										["uptime"] = 0,
 										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[115804] = {
+									[208086] = {
 										["activedamt"] = 0,
-										["id"] = 115804,
+										["id"] = 208086,
 										["targets"] = {
 										},
-										["uptime"] = 1,
+										["uptime"] = 18,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
+										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -523,690 +425,31 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-								},
-							},
-							["buff_uptime"] = 29,
-							["classe"] = "WARRIOR",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[118779] = {
-										["activedamt"] = 2,
-										["id"] = 118779,
-										["targets"] = {
-										},
-										["actived_at"] = 1523172070,
-										["uptime"] = 8,
-										["appliedamt"] = 2,
-										["refreshamt"] = 1,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-									[32216] = {
-										["activedamt"] = 4,
-										["id"] = 32216,
-										["targets"] = {
-										},
-										["uptime"] = 9,
-										["appliedamt"] = 4,
-										["refreshamt"] = 3,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[199854] = {
-										["activedamt"] = 1,
-										["id"] = 199854,
-										["targets"] = {
-										},
-										["actived_at"] = 1523172073,
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-									[109128] = {
-										["activedamt"] = 0,
-										["id"] = 109128,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[188923] = {
-										["activedamt"] = 1,
-										["id"] = 188923,
-										["targets"] = {
-										},
-										["uptime"] = 2,
-										["appliedamt"] = 1,
-										["refreshamt"] = 4,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[1719] = {
-										["activedamt"] = 1,
-										["id"] = 1719,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[227847] = {
-										["activedamt"] = 1,
-										["id"] = 227847,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 8,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 71,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[1719] = 1,
-								[845] = 1,
-								[126664] = 1,
-								[34428] = 3,
-								[227847] = 1,
-								[50622] = 7,
-								[1680] = 1,
-								[12294] = 1,
-								[163201] = 2,
-								[199658] = 1,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["last_event"] = 1523172074,
-							["nome"] = "Cyprinidae",
-							["pets"] = {
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 547,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Cyprinidae"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Tangleheart Cultivator",
-				["combat_counter"] = 1040,
-				["playing_solo"] = true,
-				["totals"] = {
-					421000.97846, -- [1]
-					105706.998443, -- [2]
-					{
-						0, -- [1]
-						[0] = -49,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = true,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Cyprinidae"] = 105707.003909,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Cyprinidae"] = 421001.008475,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 198252.748,
-				["combat_id"] = 547,
-				["instance_type"] = "none",
-				["resincked"] = true,
-				["frags"] = {
-					["Tangleheart Cultivator"] = 2,
-					["Silkbead Snail"] = 1,
-					["Heartsting Pollinator"] = 1,
-					["Tangled Sapling"] = 3,
-				},
-				["data_fim"] = "00:21:14",
-				["data_inicio"] = "00:20:56",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					421001, -- [1]
-					105707, -- [2]
-					{
-						0, -- [1]
-						[0] = -49,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 198234.084,
-				["contra"] = "Tangleheart Cultivator",
-				["TimeData"] = {
-				},
-			}, -- [1]
-			{
-				{
-					["combatId"] = 546,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.003032,
-							["total"] = 308152.003032,
-							["damage_from"] = {
-								["Fossilwood the Petrified"] = true,
-							},
-							["targets"] = {
-								["Fossilwood the Petrified"] = 308152,
-							},
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["colocacao"] = 1,
-							["classe"] = "WARRIOR",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 308152.003032,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1523172037,
-							["on_hold"] = false,
-							["spec"] = 71,
-							["nome"] = "Cyprinidae",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3498,
-										["targets"] = {
-											["Fossilwood the Petrified"] = 28141,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 28141,
-										["n_min"] = 2141,
-										["g_dmg"] = 0,
-										["counter"] = 9,
-										["total"] = 28141,
-										["c_max"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 9,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									}, -- [1]
-									[12294] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 15376,
-										["targets"] = {
-											["Fossilwood the Petrified"] = 27726,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 27726,
-										["n_min"] = 12350,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 27726,
-										["c_max"] = 0,
-										["id"] = 12294,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[163201] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 27304,
-										["targets"] = {
-											["Fossilwood the Petrified"] = 159250,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 159250,
-										["n_min"] = 6814,
-										["g_dmg"] = 0,
-										["counter"] = 9,
-										["total"] = 159250,
-										["c_max"] = 0,
-										["id"] = 163201,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 9,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[772] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 10286,
-										["targets"] = {
-											["Fossilwood the Petrified"] = 75534,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 75534,
-										["n_min"] = 4142,
-										["g_dmg"] = 0,
-										["counter"] = 9,
-										["total"] = 75534,
-										["c_max"] = 0,
-										["id"] = 772,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 9,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[105771] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Fossilwood the Petrified"] = 0,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 0,
-										["c_max"] = 0,
-										["IMMUNE"] = 1,
-										["id"] = 105771,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[236027] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Fossilwood the Petrified"] = 0,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 0,
-										["c_max"] = 0,
-										["IMMUNE"] = 1,
-										["id"] = 236027,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[167105] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 9079,
-										["targets"] = {
-											["Fossilwood the Petrified"] = 14630,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 14630,
-										["n_min"] = 5551,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 14630,
-										["c_max"] = 0,
-										["id"] = 167105,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[126664] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1768,
-										["targets"] = {
-											["Fossilwood the Petrified"] = 2871,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2871,
-										["n_min"] = 1103,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 2871,
-										["c_max"] = 0,
-										["id"] = 126664,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["serial"] = "Player-5-0A9895DA",
-							["last_dps"] = 11337.03701232,
-							["custom"] = 0,
-							["last_event"] = 1523172037,
-							["damage_taken"] = 22414.003032,
-							["start_time"] = 1523172010,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 546,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Cyprinidae"] = true,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.005173,
-							["total_without_pet"] = 4359.005173,
-							["total"] = 4359.005173,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["serial"] = "Player-5-0A9895DA",
-							["totalabsorb"] = 0.005173,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Cyprinidae"] = 4359,
-							},
-							["totalover_without_pet"] = 0.005173,
-							["healing_taken"] = 4359.005173,
-							["fight_component"] = true,
-							["end_time"] = 1523172037,
-							["targets_overheal"] = {
-							},
-							["nome"] = "Cyprinidae",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[59913] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 2180,
-										["targets"] = {
-											["Cyprinidae"] = 4359,
-										},
-										["n_min"] = 2179,
-										["counter"] = 2,
-										["overheal"] = 0,
-										["total"] = 4359,
-										["c_max"] = 0,
-										["id"] = 59913,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 4359,
-										["n_amt"] = 2,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1523172037,
-							["custom"] = 0,
-							["last_event"] = 1523172037,
-							["spec"] = 71,
-							["totaldenied"] = 0.005173,
-							["delay"] = 0,
-							["tipo"] = 2,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 546,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = -97.991989,
-							["resource"] = 0.008011,
-							["targets"] = {
-								["Cyprinidae"] = -98,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = -97.991989,
-							["nome"] = "Cyprinidae",
-							["spec"] = 71,
-							["grupo"] = true,
-							["flag_original"] = 1297,
-							["last_event"] = 1523172055,
-							["alternatepower"] = 0.008011,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[163201] = {
-										["id"] = 163201,
-										["total"] = -138,
-										["targets"] = {
-											["Cyprinidae"] = -138,
-										},
-										["counter"] = 8,
-									},
-									[100] = {
-										["id"] = 100,
-										["total"] = 40,
-										["targets"] = {
-											["Cyprinidae"] = 40,
-										},
-										["counter"] = 2,
-									},
-								},
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 3,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 546,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
 									[115804] = {
 										["activedamt"] = 0,
 										["id"] = 115804,
 										["targets"] = {
 										},
-										["uptime"] = 20,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[772] = {
-										["activedamt"] = 0,
-										["id"] = 772,
-										["targets"] = {
-										},
-										["uptime"] = 14,
+										["uptime"] = 17,
 										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[208086] = {
-										["activedamt"] = 0,
-										["id"] = 208086,
-										["targets"] = {
-										},
-										["uptime"] = 26,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
+										["refreshamt"] = 2,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
 							},
-							["buff_uptime"] = 21,
+							["buff_uptime"] = 53,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["tipo"] = 9,
 								["_ActorTable"] = {
-									[109128] = {
-										["activedamt"] = 0,
-										["id"] = 109128,
+									[118779] = {
+										["activedamt"] = 1,
+										["id"] = 118779,
 										["targets"] = {
 										},
-										["uptime"] = 0,
-										["appliedamt"] = 0,
+										["uptime"] = 6,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -1223,12 +466,34 @@ _detalhes_database = {
 										["counter"] = 0,
 									},
 									[32216] = {
-										["activedamt"] = 1,
+										["activedamt"] = 2,
 										["id"] = 32216,
 										["targets"] = {
 										},
-										["uptime"] = 0,
+										["uptime"] = 5,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223543] = {
+										["activedamt"] = 1,
+										["id"] = 223543,
+										["targets"] = {
+										},
+										["uptime"] = 20,
 										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[109128] = {
+										["activedamt"] = 0,
+										["id"] = 109128,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -1238,8 +503,8 @@ _detalhes_database = {
 										["id"] = 199854,
 										["targets"] = {
 										},
-										["actived_at"] = 1523172037,
-										["uptime"] = 5,
+										["actived_at"] = 1525414722,
+										["uptime"] = 6,
 										["appliedamt"] = 3,
 										["refreshamt"] = 0,
 										["actived"] = true,
@@ -1248,23 +513,22 @@ _detalhes_database = {
 								},
 							},
 							["fight_component"] = true,
-							["debuff_uptime"] = 60,
-							["nome"] = "Cyprinidae",
+							["debuff_uptime"] = 41,
+							["buff_uptime_targets"] = {
+							},
 							["spec"] = 71,
 							["grupo"] = true,
 							["spell_cast"] = {
-								[12294] = 2,
-								[163201] = 9,
-								[772] = 2,
-								[100] = 1,
+								[1464] = 8,
+								[163201] = 1,
+								[34428] = 1,
 								[167105] = 2,
-								[126664] = 1,
+								[12294] = 3,
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["last_event"] = 1523172037,
-							["buff_uptime_targets"] = {
-							},
+							["last_event"] = 1525414724,
+							["nome"] = "Cyprinidae",
 							["pets"] = {
 							},
 							["serial"] = "Player-5-0A9895DA",
@@ -1273,7 +537,7 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 546,
+					["combatId"] = 798,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 					},
@@ -1285,15 +549,15 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["enemy"] = "Fossilwood the Petrified",
-				["combat_counter"] = 1039,
+				["enemy"] = "Boss Whalebelly",
+				["combat_counter"] = 1378,
 				["playing_solo"] = true,
 				["totals"] = {
-					308151.978011, -- [1]
-					4358.991253, -- [2]
+					1605375.97759, -- [1]
+					50, -- [2]
 					{
 						0, -- [1]
-						[0] = -98.004153,
+						[0] = -26.008141,
 						["alternatepower"] = 0,
 						[3] = 0,
 						[6] = 0,
@@ -1312,83 +576,6 @@ _detalhes_database = {
 					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
-					["Cyprinidae"] = {
-						{
-							true, -- [1]
-							170302, -- [2]
-							5688, -- [3]
-							1523172038.956, -- [4]
-							90924, -- [5]
-							"Fossilwood the Petrified", -- [6]
-							nil, -- [7]
-							8, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [1]
-						{
-						}, -- [2]
-						{
-						}, -- [3]
-						{
-						}, -- [4]
-						{
-						}, -- [5]
-						{
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						{
-						}, -- [11]
-						{
-						}, -- [12]
-						{
-						}, -- [13]
-						{
-						}, -- [14]
-						{
-						}, -- [15]
-						{
-						}, -- [16]
-						{
-						}, -- [17]
-						{
-						}, -- [18]
-						{
-						}, -- [19]
-						{
-						}, -- [20]
-						{
-						}, -- [21]
-						{
-						}, -- [22]
-						{
-						}, -- [23]
-						{
-						}, -- [24]
-						{
-						}, -- [25]
-						{
-						}, -- [26]
-						{
-						}, -- [27]
-						{
-						}, -- [28]
-						{
-						}, -- [29]
-						{
-						}, -- [30]
-						{
-						}, -- [31]
-						{
-						}, -- [32]
-						["n"] = 2,
-					},
 				},
 				["frags_need_refresh"] = true,
 				["__call"] = {
@@ -1402,34 +589,33 @@ _detalhes_database = {
 					},
 					["heal"] = {
 						{
-							["Cyprinidae"] = 4359.005173,
+							["Cyprinidae"] = 50.002728,
 						}, -- [1]
 					},
 					["damage_section"] = {
 					},
 					["damage"] = {
 						{
-							["Cyprinidae"] = 308152.003032,
+							["Cyprinidae"] = 1605376.002103,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 198216.23,
-				["combat_id"] = 546,
+				["end_time"] = 647473.244,
+				["combat_id"] = 798,
 				["instance_type"] = "none",
 				["frags"] = {
-					["Fossilwood the Petrified"] = 1,
-					["Bangbangbang-Runetotem"] = 1,
+					["Boss Whalebelly"] = 1,
 				},
-				["data_fim"] = "00:20:38",
-				["data_inicio"] = "00:20:11",
+				["data_fim"] = "23:18:44",
+				["data_inicio"] = "23:18:24",
 				["CombatSkillCache"] = {
 				},
 				["totals_grupo"] = {
-					308152, -- [1]
-					4359, -- [2]
+					1605376, -- [1]
+					50, -- [2]
 					{
 						0, -- [1]
-						[0] = -98,
+						[0] = -26,
 						["alternatepower"] = 0,
 						[3] = 0,
 						[6] = 0,
@@ -1445,29 +631,641 @@ _detalhes_database = {
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["start_time"] = 198189.049,
-				["contra"] = "Fossilwood the Petrified",
+				["start_time"] = 647453.125,
+				["contra"] = "Boss Whalebelly",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 797,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008684,
+							["total"] = 1494164.008684,
+							["damage_from"] = {
+								["Golden Xue"] = true,
+							},
+							["targets"] = {
+								["Golden Xue"] = 1494164,
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["colocacao"] = 1,
+							["classe"] = "WARRIOR",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1494164.008684,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1525414692,
+							["on_hold"] = false,
+							["spec"] = 71,
+							["nome"] = "Cyprinidae",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 45339,
+										["g_amt"] = 0,
+										["n_max"] = 23858,
+										["targets"] = {
+											["Golden Xue"] = 106591,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 61252,
+										["n_min"] = 14524,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 106591,
+										["c_max"] = 45339,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 45339,
+									}, -- [1]
+									[1464] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 447085,
+										["g_amt"] = 0,
+										["n_max"] = 77362,
+										["targets"] = {
+											["Golden Xue"] = 599246,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 152161,
+										["n_min"] = 74799,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 599246,
+										["c_max"] = 152378,
+										["id"] = 1464,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 142608,
+									},
+									[163201] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 193706,
+										["targets"] = {
+											["Golden Xue"] = 193706,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 193706,
+										["n_min"] = 193706,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 193706,
+										["c_max"] = 0,
+										["id"] = 163201,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[156287] = {
+										["c_amt"] = 0,
+										["b_amt"] = 1,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 68042,
+										["targets"] = {
+											["Golden Xue"] = 411085,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 411085,
+										["n_min"] = 39652,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 411085,
+										["c_max"] = 0,
+										["id"] = 156287,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 43376,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[34428] = {
+										["c_amt"] = 0,
+										["b_amt"] = 1,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 27719,
+										["targets"] = {
+											["Golden Xue"] = 27719,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 27719,
+										["n_min"] = 27719,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 27719,
+										["c_max"] = 0,
+										["id"] = 34428,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 27719,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[167105] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 45209,
+										["targets"] = {
+											["Golden Xue"] = 45209,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 45209,
+										["n_min"] = 45209,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 45209,
+										["c_max"] = 0,
+										["id"] = 167105,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[12294] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 110608,
+										["targets"] = {
+											["Golden Xue"] = 110608,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 110608,
+										["n_min"] = 110608,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 110608,
+										["c_max"] = 0,
+										["id"] = 12294,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-5-0A9895DA",
+							["last_dps"] = 127314.588334573,
+							["custom"] = 0,
+							["last_event"] = 1525414691,
+							["damage_taken"] = 92277.008684,
+							["start_time"] = 1525414680,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 797,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Cyprinidae"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "WARRIOR",
+							["totalover"] = 265270.004877,
+							["total_without_pet"] = 12488.004877,
+							["total"] = 12488.004877,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-5-0A9895DA",
+							["totalabsorb"] = 0.004877,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Cyprinidae"] = 277758,
+							},
+							["totalover_without_pet"] = 0.004877,
+							["healing_taken"] = 12488.004877,
+							["fight_component"] = true,
+							["end_time"] = 1525414692,
+							["targets_overheal"] = {
+								["Cyprinidae"] = 265270,
+							},
+							["nome"] = "Cyprinidae",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[118779] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Cyprinidae"] = 265270,
+										},
+										["n_max"] = 12488,
+										["targets"] = {
+											["Cyprinidae"] = 12488,
+										},
+										["n_min"] = 12488,
+										["counter"] = 1,
+										["overheal"] = 265270,
+										["total"] = 12488,
+										["c_max"] = 0,
+										["id"] = 118779,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 12488,
+										["n_amt"] = 1,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1525414684,
+							["custom"] = 0,
+							["last_event"] = 1525414684,
+							["spec"] = 71,
+							["totaldenied"] = 0.004877,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 797,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 34.008224,
+							["resource"] = 0.008224,
+							["targets"] = {
+								["Cyprinidae"] = 34,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "WARRIOR",
+							["fight_component"] = true,
+							["total"] = 34.008224,
+							["nome"] = "Cyprinidae",
+							["spec"] = 71,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["last_event"] = 1525414703,
+							["alternatepower"] = 0.008224,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[173401] = {
+										["id"] = 173401,
+										["total"] = 2,
+										["targets"] = {
+											["Cyprinidae"] = 2,
+										},
+										["counter"] = 3,
+									},
+									[248439] = {
+										["id"] = 248439,
+										["total"] = 42,
+										["targets"] = {
+											["Cyprinidae"] = 42,
+										},
+										["counter"] = 6,
+									},
+									[100] = {
+										["id"] = 100,
+										["total"] = 20,
+										["targets"] = {
+											["Cyprinidae"] = 20,
+										},
+										["counter"] = 1,
+									},
+									[163201] = {
+										["id"] = 163201,
+										["total"] = -30,
+										["targets"] = {
+											["Cyprinidae"] = -30,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 797,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[208086] = {
+										["activedamt"] = 0,
+										["id"] = 208086,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[115804] = {
+										["activedamt"] = 0,
+										["id"] = 115804,
+										["targets"] = {
+										},
+										["uptime"] = 9,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 42,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[248145] = {
+										["activedamt"] = 1,
+										["id"] = 248145,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 5,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[248622] = {
+										["activedamt"] = 1,
+										["id"] = 248622,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[32216] = {
+										["activedamt"] = 2,
+										["id"] = 32216,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223543] = {
+										["activedamt"] = 1,
+										["id"] = 223543,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[118779] = {
+										["activedamt"] = 1,
+										["id"] = 118779,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 19,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 71,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[1464] = 5,
+								[163201] = 1,
+								[34428] = 1,
+								[167105] = 1,
+								[12294] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1525414692,
+							["nome"] = "Cyprinidae",
+							["pets"] = {
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 797,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Cyprinidae"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Golden Xue",
+				["combat_counter"] = 1377,
+				["playing_solo"] = true,
+				["totals"] = {
+					1494163.992323, -- [1]
+					12488, -- [2]
+					{
+						0, -- [1]
+						[0] = 34,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Cyprinidae"] = 12488.004877,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Cyprinidae"] = 1494164.008684,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 647441.009,
+				["combat_id"] = 797,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Golden Xue"] = 1,
+				},
+				["data_fim"] = "23:18:12",
+				["data_inicio"] = "23:18:00",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1494164, -- [1]
+					12488, -- [2]
+					{
+						0, -- [1]
+						[0] = 34,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 647429.273,
+				["contra"] = "Golden Xue",
 				["TimeData"] = {
 				},
 			}, -- [2]
 			{
 				{
-					["combatId"] = 545,
+					["combatId"] = 796,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.002526,
-							["total"] = 154067.002526,
+							["totalabsorbed"] = 0.005953,
+							["total"] = 1079392.005953,
 							["damage_from"] = {
-								["Fungal Ooze"] = true,
-								["Fungal Lurcher"] = true,
+								["Captain Feargus"] = true,
 							},
 							["targets"] = {
-								["Fungal Ooze"] = 51939,
-								["Fungal Lurcher"] = 102128,
+								["Captain Feargus"] = 1079392,
 							},
 							["pets"] = {
+								"Ooker Dooker <Cyprinidae>", -- [1]
 							},
 							["friendlyfire"] = {
 							},
@@ -1475,10 +1273,10 @@ _detalhes_database = {
 							["classe"] = "WARRIOR",
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 154067.002526,
+							["total_without_pet"] = 1061520.005953,
 							["friendlyfire_total"] = 0,
 							["dps_started"] = false,
-							["end_time"] = 1523171889,
+							["end_time"] = 1525414667,
 							["on_hold"] = false,
 							["spec"] = 71,
 							["nome"] = "Cyprinidae",
@@ -1486,140 +1284,22 @@ _detalhes_database = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
-										["c_amt"] = 0,
+										["c_amt"] = 3,
 										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 4597,
-										["targets"] = {
-											["Fungal Lurcher"] = 11040,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 11040,
-										["n_min"] = 3162,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 11040,
-										["c_max"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									}, -- [1]
-									[12294] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 21334,
-										["targets"] = {
-											["Fungal Ooze"] = 31899,
-											["Fungal Lurcher"] = 21334,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 53233,
-										["n_min"] = 15873,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 53233,
-										["c_max"] = 0,
-										["id"] = 12294,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[163201] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 28640,
-										["targets"] = {
-											["Fungal Lurcher"] = 28640,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 28640,
-										["n_min"] = 28640,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 28640,
-										["c_max"] = 0,
-										["id"] = 163201,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[5308] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 20040,
-										["targets"] = {
-											["Fungal Ooze"] = 20040,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 20040,
-										["n_min"] = 20040,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 20040,
-										["c_max"] = 0,
-										["id"] = 5308,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[105771] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
+										["c_dmg"] = 137890,
 										["g_amt"] = 0,
 										["n_max"] = 0,
 										["targets"] = {
-											["Fossilwood the Petrified"] = 0,
+											["Captain Feargus"] = 137890,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 0,
 										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 0,
-										["c_max"] = 0,
-										["IMMUNE"] = 1,
-										["id"] = 105771,
+										["counter"] = 3,
+										["total"] = 137890,
+										["c_max"] = 52514,
+										["id"] = 1,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
@@ -1630,735 +1310,24 @@ _detalhes_database = {
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
+										["c_min"] = 34882,
+									}, -- [1]
 									[1464] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 10521,
-										["targets"] = {
-											["Fungal Lurcher"] = 20643,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 20643,
-										["n_min"] = 10122,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 20643,
-										["c_max"] = 0,
-										["id"] = 1464,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[34428] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 5146,
-										["targets"] = {
-											["Fungal Lurcher"] = 9000,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 9000,
-										["n_min"] = 3854,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 9000,
-										["c_max"] = 0,
-										["id"] = 34428,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[167105] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 10245,
-										["targets"] = {
-											["Fungal Lurcher"] = 10245,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 10245,
-										["n_min"] = 10245,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 10245,
-										["c_max"] = 0,
-										["id"] = 167105,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[126664] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1226,
-										["targets"] = {
-											["Fungal Lurcher"] = 1226,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1226,
-										["n_min"] = 1226,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1226,
-										["c_max"] = 0,
-										["id"] = 126664,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["serial"] = "Player-5-0A9895DA",
-							["last_dps"] = 17279.8342895967,
-							["custom"] = 0,
-							["last_event"] = 1523172009,
-							["damage_taken"] = 31525.002526,
-							["start_time"] = 1523171880,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 545,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Cyprinidae"] = true,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 34082.005517,
-							["total_without_pet"] = 48083.005517,
-							["total"] = 48083.005517,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["serial"] = "Player-5-0A9895DA",
-							["totalabsorb"] = 0.005517,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Cyprinidae"] = 77806,
-							},
-							["totalover_without_pet"] = 0.005517,
-							["healing_taken"] = 48083.005517,
-							["fight_component"] = true,
-							["end_time"] = 1523171889,
-							["targets_overheal"] = {
-								["Cyprinidae"] = 34082,
-							},
-							["nome"] = "Cyprinidae",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[118779] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Cyprinidae"] = 28208,
-										},
-										["n_max"] = 20405,
-										["targets"] = {
-											["Cyprinidae"] = 36520,
-										},
-										["n_min"] = 16115,
-										["counter"] = 2,
-										["overheal"] = 28208,
-										["total"] = 36520,
-										["c_max"] = 0,
-										["id"] = 118779,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 36520,
-										["n_amt"] = 2,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[59913] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Cyprinidae"] = 5874,
-										},
-										["n_max"] = 2180,
-										["targets"] = {
-											["Cyprinidae"] = 11563,
-										},
-										["n_min"] = 0,
-										["counter"] = 8,
-										["overheal"] = 5874,
-										["total"] = 11563,
-										["c_max"] = 0,
-										["id"] = 59913,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 11563,
-										["n_amt"] = 8,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1523171880,
-							["custom"] = 0,
-							["last_event"] = 1523171889,
-							["spec"] = 71,
-							["totaldenied"] = 0.005517,
-							["delay"] = 0,
-							["tipo"] = 2,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 545,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = 6.007415,
-							["resource"] = 0.007415,
-							["targets"] = {
-								["Cyprinidae"] = 6,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = 6.007415,
-							["nome"] = "Cyprinidae",
-							["spec"] = 71,
-							["grupo"] = true,
-							["flag_original"] = 1297,
-							["last_event"] = 1523172009,
-							["alternatepower"] = 0.007415,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[163201] = {
-										["id"] = 163201,
-										["total"] = -30,
-										["targets"] = {
-											["Cyprinidae"] = -30,
-										},
-										["counter"] = 1,
-									},
-									[100] = {
-										["id"] = 100,
-										["total"] = 20,
-										["targets"] = {
-											["Cyprinidae"] = 20,
-										},
-										["counter"] = 1,
-									},
-									[173401] = {
-										["id"] = 173401,
-										["total"] = 16,
-										["targets"] = {
-											["Cyprinidae"] = 16,
-										},
-										["counter"] = 13,
-									},
-								},
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 3,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 545,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[105771] = {
-										["activedamt"] = 0,
-										["id"] = 105771,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[208086] = {
-										["activedamt"] = 0,
-										["id"] = 208086,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[236027] = {
-										["activedamt"] = 0,
-										["id"] = 236027,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 3,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 21,
-							["classe"] = "WARRIOR",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[118779] = {
-										["activedamt"] = 1,
-										["id"] = 118779,
-										["targets"] = {
-										},
-										["actived_at"] = 1523171887,
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-									[248622] = {
-										["activedamt"] = 1,
-										["id"] = 248622,
-										["targets"] = {
-										},
-										["uptime"] = 7,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[32216] = {
-										["activedamt"] = 3,
-										["id"] = 32216,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 3,
-										["refreshamt"] = 2,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[109128] = {
-										["activedamt"] = 0,
-										["id"] = 109128,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[199854] = {
-										["activedamt"] = 2,
-										["id"] = 199854,
-										["targets"] = {
-										},
-										["actived_at"] = 1523171888,
-										["uptime"] = 3,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-								},
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 17,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 71,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[12294] = 1,
-								[163201] = 1,
-								[1464] = 2,
-								[34428] = 2,
-								[167105] = 1,
-								[126664] = 1,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["last_event"] = 1523171889,
-							["nome"] = "Cyprinidae",
-							["pets"] = {
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 545,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Cyprinidae"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Fungal Ooze",
-				["combat_counter"] = 1038,
-				["playing_solo"] = true,
-				["totals"] = {
-					154066.969599, -- [1]
-					48083, -- [2]
-					{
-						0, -- [1]
-						[0] = 5.988455,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-					["Cyprinidae"] = {
-						{
-							true, -- [1]
-							32065, -- [2]
-							1198, -- [3]
-							1523171889.908, -- [4]
-							106682, -- [5]
-							"Fungal Lurcher", -- [6]
-							nil, -- [7]
-							8, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [1]
-						{
-							true, -- [1]
-							32065, -- [2]
-							899, -- [3]
-							1523171892.893, -- [4]
-							106981, -- [5]
-							"Fungal Lurcher", -- [6]
-							nil, -- [7]
-							8, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [2]
-						{
-							true, -- [1]
-							32065, -- [2]
-							599, -- [3]
-							1523171895.899, -- [4]
-							107281, -- [5]
-							"Fungal Lurcher", -- [6]
-							nil, -- [7]
-							8, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [3]
-						{
-							true, -- [1]
-							32065, -- [2]
-							300, -- [3]
-							1523171898.831, -- [4]
-							107580, -- [5]
-							"Fungal Lurcher", -- [6]
-							nil, -- [7]
-							8, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [4]
-						{
-						}, -- [5]
-						{
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						{
-						}, -- [11]
-						{
-						}, -- [12]
-						{
-						}, -- [13]
-						{
-						}, -- [14]
-						{
-						}, -- [15]
-						{
-						}, -- [16]
-						{
-						}, -- [17]
-						{
-						}, -- [18]
-						{
-						}, -- [19]
-						{
-						}, -- [20]
-						{
-						}, -- [21]
-						{
-						}, -- [22]
-						{
-						}, -- [23]
-						{
-						}, -- [24]
-						{
-						}, -- [25]
-						{
-						}, -- [26]
-						{
-						}, -- [27]
-						{
-						}, -- [28]
-						{
-						}, -- [29]
-						{
-						}, -- [30]
-						{
-						}, -- [31]
-						{
-						}, -- [32]
-						["n"] = 5,
-					},
-				},
-				["frags_need_refresh"] = true,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Cyprinidae"] = 48083.005517,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Cyprinidae"] = 154067.002526,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 198067.803,
-				["combat_id"] = 545,
-				["instance_type"] = "none",
-				["frags"] = {
-					["Fungal Ooze"] = 3,
-					["Fungal Lurcher"] = 1,
-				},
-				["data_fim"] = "00:18:09",
-				["data_inicio"] = "00:18:00",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					154067, -- [1]
-					48083, -- [2]
-					{
-						0, -- [1]
-						[0] = 6,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 198058.887,
-				["contra"] = "Fungal Ooze",
-				["TimeData"] = {
-				},
-			}, -- [3]
-			{
-				{
-					["combatId"] = 544,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.005337,
-							["total"] = 297013.005337,
-							["damage_from"] = {
-								["Fungal Ooze"] = true,
-								["Fungal Lurcher"] = true,
-							},
-							["targets"] = {
-								["Fungal Ooze"] = 203061,
-								["Fungal Lurcher"] = 93952,
-							},
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["colocacao"] = 1,
-							["classe"] = "WARRIOR",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 297013.005337,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1523171878,
-							["on_hold"] = false,
-							["spec"] = 71,
-							["nome"] = "Cyprinidae",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
 										["c_amt"] = 2,
 										["b_amt"] = 0,
-										["c_dmg"] = 15030,
+										["c_dmg"] = 322983,
 										["g_amt"] = 0,
-										["n_max"] = 3751,
+										["n_max"] = 81309,
 										["targets"] = {
-											["Fungal Ooze"] = 17345,
-											["Fungal Lurcher"] = 17277,
+											["Captain Feargus"] = 404292,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 19592,
-										["n_min"] = 2265,
+										["n_dmg"] = 81309,
+										["n_min"] = 81309,
 										["g_dmg"] = 0,
-										["counter"] = 8,
-										["total"] = 34622,
-										["c_max"] = 7840,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
-										["c_min"] = 7190,
-									}, -- [1]
-									[1464] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 24198,
-										["g_amt"] = 0,
-										["n_max"] = 10696,
-										["targets"] = {
-											["Fungal Lurcher"] = 55422,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 31224,
-										["n_min"] = 10057,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 55422,
-										["c_max"] = 24198,
+										["counter"] = 3,
+										["total"] = 404292,
+										["c_max"] = 166163,
 										["id"] = 1464,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -2368,25 +1337,25 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 3,
+										["n_amt"] = 1,
 										["r_amt"] = 0,
-										["c_min"] = 24198,
+										["c_min"] = 156820,
 									},
 									[163201] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 29300,
+										["n_max"] = 206660,
 										["targets"] = {
-											["Fungal Ooze"] = 29300,
+											["Captain Feargus"] = 206660,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 29300,
-										["n_min"] = 29300,
+										["n_dmg"] = 206660,
+										["n_min"] = 206660,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["total"] = 29300,
+										["total"] = 206660,
 										["c_max"] = 0,
 										["id"] = 163201,
 										["r_dmg"] = 0,
@@ -2401,679 +1370,52 @@ _detalhes_database = {
 										["r_amt"] = 0,
 										["c_min"] = 0,
 									},
-									[12294] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 14934,
-										["targets"] = {
-											["Fungal Ooze"] = 64443,
-											["Fungal Lurcher"] = 13750,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 78193,
-										["n_min"] = 10724,
-										["g_dmg"] = 0,
-										["counter"] = 6,
-										["total"] = 78193,
-										["c_max"] = 0,
-										["id"] = 12294,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[5308] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 30111,
-										["targets"] = {
-											["Fungal Ooze"] = 88240,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 88240,
-										["n_min"] = 28849,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 88240,
-										["c_max"] = 0,
-										["id"] = 5308,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[34428] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3733,
-										["targets"] = {
-											["Fungal Ooze"] = 3733,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 3733,
-										["n_min"] = 3733,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 3733,
-										["c_max"] = 0,
-										["id"] = 34428,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[167105] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 6316,
-										["targets"] = {
-											["Fungal Lurcher"] = 6316,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 6316,
-										["n_min"] = 6316,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 6316,
-										["c_max"] = 0,
-										["id"] = 167105,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[126664] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1187,
-										["targets"] = {
-											["Fungal Lurcher"] = 1187,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1187,
-										["n_min"] = 1187,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1187,
-										["c_max"] = 0,
-										["id"] = 126664,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["serial"] = "Player-5-0A9895DA",
-							["last_dps"] = 21499.3127280185,
-							["custom"] = 0,
-							["last_event"] = 1523171877,
-							["damage_taken"] = 37538.005337,
-							["start_time"] = 1523171863,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 544,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Cyprinidae"] = true,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.008997,
-							["total_without_pet"] = 67240.008997,
-							["total"] = 67240.008997,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["serial"] = "Player-5-0A9895DA",
-							["totalabsorb"] = 0.008997,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Cyprinidae"] = 67240,
-							},
-							["totalover_without_pet"] = 0.008997,
-							["healing_taken"] = 67240.008997,
-							["fight_component"] = true,
-							["end_time"] = 1523171878,
-							["targets_overheal"] = {
-							},
-							["nome"] = "Cyprinidae",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[59913] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 2180,
-										["targets"] = {
-											["Cyprinidae"] = 34876,
-										},
-										["n_min"] = 2179,
-										["counter"] = 16,
-										["overheal"] = 0,
-										["total"] = 34876,
-										["c_max"] = 0,
-										["id"] = 59913,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 34876,
-										["n_amt"] = 16,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[118779] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 32364,
-										["targets"] = {
-											["Cyprinidae"] = 32364,
-										},
-										["n_min"] = 32364,
-										["counter"] = 1,
-										["overheal"] = 0,
-										["total"] = 32364,
-										["c_max"] = 0,
-										["id"] = 118779,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 32364,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1523171871,
-							["custom"] = 0,
-							["last_event"] = 1523171877,
-							["spec"] = 71,
-							["totaldenied"] = 0.008997,
-							["delay"] = 0,
-							["tipo"] = 2,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 544,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = -27.993535,
-							["resource"] = 0.006465,
-							["targets"] = {
-								["Cyprinidae"] = -28,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = -27.993535,
-							["nome"] = "Cyprinidae",
-							["spec"] = 71,
-							["grupo"] = true,
-							["flag_original"] = 1297,
-							["last_event"] = 1523171879,
-							["alternatepower"] = 0.006465,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[163201] = {
-										["id"] = 163201,
-										["total"] = -60,
-										["targets"] = {
-											["Cyprinidae"] = -60,
-										},
-										["counter"] = 2,
-									},
-									[100] = {
-										["id"] = 100,
-										["total"] = 20,
-										["targets"] = {
-											["Cyprinidae"] = 20,
-										},
-										["counter"] = 1,
-									},
-									[173401] = {
-										["id"] = 173401,
-										["total"] = 12,
-										["targets"] = {
-											["Cyprinidae"] = 12,
-										},
-										["counter"] = 23,
-									},
-								},
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 3,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 544,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[208086] = {
-										["activedamt"] = 0,
-										["id"] = 208086,
-										["targets"] = {
-										},
-										["uptime"] = 7,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[236027] = {
-										["activedamt"] = 0,
-										["id"] = 236027,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
-										["targets"] = {
-										},
-										["uptime"] = 10,
-										["appliedamt"] = 6,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["cooldowns_defensive"] = 2.008959,
-							["buff_uptime"] = 24,
-							["last_cooldown"] = {
-								1523171869.358, -- [1]
-								118038, -- [2]
-							},
-							["classe"] = "WARRIOR",
-							["cooldowns_defensive_targets"] = {
-								["Cyprinidae"] = 2,
-							},
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[118779] = {
-										["activedamt"] = 1,
-										["id"] = 118779,
-										["targets"] = {
-										},
-										["actived_at"] = 1523171875,
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-									[248622] = {
-										["activedamt"] = 1,
-										["id"] = 248622,
-										["targets"] = {
-										},
-										["uptime"] = 8,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[118038] = {
-										["activedamt"] = 1,
-										["id"] = 118038,
-										["targets"] = {
-										},
-										["uptime"] = 8,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[109128] = {
-										["activedamt"] = 0,
-										["id"] = 109128,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[32216] = {
-										["activedamt"] = 2,
-										["id"] = 32216,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 2,
-										["refreshamt"] = 6,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[199854] = {
-										["activedamt"] = 2,
-										["id"] = 199854,
-										["targets"] = {
-										},
-										["actived_at"] = 1523171877,
-										["uptime"] = 3,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-								},
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 23,
-							["debuff_uptime_targets"] = {
-							},
-							["spec"] = 71,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[1464] = 4,
-								[163201] = 2,
-								[118038] = 1,
-								[34428] = 1,
-								[167105] = 1,
-								[12294] = 2,
-							},
-							["cooldowns_defensive_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[118038] = {
-										["id"] = 118038,
-										["targets"] = {
-											["Cyprinidae"] = 2,
-										},
-										["counter"] = 2,
-									},
-								},
-							},
-							["buff_uptime_targets"] = {
-							},
-							["last_event"] = 1523171878,
-							["nome"] = "Cyprinidae",
-							["pets"] = {
-							},
-							["serial"] = "Player-5-0A9895DA",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 544,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Cyprinidae"] = true,
-				},
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Fungal Lurcher",
-				["combat_counter"] = 1037,
-				["playing_solo"] = true,
-				["totals"] = {
-					297012.995631, -- [1]
-					67240, -- [2]
-					{
-						0, -- [1]
-						[0] = -28,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 2,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = true,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Cyprinidae"] = 67240.008997,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Cyprinidae"] = 297013.005337,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 198056.845,
-				["combat_id"] = 544,
-				["instance_type"] = "none",
-				["frags"] = {
-					["Fungal Ooze"] = 7,
-					["Fungal Lurcher"] = 1,
-				},
-				["data_fim"] = "00:17:58",
-				["data_inicio"] = "00:17:44",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					297013, -- [1]
-					67240, -- [2]
-					{
-						0, -- [1]
-						[0] = -28,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 2,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 198042.232,
-				["contra"] = "Fungal Lurcher",
-				["TimeData"] = {
-				},
-			}, -- [4]
-			{
-				{
-					["combatId"] = 543,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.008652,
-							["total"] = 91731.008652,
-							["damage_from"] = {
-								["Cyprinidae"] = true,
-								["Fungus Covered Shambler"] = true,
-								["Engorged Mushroom"] = true,
-							},
-							["targets"] = {
-								["Fungus Covered Shambler"] = 91731,
-							},
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-								["Cyprinidae"] = {
-									["spells"] = {
-										[163147] = 44727,
-									},
-									["total"] = 44727,
-								},
-							},
-							["colocacao"] = 1,
-							["classe"] = "WARRIOR",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 91731.008652,
-							["friendlyfire_total"] = 44727,
-							["dps_started"] = false,
-							["end_time"] = 1523171863,
-							["on_hold"] = false,
-							["spec"] = 71,
-							["nome"] = "Cyprinidae",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3035,
-										["targets"] = {
-											["Fungus Covered Shambler"] = 8348,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 8348,
-										["n_min"] = 2340,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 8348,
-										["c_max"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									}, -- [1]
-									[1464] = {
+									[209577] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
-										["c_dmg"] = 18393,
+										["c_dmg"] = 150345,
 										["g_amt"] = 0,
 										["n_max"] = 0,
 										["targets"] = {
-											["Fungus Covered Shambler"] = 18393,
+											["Captain Feargus"] = 150345,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 0,
 										["n_min"] = 0,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["total"] = 18393,
-										["c_max"] = 18393,
-										["id"] = 1464,
+										["total"] = 150345,
+										["c_max"] = 150345,
+										["id"] = 209577,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 150345,
+									},
+									[167105] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 154856,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Captain Feargus"] = 154856,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 154856,
+										["c_max"] = 154856,
+										["id"] = 167105,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
 										["a_dmg"] = 0,
@@ -3084,110 +1426,23 @@ _detalhes_database = {
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 18393,
-									},
-									[163201] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 23587,
-										["targets"] = {
-											["Fungus Covered Shambler"] = 23587,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 23587,
-										["n_min"] = 23587,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 23587,
-										["c_max"] = 0,
-										["id"] = 163201,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[12294] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 13461,
-										["targets"] = {
-											["Fungus Covered Shambler"] = 25982,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 25982,
-										["n_min"] = 12521,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 25982,
-										["c_max"] = 0,
-										["id"] = 12294,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[167105] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 7951,
-										["targets"] = {
-											["Fungus Covered Shambler"] = 14275,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 14275,
-										["n_min"] = 6324,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 14275,
-										["c_max"] = 0,
-										["id"] = 167105,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["c_min"] = 154856,
 									},
 									[126664] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1146,
+										["n_max"] = 7477,
 										["targets"] = {
-											["Fungus Covered Shambler"] = 1146,
+											["Captain Feargus"] = 7477,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 1146,
-										["n_min"] = 1146,
+										["n_dmg"] = 7477,
+										["n_min"] = 7477,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["total"] = 1146,
+										["total"] = 7477,
 										["c_max"] = 0,
 										["id"] = 126664,
 										["r_dmg"] = 0,
@@ -3206,116 +1461,109 @@ _detalhes_database = {
 							},
 							["grupo"] = true,
 							["serial"] = "Player-5-0A9895DA",
-							["last_dps"] = 11934.817675274,
+							["last_dps"] = 126600.047612484,
 							["custom"] = 0,
-							["last_event"] = 1523171820,
-							["damage_taken"] = 68249.008652,
-							["start_time"] = 1523171837,
-							["delay"] = 1523171820,
+							["last_event"] = 1525414666,
+							["damage_taken"] = 57147.005953,
+							["start_time"] = 1525414658,
+							["delay"] = 0,
 							["tipo"] = 1,
 						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 543,
-					["tipo"] = 3,
-					["_ActorTable"] = {
 						{
-							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Cyprinidae"] = true,
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.004068,
+							["serial"] = "Creature-0-3881-1220-10010-102647-00006BFB10",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Captain Feargus"] = 17872,
 							},
 							["pets"] = {
 							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.007773,
-							["total_without_pet"] = 4360.007773,
-							["total"] = 4360.007773,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
 							["on_hold"] = false,
-							["serial"] = "Player-5-0A9895DA",
-							["totalabsorb"] = 0.007773,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Cyprinidae"] = 4360,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
 							},
-							["totalover_without_pet"] = 0.007773,
-							["healing_taken"] = 4360.007773,
-							["fight_component"] = true,
-							["end_time"] = 1523171802,
-							["targets_overheal"] = {
-							},
-							["nome"] = "Cyprinidae",
+							["total_without_pet"] = 17872.004068,
+							["dps_started"] = false,
+							["total"] = 17872.004068,
+							["classe"] = "PET",
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Ooker Dooker <Cyprinidae>",
 							["spells"] = {
-								["tipo"] = 3,
+								["tipo"] = 2,
 								["_ActorTable"] = {
-									[59913] = {
+									{
 										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 2180,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 9083,
 										["targets"] = {
-											["Cyprinidae"] = 4360,
+											["Captain Feargus"] = 17872,
 										},
-										["n_min"] = 2180,
+										["m_dmg"] = 0,
+										["n_dmg"] = 17872,
+										["n_min"] = 8789,
+										["g_dmg"] = 0,
 										["counter"] = 2,
-										["overheal"] = 0,
-										["total"] = 4360,
+										["total"] = 17872,
 										["c_max"] = 0,
-										["id"] = 59913,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["c_min"] = 0,
+										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 4360,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
 								},
 							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1523171801,
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525414667,
+							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1523171801,
-							["spec"] = 71,
-							["totaldenied"] = 0.007773,
+							["tipo"] = 1,
+							["damage_taken"] = 0.004068,
+							["start_time"] = 1525414663,
 							["delay"] = 0,
-							["tipo"] = 2,
-						}, -- [1]
+							["last_event"] = 1525414664,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 796,
+					["tipo"] = 3,
+					["_ActorTable"] = {
 					},
 				}, -- [2]
 				{
-					["combatId"] = 543,
+					["combatId"] = 796,
 					["tipo"] = 7,
 					["_ActorTable"] = {
 						{
-							["received"] = 0.00146200000000007,
-							["resource"] = 0.001462,
+							["received"] = -18.997594,
+							["resource"] = 0.002406,
 							["targets"] = {
-								["Cyprinidae"] = 0,
+								["Cyprinidae"] = -19,
 							},
 							["pets"] = {
 							},
 							["powertype"] = 0,
 							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = 0.00146200000000007,
+							["total"] = -18.997594,
 							["nome"] = "Cyprinidae",
 							["spec"] = 71,
 							["grupo"] = true,
 							["flag_original"] = 1297,
-							["last_event"] = 1523171862,
-							["alternatepower"] = 0.001462,
+							["last_event"] = 1525414680,
+							["alternatepower"] = 0.002406,
 							["spells"] = {
 								["tipo"] = 7,
 								["_ActorTable"] = {
@@ -3327,21 +1575,21 @@ _detalhes_database = {
 										},
 										["counter"] = 1,
 									},
-									[100] = {
-										["id"] = 100,
-										["total"] = 20,
+									[248439] = {
+										["id"] = 248439,
+										["total"] = 7,
 										["targets"] = {
-											["Cyprinidae"] = 20,
+											["Cyprinidae"] = 7,
 										},
 										["counter"] = 1,
 									},
 									[173401] = {
 										["id"] = 173401,
-										["total"] = 10,
+										["total"] = 4,
 										["targets"] = {
-											["Cyprinidae"] = 10,
+											["Cyprinidae"] = 4,
 										},
-										["counter"] = 2,
+										["counter"] = 4,
 									},
 								},
 							},
@@ -3351,7 +1599,7 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 543,
+					["combatId"] = 796,
 					["tipo"] = 9,
 					["_ActorTable"] = {
 						{
@@ -3392,45 +1640,71 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
+								},
+							},
+							["buff_uptime"] = 30,
+							["classe"] = "WARRIOR",
+							["interrupt_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[6552] = {
+										["id"] = 6552,
+										["interrompeu_oque"] = {
+											[79831] = 1,
+										},
+										["targets"] = {
+											["Golden Xue"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[248622] = {
+										["activedamt"] = 1,
+										["id"] = 248622,
 										["targets"] = {
 										},
-										["uptime"] = 5,
+										["uptime"] = 7,
 										["appliedamt"] = 1,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-								},
-							},
-							["buff_uptime"] = 10,
-							["classe"] = "WARRIOR",
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[109128] = {
-										["activedamt"] = 0,
-										["id"] = 109128,
+									[199854] = {
+										["activedamt"] = 1,
+										["id"] = 199854,
 										["targets"] = {
 										},
+										["actived_at"] = 1525414666,
 										["uptime"] = 0,
-										["appliedamt"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[223543] = {
+										["activedamt"] = 1,
+										["id"] = 223543,
+										["targets"] = {
+										},
+										["uptime"] = 9,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[199854] = {
-										["activedamt"] = 2,
-										["id"] = 199854,
+									[107574] = {
+										["activedamt"] = 1,
+										["id"] = 107574,
 										["targets"] = {
 										},
-										["actived_at"] = 1523171800,
-										["uptime"] = 2,
-										["appliedamt"] = 2,
+										["uptime"] = 8,
+										["appliedamt"] = 1,
 										["refreshamt"] = 0,
-										["actived"] = true,
+										["actived"] = false,
 										["counter"] = 0,
 									},
 									[32216] = {
@@ -3444,34 +1718,53 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[248622] = {
+									[1719] = {
 										["activedamt"] = 1,
-										["id"] = 248622,
+										["id"] = 1719,
 										["targets"] = {
 										},
-										["uptime"] = 7,
+										["uptime"] = 5,
 										["appliedamt"] = 1,
-										["refreshamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[109128] = {
+										["activedamt"] = 0,
+										["id"] = 109128,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
 							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 17,
-							["debuff_uptime_targets"] = {
+							["interrompeu_oque"] = {
+								[79831] = 1,
+							},
+							["debuff_uptime"] = 12,
+							["interrupt_targets"] = {
+								["Golden Xue"] = 1,
+							},
+							["buff_uptime_targets"] = {
 							},
 							["spec"] = 71,
 							["grupo"] = true,
 							["spell_cast"] = {
-								[12294] = 2,
+								[1464] = 3,
 								[163201] = 1,
+								[209577] = 1,
+								[107574] = 1,
+								[1719] = 1,
 								[167105] = 1,
-								[1464] = 1,
 							},
-							["buff_uptime_targets"] = {
+							["interrupt"] = 1.001686,
+							["debuff_uptime_targets"] = {
 							},
-							["last_event"] = 1523171802,
+							["last_event"] = 1525414680,
 							["nome"] = "Cyprinidae",
 							["pets"] = {
 							},
@@ -3481,7 +1774,7 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 543,
+					["combatId"] = 796,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 					},
@@ -3493,15 +1786,516 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["enemy"] = "Fungus Covered Shambler",
-				["combat_counter"] = 1035,
+				["enemy"] = "Captain Feargus",
+				["combat_counter"] = 1376,
 				["playing_solo"] = true,
 				["totals"] = {
-					91730.979609, -- [1]
-					4360, -- [2]
+					1079391.995149, -- [1]
+					0, -- [2]
 					{
 						0, -- [1]
-						[0] = 0,
+						[0] = -19,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Cyprinidae"] = 1079392.005953,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 647415.827,
+				["combat_id"] = 796,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Captain Feargus"] = 1,
+				},
+				["data_fim"] = "23:17:47",
+				["data_inicio"] = "23:17:38",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1061520, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = -19,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 647407.301,
+				["contra"] = "Captain Feargus",
+				["TimeData"] = {
+				},
+			}, -- [3]
+			{
+				{
+					["combatId"] = 795,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008356,
+							["damage_from"] = {
+								["Environment (Fire)"] = true,
+								["Ooker Dooker"] = true,
+							},
+							["targets"] = {
+								["Ooker Dooker"] = 1547970,
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1547970.008356,
+							["end_time"] = 1525414551,
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["total"] = 1547970.008356,
+							["classe"] = "WARRIOR",
+							["on_hold"] = false,
+							["nome"] = "Cyprinidae",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 130015,
+										["g_amt"] = 0,
+										["n_max"] = 24317,
+										["targets"] = {
+											["Ooker Dooker"] = 154332,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 24317,
+										["n_min"] = 24317,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 154332,
+										["c_max"] = 52485,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 26289,
+									}, -- [1]
+									[1464] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 157804,
+										["g_amt"] = 0,
+										["n_max"] = 79895,
+										["targets"] = {
+											["Ooker Dooker"] = 237699,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 79895,
+										["n_min"] = 79895,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 237699,
+										["c_max"] = 157804,
+										["id"] = 1464,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 157804,
+									},
+									[163201] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 431498,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Ooker Dooker"] = 431498,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 431498,
+										["c_max"] = 431498,
+										["id"] = 163201,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 431498,
+									},
+									[209577] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 244195,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Ooker Dooker"] = 244195,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 244195,
+										["c_max"] = 244195,
+										["id"] = 209577,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 244195,
+									},
+									[167105] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 84711,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Ooker Dooker"] = 84711,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 84711,
+										["c_max"] = 84711,
+										["id"] = 167105,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 84711,
+									},
+									[12294] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 269889,
+										["g_amt"] = 0,
+										["n_max"] = 125646,
+										["targets"] = {
+											["Ooker Dooker"] = 395535,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 125646,
+										["n_min"] = 125646,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 395535,
+										["c_max"] = 269889,
+										["id"] = 12294,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 269889,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 71,
+							["serial"] = "Player-5-0A9895DA",
+							["last_dps"] = 100185.749036043,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 57361.008356,
+							["start_time"] = 1525414535,
+							["delay"] = 0,
+							["last_event"] = 1525414543,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 795,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 795,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = -5.997288,
+							["resource"] = 0.002712,
+							["targets"] = {
+								["Cyprinidae"] = -6,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "WARRIOR",
+							["total"] = -5.997288,
+							["nome"] = "Cyprinidae",
+							["spec"] = 71,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["last_event"] = 1525414657,
+							["alternatepower"] = 0.002712,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[163201] = {
+										["id"] = 163201,
+										["total"] = -30,
+										["targets"] = {
+											["Cyprinidae"] = -30,
+										},
+										["counter"] = 1,
+									},
+									[100] = {
+										["id"] = 100,
+										["total"] = 20,
+										["targets"] = {
+											["Cyprinidae"] = 20,
+										},
+										["counter"] = 1,
+									},
+									[173401] = {
+										["id"] = 173401,
+										["total"] = 4,
+										["targets"] = {
+											["Cyprinidae"] = 4,
+										},
+										["counter"] = 4,
+									},
+								},
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 795,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[208086] = {
+										["activedamt"] = 0,
+										["id"] = 208086,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[115804] = {
+										["activedamt"] = 0,
+										["id"] = 115804,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 50,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[248622] = {
+										["activedamt"] = 1,
+										["id"] = 248622,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[199854] = {
+										["activedamt"] = 1,
+										["id"] = 199854,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223543] = {
+										["activedamt"] = 1,
+										["id"] = 223543,
+										["targets"] = {
+										},
+										["uptime"] = 16,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[107574] = {
+										["activedamt"] = 1,
+										["id"] = 107574,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[1719] = {
+										["activedamt"] = 1,
+										["id"] = 1719,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 15,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 71,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[12294] = 2,
+								[163201] = 1,
+								[209577] = 1,
+								[107574] = 1,
+								[167105] = 1,
+								[1464] = 2,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1525414551,
+							["nome"] = "Cyprinidae",
+							["pets"] = {
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 795,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Cyprinidae"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Ooker Dooker",
+				["combat_counter"] = 1375,
+				["playing_solo"] = true,
+				["totals"] = {
+					1547969.987661, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = -6,
 						["alternatepower"] = 0,
 						[3] = 0,
 						[6] = 0,
@@ -3523,75 +2317,35 @@ _detalhes_database = {
 					["Cyprinidae"] = {
 						{
 							true, -- [1]
-							1, -- [2]
-							7374, -- [3]
-							1523171809.508, -- [4]
-							67550, -- [5]
-							"Engorged Mushroom", -- [6]
+							6, -- [2]
+							13, -- [3]
+							1525414561.429, -- [4]
+							830443, -- [5]
+							"Environment (Fire)", -- [6]
 							nil, -- [7]
-							1, -- [8]
+							3, -- [8]
 							false, -- [9]
 							-1, -- [10]
 						}, -- [1]
 						{
 							true, -- [1]
-							163147, -- [2]
-							10735, -- [3]
-							1523171812.778, -- [4]
-							80851, -- [5]
-							"Cyprinidae", -- [6]
+							6, -- [2]
+							10, -- [3]
+							1525414565.1, -- [4]
+							849376, -- [5]
+							"Environment (Fire)", -- [6]
 							nil, -- [7]
-							8, -- [8]
-							true, -- [9]
+							3, -- [8]
+							false, -- [9]
 							-1, -- [10]
 						}, -- [2]
 						{
-							true, -- [1]
-							163147, -- [2]
-							7156, -- [3]
-							1523171814.796, -- [4]
-							75345, -- [5]
-							"Cyprinidae", -- [6]
-							nil, -- [7]
-							8, -- [8]
-							true, -- [9]
-							-1, -- [10]
 						}, -- [3]
 						{
-							true, -- [1]
-							163147, -- [2]
-							7156, -- [3]
-							1523171816.803, -- [4]
-							69832, -- [5]
-							"Cyprinidae", -- [6]
-							nil, -- [7]
-							8, -- [8]
-							true, -- [9]
-							-1, -- [10]
 						}, -- [4]
 						{
-							true, -- [1]
-							163147, -- [2]
-							8946, -- [3]
-							1523171818.767, -- [4]
-							62525, -- [5]
-							"Cyprinidae", -- [6]
-							nil, -- [7]
-							8, -- [8]
-							true, -- [9]
-							-1, -- [10]
 						}, -- [5]
 						{
-							true, -- [1]
-							163147, -- [2]
-							10734, -- [3]
-							1523171820.814, -- [4]
-							53415, -- [5]
-							"Cyprinidae", -- [6]
-							nil, -- [7]
-							8, -- [8]
-							true, -- [9]
-							-1, -- [10]
 						}, -- [6]
 						{
 						}, -- [7]
@@ -3645,10 +2399,10 @@ _detalhes_database = {
 						}, -- [31]
 						{
 						}, -- [32]
-						["n"] = 7,
+						["n"] = 3,
 					},
 				},
-				["frags_need_refresh"] = true,
+				["frags_need_refresh"] = false,
 				["__call"] = {
 				},
 				["PhaseData"] = {
@@ -3660,34 +2414,31 @@ _detalhes_database = {
 					},
 					["heal"] = {
 						{
-							["Cyprinidae"] = 4360.007773,
 						}, -- [1]
 					},
 					["damage_section"] = {
 					},
 					["damage"] = {
 						{
-							["Cyprinidae"] = 91731.014575,
+							["Cyprinidae"] = 1547970.008356,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 197981.364,
-				["combat_id"] = 543,
+				["end_time"] = 647299.985,
+				["combat_id"] = 795,
 				["instance_type"] = "none",
-				["resincked"] = true,
 				["frags"] = {
-					["Fungus Covered Shambler"] = 1,
 				},
-				["data_fim"] = "00:16:43",
-				["data_inicio"] = "00:16:35",
+				["data_fim"] = "23:15:51",
+				["data_inicio"] = "23:15:36",
 				["CombatSkillCache"] = {
 				},
 				["totals_grupo"] = {
-					136458, -- [1]
-					4360, -- [2]
+					1547970, -- [1]
+					0, -- [2]
 					{
 						0, -- [1]
-						[0] = 0,
+						[0] = -6,
 						["alternatepower"] = 0,
 						[3] = 0,
 						[6] = 0,
@@ -3703,14 +2454,854 @@ _detalhes_database = {
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["start_time"] = 197973.678,
-				["contra"] = "Fungus Covered Shambler",
+				["start_time"] = 647284.534,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [4]
+			{
+				{
+					["combatId"] = 794,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001306,
+							["total"] = 1466710.001306,
+							["damage_from"] = {
+								["Salteye Spearwaver"] = true,
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+								["Salteye Spearwaver"] = 1466710,
+							},
+							["pets"] = {
+								"Finna Bjornsdottir <Cyprinidae>", -- [1]
+								"Prince Farondis <Cyprinidae>", -- [2]
+							},
+							["friendlyfire"] = {
+							},
+							["colocacao"] = 1,
+							["classe"] = "WARRIOR",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1035019.001306,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1525414365,
+							["on_hold"] = false,
+							["spec"] = 71,
+							["nome"] = "Cyprinidae",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 29103,
+										["g_amt"] = 0,
+										["n_max"] = 12869,
+										["targets"] = {
+											["Salteye Spearwaver"] = 41972,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12869,
+										["n_min"] = 12869,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 41972,
+										["c_max"] = 29103,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 29103,
+									}, -- [1]
+									[12294] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 73041,
+										["targets"] = {
+											["Salteye Spearwaver"] = 214492,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 214492,
+										["n_min"] = 69915,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 214492,
+										["c_max"] = 0,
+										["id"] = 12294,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[126664] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7297,
+										["targets"] = {
+											["Salteye Spearwaver"] = 7297,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7297,
+										["n_min"] = 7297,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 7297,
+										["c_max"] = 0,
+										["id"] = 126664,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[156287] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 235290,
+										["g_amt"] = 0,
+										["n_max"] = 41021,
+										["targets"] = {
+											["Salteye Spearwaver"] = 592093,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 356803,
+										["n_min"] = 38699,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 592093,
+										["c_max"] = 78946,
+										["id"] = 156287,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 9,
+										["r_amt"] = 0,
+										["c_min"] = 77398,
+									},
+									[1464] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 179165,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Salteye Spearwaver"] = 179165,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 179165,
+										["c_max"] = 94433,
+										["id"] = 1464,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 84732,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-5-0A9895DA",
+							["last_dps"] = 212720.812371579,
+							["custom"] = 0,
+							["last_event"] = 1525414364,
+							["damage_taken"] = 330299.001306,
+							["start_time"] = 1525414359,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.006059,
+							["serial"] = "Creature-0-3881-1220-10010-88869-00006BF995",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Salteye Spearwaver"] = 407951,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 407951.006059,
+							["dps_started"] = false,
+							["total"] = 407951.006059,
+							["classe"] = "PET",
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Prince Farondis <Cyprinidae>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[178784] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 205617,
+										["targets"] = {
+											["Salteye Spearwaver"] = 407951,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 407951,
+										["n_min"] = 202334,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 407951,
+										["c_max"] = 0,
+										["id"] = 178784,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525414365,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.006059,
+							["start_time"] = 1525414360,
+							["delay"] = 0,
+							["last_event"] = 1525414363,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.002282,
+							["serial"] = "Creature-0-3881-1220-10010-112301-00006BF9E0",
+							["damage_from"] = {
+								["Salteye Spearwaver"] = true,
+							},
+							["targets"] = {
+								["Salteye Spearwaver"] = 23740,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 23740.002282,
+							["dps_started"] = false,
+							["total"] = 23740.002282,
+							["classe"] = "PET",
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Finna Bjornsdottir <Cyprinidae>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 4093,
+										["g_amt"] = 0,
+										["n_max"] = 4094,
+										["targets"] = {
+											["Salteye Spearwaver"] = 14328,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10235,
+										["n_min"] = 2047,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 14328,
+										["c_max"] = 4093,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 4093,
+									}, -- [1]
+									[223593] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 9412,
+										["targets"] = {
+											["Salteye Spearwaver"] = 9412,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 9412,
+										["n_min"] = 9412,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 9412,
+										["c_max"] = 0,
+										["id"] = 223593,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1525414365,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 24212.002282,
+							["start_time"] = 1525414359,
+							["delay"] = 0,
+							["last_event"] = 1525414362,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 794,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Cyprinidae"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "WARRIOR",
+							["totalover"] = 52019.001884,
+							["total_without_pet"] = 45171.001884,
+							["total"] = 45171.001884,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-5-0A9895DA",
+							["totalabsorb"] = 0.001884,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Cyprinidae"] = 58314,
+							},
+							["totalover_without_pet"] = 0.001884,
+							["healing_taken"] = 45171.001884,
+							["fight_component"] = true,
+							["end_time"] = 1525414365,
+							["targets_overheal"] = {
+								["Cyprinidae"] = 52019,
+							},
+							["nome"] = "Cyprinidae",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[59913] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Cyprinidae"] = 52019,
+										},
+										["n_max"] = 19438,
+										["targets"] = {
+											["Cyprinidae"] = 45171,
+										},
+										["n_min"] = 0,
+										["counter"] = 5,
+										["overheal"] = 52019,
+										["total"] = 45171,
+										["c_max"] = 0,
+										["id"] = 59913,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 45171,
+										["n_amt"] = 5,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1525414360,
+							["custom"] = 0,
+							["last_event"] = 1525414364,
+							["spec"] = 71,
+							["totaldenied"] = 0.001884,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 794,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 48.006573,
+							["resource"] = 0.006573,
+							["targets"] = {
+								["Cyprinidae"] = 48,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "WARRIOR",
+							["fight_component"] = true,
+							["total"] = 48.006573,
+							["nome"] = "Cyprinidae",
+							["spec"] = 71,
+							["grupo"] = true,
+							["flag_original"] = 1297,
+							["last_event"] = 1525414363,
+							["alternatepower"] = 0.006573,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[100] = {
+										["id"] = 100,
+										["total"] = 20,
+										["targets"] = {
+											["Cyprinidae"] = 20,
+										},
+										["counter"] = 1,
+									},
+									[248439] = {
+										["id"] = 248439,
+										["total"] = 28,
+										["targets"] = {
+											["Cyprinidae"] = 28,
+										},
+										["counter"] = 4,
+									},
+								},
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["tipo"] = 3,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 794,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[105771] = {
+										["activedamt"] = 0,
+										["id"] = 105771,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[115804] = {
+										["activedamt"] = 0,
+										["id"] = 115804,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[236027] = {
+										["activedamt"] = 0,
+										["id"] = 236027,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 23,
+							["cc_done_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[105771] = {
+										["id"] = 105771,
+										["targets"] = {
+											["Salteye Spearwaver"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[109128] = {
+										["activedamt"] = 1,
+										["id"] = 109128,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[248145] = {
+										["activedamt"] = 1,
+										["id"] = 248145,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 5,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[32216] = {
+										["activedamt"] = 1,
+										["id"] = 32216,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 4,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223543] = {
+										["activedamt"] = 1,
+										["id"] = 223543,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 4,
+							["cc_done"] = 1.004631,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 71,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[12294] = 1,
+								[152277] = 1,
+								[1464] = 2,
+								[126664] = 1,
+								[100] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["cc_done_targets"] = {
+								["Salteye Spearwaver"] = 1,
+							},
+							["last_event"] = 1525414365,
+							["nome"] = "Cyprinidae",
+							["pets"] = {
+								"Prince Farondis <Cyprinidae>", -- [1]
+								"Finna Bjornsdottir <Cyprinidae>", -- [2]
+							},
+							["serial"] = "Player-5-0A9895DA",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Prince Farondis <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[178784] = 3,
+								[179215] = 1,
+							},
+							["serial"] = "Creature-0-3881-1220-10010-88869-00006BF995",
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Cyprinidae",
+							["nome"] = "Finna Bjornsdottir <Cyprinidae>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[223591] = 1,
+								[223592] = 1,
+							},
+							["serial"] = "Creature-0-3881-1220-10010-112301-00006BF9E0",
+							["last_event"] = 0,
+						}, -- [3]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 794,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Cyprinidae"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Salteye Spearwaver",
+				["combat_counter"] = 1374,
+				["playing_solo"] = true,
+				["totals"] = {
+					1466709.963001, -- [1]
+					45171, -- [2]
+					{
+						0, -- [1]
+						[0] = 48,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Cyprinidae"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							143741, -- [3]
+							1525414493.954, -- [4]
+							782119, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							3, -- [2]
+							141387, -- [3]
+							1525414521.883, -- [4]
+							772431, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 3,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Cyprinidae"] = 45171.001884,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Cyprinidae"] = 1466710.001306,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 647113.756,
+				["combat_id"] = 794,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Salteye Spearwaver"] = 5,
+				},
+				["data_fim"] = "23:12:45",
+				["data_inicio"] = "23:12:38",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1035019, -- [1]
+					45171, -- [2]
+					{
+						0, -- [1]
+						[0] = 48,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 647106.861,
+				["contra"] = "Salteye Spearwaver",
 				["TimeData"] = {
 				},
 			}, -- [5]
 		},
 	},
-	["last_version"] = "v7.3.5.5499",
+	["combat_counter"] = 1378,
 	["force_font_outline"] = "",
 	["tabela_instancias"] = {
 	},
@@ -3784,15 +3375,16 @@ _detalhes_database = {
 	},
 	["cached_talents"] = {
 		["Player-5-0A9895DA"] = {
-			22800, -- [1]
-			22409, -- [2]
-			22627, -- [3]
-			22397, -- [4]
-			22489, -- [5]
+			19138, -- [1]
+			22800, -- [2]
+			22409, -- [3]
+			22627, -- [4]
+			22397, -- [5]
 			22371, -- [6]
+			21667, -- [7]
 		},
 	},
-	["last_instance_id"] = 657,
+	["last_instance_id"] = 249,
 	["announce_interrupts"] = {
 		["enabled"] = false,
 		["whisper"] = "",
@@ -3800,22 +3392,15 @@ _detalhes_database = {
 		["custom"] = "",
 		["next"] = "",
 	},
-	["announce_prepots"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-		["reverse"] = false,
-	},
+	["last_instance_time"] = 1525162680,
 	["active_profile"] = "Cyprinidae",
-	["last_day"] = "08",
-	["benchmark_db"] = {
-		["frame"] = {
-		},
-	},
+	["last_day"] = "03",
+	["ignore_nicktag"] = true,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["showamount"] = false,
 			["animate"] = false,
+			["showamount"] = false,
 			["useplayercolor"] = false,
 			["useclasscolors"] = false,
 			["author"] = "Details! Team",
@@ -3848,8 +3433,8 @@ _detalhes_database = {
 			["annouce"] = true,
 			["dpshistory"] = {
 			},
-			["author"] = "Details! Team",
 			["dps"] = 0,
+			["author"] = "Details! Team",
 			["level"] = 1,
 			["enabled"] = true,
 		},
@@ -3941,6 +3526,7 @@ _detalhes_database = {
 				0.4, -- [4]
 			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = 0,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -3952,16 +3538,16 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["font_size"] = 10,
 			["x"] = -3.05175781250e-005,
 			["font_face"] = "Friz Quadrata TT",
-			["y"] = 0,
 			["use_spark"] = true,
+			["font_size"] = 10,
 			["main_frame_strata"] = "LOW",
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
 		},
 	},
+	["last_encounter"] = "Onyxia",
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "",
 		["started"] = false,
@@ -3973,10 +3559,16 @@ _detalhes_database = {
 		["dungeon_zone_id"] = 0,
 		["previous_boss_killed_at"] = 0,
 	},
-	["ignore_nicktag"] = true,
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
 	["last_realversion"] = 130,
-	["combat_counter"] = 1041,
-	["combat_id"] = 547,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["combat_id"] = 798,
 	["savedStyles"] = {
 		{
 			["hide_in_combat_type"] = 1,
@@ -3995,12 +3587,12 @@ _detalhes_database = {
 			["bg_r"] = 0.0941176470588235,
 			["hide_out_of_combat"] = false,
 			["following"] = {
-				["enabled"] = false,
 				["bar_color"] = {
 					1, -- [1]
 					1, -- [2]
 					1, -- [3]
 				},
+				["enabled"] = false,
 				["text_color"] = {
 					1, -- [1]
 					1, -- [2]
@@ -4014,7 +3606,7 @@ _detalhes_database = {
 				1, -- [4]
 			},
 			["switch_healer"] = false,
-			["bars_sort_direction"] = 1,
+			["micro_displays_locked"] = true,
 			["bg_b"] = 0.0941176470588235,
 			["show_statusbar"] = false,
 			["skin_custom"] = "",
@@ -4022,16 +3614,136 @@ _detalhes_database = {
 				["n_abilities"] = 3,
 				["n_enemies"] = 3,
 			},
-			["version"] = 3,
+			["name"] = "SUIWhite",
 			["stretch_button_side"] = 1,
 			["switch_all_roles_in_combat"] = false,
 			["switch_tank_in_combat"] = false,
-			["name"] = "SUIWhite",
+			["version"] = 3,
+			["attribute_text"] = {
+				["show_timer"] = {
+					true, -- [1]
+					true, -- [2]
+					true, -- [3]
+				},
+				["shadow"] = false,
+				["side"] = 1,
+				["text_size"] = 12,
+				["custom_text"] = "{name}",
+				["text_face"] = "Accidental Presidency",
+				["anchor"] = {
+					-18, -- [1]
+					3, -- [2]
+				},
+				["enabled"] = true,
+				["enable_custom_text"] = false,
+				["text_color"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					1, -- [4]
+				},
+			},
+			["bars_sort_direction"] = 1,
+			["menu_alpha"] = {
+				["enabled"] = false,
+				["onleave"] = 1,
+				["ignorebars"] = false,
+				["iconstoo"] = true,
+				["onenter"] = 1,
+			},
+			["libwindow"] = {
+				["y"] = -138.666809082031,
+				["x"] = 37.0791358947754,
+				["point"] = "LEFT",
+			},
+			["menu_anchor_down"] = {
+				16, -- [1]
+				-3, -- [2]
+			},
+			["switch_tank"] = false,
+			["strata"] = "LOW",
+			["desaturated_menu"] = false,
+			["bars_grow_direction"] = 1,
+			["ignore_mass_showhide"] = false,
+			["hide_in_combat_alpha"] = 0,
+			["plugins_grow_direction"] = 1,
+			["menu_icons"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				false, -- [6]
+				["space"] = -2,
+				["shadow"] = false,
+			},
+			["switch_damager"] = false,
+			["statusbar_info"] = {
+				["alpha"] = 0.3777777777777,
+				["overlay"] = {
+					0.333333333333333, -- [1]
+					0.333333333333333, -- [2]
+					0.333333333333333, -- [3]
+				},
+			},
+			["window_scale"] = 1,
+			["row_show_animation"] = {
+				["anim"] = "Fade",
+				["options"] = {
+				},
+			},
+			["bg_alpha"] = 0.0984569266438484,
+			["skin"] = "Minimalistic",
+			["hide_icon"] = true,
+			["grab_on_top"] = false,
+			["auto_hide_menu"] = {
+				["left"] = false,
+				["right"] = false,
+			},
+			["switch_damager_in_combat"] = false,
+			["auto_current"] = true,
+			["toolbar_side"] = 1,
+			["bg_g"] = 0.0941176470588235,
+			["micro_displays_side"] = 2,
+			["hide_in_combat"] = false,
+			["switch_all_roles_after_wipe"] = false,
+			["menu_icons_size"] = 0.850000023841858,
+			["show_sidebars"] = false,
+			["wallpaper"] = {
+				["overlay"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+					1, -- [4]
+				},
+				["texcoord"] = {
+					0, -- [1]
+					1, -- [2]
+					0, -- [3]
+					0.7, -- [4]
+				},
+				["enabled"] = false,
+				["anchor"] = "all",
+				["height"] = 114.042518615723,
+				["alpha"] = 0.5,
+				["width"] = 283.000183105469,
+			},
+			["total_bar"] = {
+				["enabled"] = false,
+				["only_in_group"] = true,
+				["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
+				["color"] = {
+					1, -- [1]
+					1, -- [2]
+					1, -- [3]
+				},
+			},
+			["backdrop_texture"] = "Details Ground",
 			["row_info"] = {
 				["textR_outline"] = false,
 				["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
 				["textL_outline"] = false,
-				["textR_outline_small"] = true,
+				["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
 				["textL_outline_small"] = true,
 				["percent_type"] = 1,
 				["fixed_text_color"] = {
@@ -4053,14 +3765,6 @@ _detalhes_database = {
 				},
 				["font_face_file"] = "Interface\\Addons\\Details\\fonts\\Accidental Presidency.ttf",
 				["textL_custom_text"] = "{data1}. {data3}{data2}",
-				["font_size"] = 10,
-				["height"] = 14,
-				["texture_file"] = "Interface\\PaperDollInfoFrame\\UI-Character-Skills-Bar",
-				["icon_file"] = "",
-				["start_after_icon"] = false,
-				["textR_bracket"] = "(",
-				["use_spec_icons"] = false,
-				["textR_enable_custom_text"] = false,
 				["models"] = {
 					["upper_model"] = "Spells\\AcidBreath_SuperGreen.M2",
 					["lower_model"] = "World\\EXPANSION02\\DOODADS\\Coldarra\\COLDARRALOCUS.m2",
@@ -4069,6 +3773,14 @@ _detalhes_database = {
 					["lower_alpha"] = 0.1,
 					["upper_enabled"] = false,
 				},
+				["texture_custom_file"] = "Interface\\",
+				["texture_file"] = "Interface\\PaperDollInfoFrame\\UI-Character-Skills-Bar",
+				["icon_file"] = "",
+				["start_after_icon"] = false,
+				["textR_bracket"] = "(",
+				["use_spec_icons"] = false,
+				["texture_custom"] = "",
+				["font_size"] = 10,
 				["fixed_texture_color"] = {
 					0, -- [1]
 					0, -- [2]
@@ -4076,10 +3788,10 @@ _detalhes_database = {
 				},
 				["textL_show_number"] = true,
 				["textL_enable_custom_text"] = false,
-				["texture_custom"] = "",
+				["textR_enable_custom_text"] = false,
 				["textR_custom_text"] = "{data1} ({data2}, {data3}%)",
 				["texture"] = "Blizzard Character Skills Bar",
-				["texture_highlight"] = "Interface\\FriendsFrame\\UI-FriendsList-Highlight",
+				["textR_outline_small"] = true,
 				["fixed_texture_background_color"] = {
 					0, -- [1]
 					0, -- [2]
@@ -4089,7 +3801,7 @@ _detalhes_database = {
 				["texture_background_file"] = "Interface\\AddOns\\Details\\images\\bar4_reverse",
 				["texture_background"] = "Details D'ictum (reverse)",
 				["alpha"] = 1,
-				["textR_class_colors"] = false,
+				["textL_class_colors"] = false,
 				["textR_outline_small_color"] = {
 					0, -- [1]
 					0, -- [2]
@@ -4097,7 +3809,14 @@ _detalhes_database = {
 					1, -- [4]
 				},
 				["no_icon"] = true,
-				["textL_class_colors"] = false,
+				["textR_class_colors"] = false,
+				["textR_show_data"] = {
+					true, -- [1]
+					true, -- [2]
+					true, -- [3]
+				},
+				["font_face"] = "Accidental Presidency",
+				["texture_class_colors"] = true,
 				["backdrop"] = {
 					["enabled"] = false,
 					["texture"] = "Details BarBorder 2",
@@ -4109,136 +3828,9 @@ _detalhes_database = {
 					},
 					["size"] = 12,
 				},
-				["font_face"] = "Accidental Presidency",
-				["texture_class_colors"] = true,
-				["textR_show_data"] = {
-					true, -- [1]
-					true, -- [2]
-					true, -- [3]
-				},
 				["fast_ps_update"] = false,
 				["textR_separator"] = ",",
-				["texture_custom_file"] = "Interface\\",
-			},
-			["micro_displays_locked"] = true,
-			["menu_alpha"] = {
-				["enabled"] = false,
-				["onleave"] = 1,
-				["ignorebars"] = false,
-				["iconstoo"] = true,
-				["onenter"] = 1,
-			},
-			["desaturated_menu"] = false,
-			["bars_grow_direction"] = 1,
-			["ignore_mass_showhide"] = false,
-			["strata"] = "LOW",
-			["libwindow"] = {
-				["y"] = -138.666809082031,
-				["x"] = 37.0791358947754,
-				["point"] = "LEFT",
-			},
-			["window_scale"] = 1,
-			["switch_tank"] = false,
-			["hide_in_combat_alpha"] = 0,
-			["switch_all_roles_after_wipe"] = false,
-			["menu_icons"] = {
-				true, -- [1]
-				true, -- [2]
-				true, -- [3]
-				true, -- [4]
-				true, -- [5]
-				false, -- [6]
-				["space"] = -2,
-				["shadow"] = false,
-			},
-			["switch_damager"] = false,
-			["micro_displays_side"] = 2,
-			["menu_anchor_down"] = {
-				16, -- [1]
-				-3, -- [2]
-			},
-			["row_show_animation"] = {
-				["anim"] = "Fade",
-				["options"] = {
-				},
-			},
-			["bg_alpha"] = 0.0984569266438484,
-			["skin"] = "Minimalistic",
-			["grab_on_top"] = false,
-			["switch_damager_in_combat"] = false,
-			["auto_hide_menu"] = {
-				["left"] = false,
-				["right"] = false,
-			},
-			["hide_icon"] = true,
-			["auto_current"] = true,
-			["toolbar_side"] = 1,
-			["bg_g"] = 0.0941176470588235,
-			["statusbar_info"] = {
-				["alpha"] = 0.3777777777777,
-				["overlay"] = {
-					0.333333333333333, -- [1]
-					0.333333333333333, -- [2]
-					0.333333333333333, -- [3]
-				},
-			},
-			["hide_in_combat"] = false,
-			["plugins_grow_direction"] = 1,
-			["backdrop_texture"] = "Details Ground",
-			["show_sidebars"] = false,
-			["wallpaper"] = {
-				["enabled"] = false,
-				["texcoord"] = {
-					0, -- [1]
-					1, -- [2]
-					0, -- [3]
-					0.7, -- [4]
-				},
-				["overlay"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-					1, -- [4]
-				},
-				["anchor"] = "all",
-				["height"] = 114.042518615723,
-				["alpha"] = 0.5,
-				["width"] = 283.000183105469,
-			},
-			["total_bar"] = {
-				["enabled"] = false,
-				["only_in_group"] = true,
-				["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
-				["color"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-				},
-			},
-			["menu_icons_size"] = 0.850000023841858,
-			["attribute_text"] = {
-				["show_timer"] = {
-					true, -- [1]
-					true, -- [2]
-					true, -- [3]
-				},
-				["shadow"] = false,
-				["side"] = 1,
-				["text_color"] = {
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-					1, -- [4]
-				},
-				["custom_text"] = "{name}",
-				["text_face"] = "Accidental Presidency",
-				["anchor"] = {
-					-18, -- [1]
-					3, -- [2]
-				},
-				["enabled"] = true,
-				["enable_custom_text"] = false,
-				["text_size"] = 12,
+				["height"] = 14,
 			},
 			["instance_button_anchor"] = {
 				-27, -- [1]
@@ -4247,10 +3839,12 @@ _detalhes_database = {
 			["bars_inverted"] = false,
 		}, -- [1]
 	},
-	["last_instance_time"] = 1513061638,
-	["nick_tag_cache"] = {
-		["nextreset"] = 1523767967,
-		["last_version"] = 10,
+	["SoloTablesSaved"] = {
+		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
+		["Mode"] = 1,
+	},
+	["character_data"] = {
+		["logons"] = 41,
 	},
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -4264,400 +3858,155 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["totalabsorbed"] = 0.003551,
-					["on_hold"] = false,
+					["totalabsorbed"] = 0.006586,
 					["damage_from"] = {
+						["Onyxian Whelp"] = true,
+						["Onyxia"] = true,
 					},
 					["targets"] = {
-						["Boneyard Tunneler"] = 0,
-						["Gold Beetle"] = 0,
-						["Grom'kar Grunt"] = 0,
+						["Onyxia"] = 39671507,
+						["Shattered Hand Blood-Singer"] = 0,
+						["Pridelord Karash"] = 0,
+						["Onyxian Whelp"] = 10090482,
+						["Gardul Venomshiv"] = 0,
+						["Bloodmane Shortfang"] = 0,
+						["Shattered Hand Brewer"] = 0,
+						["Bloodmane Earthbinder"] = 0,
+						["Shattered Hand Sadist"] = 0,
+						["Bloodmane Hunter"] = 0,
+						["Bloodmane Bonereaver"] = 0,
 					},
 					["pets"] = {
 					},
-					["last_event"] = 0,
-					["classe"] = "WARRIOR",
+					["damage_taken"] = 8017.006586,
+					["tipo"] = 1,
+					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
-					["total_without_pet"] = 0.003551,
-					["friendlyfire"] = {
-					},
+					["total_without_pet"] = 49761989.006586,
+					["delay"] = 0,
 					["dps_started"] = false,
-					["end_time"] = 1523170256,
-					["friendlyfire_total"] = 0,
-					["spec"] = 71,
-					["nome"] = "Cyprinidae",
+					["end_time"] = 1525162841,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
-								["c_amt"] = 0,
+								["c_amt"] = 8,
 								["b_amt"] = 0,
-								["c_dmg"] = 0,
+								["c_dmg"] = 3445658,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["n_max"] = 271482,
 								["targets"] = {
-									["Boneyard Tunneler"] = 0,
-									["Grom'kar Grunt"] = 0,
+									["Gardul Venomshiv"] = 0,
+									["Onyxia"] = 5094440,
+									["Shattered Hand Sadist"] = 0,
+									["Shattered Hand Brewer"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 0,
+								["n_dmg"] = 1648782,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
+								["counter"] = 15,
+								["total"] = 5094440,
+								["c_max"] = 578890,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
+								["n_amt"] = 7,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
 							}, -- [1]
 							[1464] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
+								["c_amt"] = 4,
+								["b_amt"] = 2,
+								["c_dmg"] = 6337289,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["n_max"] = 949453,
 								["targets"] = {
-									["Grom'kar Grunt"] = 0,
+									["Shattered Hand Brewer"] = 0,
+									["Onyxia"] = 12918098,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 0,
+								["n_dmg"] = 6580809,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
+								["counter"] = 13,
+								["total"] = 12918098,
+								["c_max"] = 1762239,
 								["id"] = 1464,
 								["r_dmg"] = 0,
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1041906,
+								["n_amt"] = 9,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[209577] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 1099942,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Onyxia"] = 1099942,
+									["Shattered Hand Brewer"] = 0,
+									["Shattered Hand Blood-Singer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 1099942,
+								["c_max"] = 1099942,
+								["id"] = 209577,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
 							},
-							[167105] = {
+							[236027] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["c_dmg"] = 0,
 								["g_amt"] = 0,
 								["n_max"] = 0,
 								["targets"] = {
-									["Grom'kar Grunt"] = 0,
+									["Onyxia"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 0,
+								["counter"] = 2,
 								["total"] = 0,
 								["c_max"] = 0,
-								["id"] = 167105,
+								["id"] = 236027,
 								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
+								["r_amt"] = 0,
 								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[772] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Grom'kar Grunt"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 772,
-								["r_dmg"] = 0,
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[845] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Boneyard Tunneler"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 845,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[126664] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Grom'kar Grunt"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 126664,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[34428] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Boneyard Tunneler"] = 0,
-									["Grom'kar Grunt"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 34428,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[57755] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Grom'kar Grunt"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 57755,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[52174] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Boneyard Tunneler"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 52174,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[199658] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Boneyard Tunneler"] = 0,
-									["Gold Beetle"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 199658,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[12294] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Boneyard Tunneler"] = 0,
-									["Grom'kar Grunt"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 12294,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[163201] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Boneyard Tunneler"] = 0,
-									["Grom'kar Grunt"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 163201,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[199850] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["Boneyard Tunneler"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 199850,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
+								["IMMUNE"] = 2,
 							},
 							[5308] = {
 								["c_amt"] = 0,
@@ -4666,8 +4015,7 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 0,
 								["targets"] = {
-									["Boneyard Tunneler"] = 0,
-									["Grom'kar Grunt"] = 0,
+									["Shattered Hand Sadist"] = 0,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 0,
@@ -4681,25 +4029,567 @@ _detalhes_database = {
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
 								["a_amt"] = 0,
-								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["m_amt"] = 0,
 								["r_amt"] = 0,
+							},
+							[126664] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 102278,
+								["g_amt"] = 0,
+								["n_max"] = 85156,
+								["targets"] = {
+									["Gardul Venomshiv"] = 0,
+									["Onyxia"] = 187434,
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 85156,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 187434,
+								["c_max"] = 102278,
+								["id"] = 126664,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[34428] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 34428,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[105771] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Onyxian Warder"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 105771,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[52174] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 52174,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[50622] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 1645868,
+								["g_amt"] = 0,
+								["n_max"] = 443847,
+								["targets"] = {
+									["Shattered Hand Sadist"] = 0,
+									["Shattered Hand Brewer"] = 0,
+									["Onyxian Whelp"] = 10090482,
+									["Shattered Hand Blood-Singer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8444614,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 23,
+								["total"] = 10090482,
+								["c_max"] = 872946,
+								["id"] = 50622,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 21,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[57755] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 72005,
+								["targets"] = {
+									["Onyxia"] = 72005,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 72005,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 72005,
+								["c_max"] = 0,
+								["id"] = 57755,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[163201] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 7751402,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Gardul Venomshiv"] = 0,
+									["Onyxia"] = 7751402,
+									["Shattered Hand Blood-Singer"] = 0,
+									["Shattered Hand Brewer"] = 0,
+									["Shattered Hand Sadist"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 7751402,
+								["c_max"] = 4175986,
+								["id"] = 163201,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[167105] = {
+								["c_amt"] = 3,
+								["b_amt"] = 0,
+								["c_dmg"] = 4159956,
+								["g_amt"] = 0,
+								["n_max"] = 836016,
+								["targets"] = {
+									["Gardul Venomshiv"] = 0,
+									["Onyxia"] = 5401249,
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1241293,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 5401249,
+								["c_max"] = 1648196,
+								["id"] = 167105,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[12294] = {
+								["c_amt"] = 1,
+								["b_amt"] = 1,
+								["c_dmg"] = 2421816,
+								["g_amt"] = 0,
+								["n_max"] = 1579224,
+								["targets"] = {
+									["Gardul Venomshiv"] = 0,
+									["Onyxia"] = 7146937,
+									["Shattered Hand Brewer"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4725121,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 7146937,
+								["c_max"] = 2421816,
+								["id"] = 12294,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 1,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 813396,
+								["n_amt"] = 4,
+								["a_dmg"] = 0,
+								["a_amt"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
+					["last_dps"] = 0,
+					["nome"] = "Cyprinidae",
+					["spec"] = 71,
 					["grupo"] = true,
-					["total"] = 0.003551,
+					["total"] = 49761989.006586,
+					["on_hold"] = false,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1525162774,
 					["serial"] = "Player-5-0A9895DA",
+					["classe"] = "WARRIOR",
+				}, -- [1]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.007842,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Cyprinidae"] = 0,
+					},
+					["pets"] = {
+					},
+					["total"] = 0.007842,
+					["boss_fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.007842,
+					["serial"] = "Creature-0-3135-249-24262-10184-00006822BB",
+					["monster"] = true,
+					["end_time"] = 1525408985,
+					["damage_taken"] = 0.007842,
+					["friendlyfire"] = {
+					},
+					["nome"] = "Onyxia",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[18431] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 18431,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[18392] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 18392,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[18435] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 18435,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[68868] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 68868,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[18500] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 18500,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["friendlyfire_total"] = 0,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 0.003551,
-					["start_time"] = 1523170253,
-					["delay"] = 0,
 					["last_dps"] = 0,
-				}, -- [1]
+					["start_time"] = 1525408982,
+					["delay"] = 0,
+					["dps_started"] = false,
+				}, -- [2]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.006648,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Cyprinidae"] = 0,
+					},
+					["pets"] = {
+					},
+					["total"] = 0.006648,
+					["boss_fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.006648,
+					["serial"] = "Creature-0-3135-249-24262-11262-000068232F",
+					["monster"] = true,
+					["end_time"] = 1525408985,
+					["damage_taken"] = 0.006648,
+					["friendlyfire"] = {
+					},
+					["nome"] = "Onyxian Whelp",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["friendlyfire_total"] = 0,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1525408982,
+					["delay"] = 0,
+					["dps_started"] = false,
+				}, -- [3]
 			},
 		}, -- [1]
 		{
@@ -4707,51 +4597,41 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["totalabsorb"] = 0.006354,
-					["last_hps"] = 0,
-					["healing_from"] = {
-					},
 					["targets_overheal"] = {
 						["Cyprinidae"] = 0,
 					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 0.007852,
+					["total_without_pet"] = 0.007852,
+					["total"] = 0.007852,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-5-0A9895DA",
+					["totalabsorb"] = 0.007852,
+					["last_hps"] = 0,
 					["targets"] = {
 						["Cyprinidae"] = 0,
 					},
+					["totalover_without_pet"] = 0.007852,
+					["healing_taken"] = 0.007852,
+					["fight_component"] = true,
+					["end_time"] = 1525408985,
+					["healing_from"] = {
+					},
+					["nome"] = "Cyprinidae",
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
-							[118779] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Cyprinidae"] = 0,
-								},
-								["n_max"] = 0,
-								["targets"] = {
-									["Cyprinidae"] = 0,
-								},
-								["n_min"] = 0,
-								["counter"] = 0,
-								["overheal"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 118779,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 0,
-								["n_amt"] = 0,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
 							[59913] = {
 								["c_amt"] = 0,
 								["totalabsorb"] = 0,
 								["targets_overheal"] = {
+									["Cyprinidae"] = 0,
 								},
 								["n_max"] = 0,
 								["targets"] = {
@@ -4767,43 +4647,54 @@ _detalhes_database = {
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
-								["c_min"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["n_curado"] = 0,
 								["n_amt"] = 0,
-								["totaldenied"] = 0,
 								["m_healed"] = 0,
+								["totaldenied"] = 0,
+								["absorbed"] = 0,
+							},
+							[118779] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Cyprinidae"] = 0,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 118779,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["n_curado"] = 0,
+								["n_amt"] = 0,
+								["m_healed"] = 0,
+								["totaldenied"] = 0,
 								["absorbed"] = 0,
 							},
 						},
-					},
-					["pets"] = {
-					},
-					["iniciar_hps"] = false,
-					["totalover_without_pet"] = 0.006354,
-					["healing_taken"] = 0.006354,
-					["totalover"] = 0.006354,
-					["total_without_pet"] = 0.006354,
-					["spec"] = 71,
-					["classe"] = "WARRIOR",
-					["fight_component"] = true,
-					["end_time"] = 1523170256,
-					["heal_enemy_amt"] = 0,
-					["total"] = 0.006354,
-					["nome"] = "Cyprinidae",
-					["targets_absorbs"] = {
+						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["start_time"] = 1523170253,
-					["heal_enemy"] = {
-					},
-					["serial"] = "Player-5-0A9895DA",
-					["custom"] = 0,
+					["classe"] = "WARRIOR",
 					["last_event"] = 0,
-					["on_hold"] = false,
-					["totaldenied"] = 0.006354,
-					["delay"] = 0,
+					["custom"] = 0,
 					["tipo"] = 2,
+					["start_time"] = 1525408982,
+					["totaldenied"] = 0.007852,
+					["delay"] = 0,
+					["spec"] = 71,
 				}, -- [1]
 			},
 		}, -- [2]
@@ -4811,8 +4702,8 @@ _detalhes_database = {
 			["tipo"] = 7,
 			["_ActorTable"] = {
 				{
-					["received"] = 0.004704,
-					["resource"] = 0.035382,
+					["flag_original"] = 1297,
+					["resource"] = 0.059009,
 					["targets"] = {
 						["Cyprinidae"] = 0,
 					},
@@ -4820,29 +4711,25 @@ _detalhes_database = {
 					},
 					["powertype"] = 0,
 					["classe"] = "WARRIOR",
-					["fight_component"] = true,
-					["total"] = 0.004704,
+					["alternatepower"] = 0.007755,
 					["nome"] = "Cyprinidae",
-					["spec"] = 71,
-					["grupo"] = true,
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
-							[100] = {
-								["id"] = 100,
-								["total"] = 0,
-								["targets"] = {
-									["Cyprinidae"] = 0,
-								},
-								["counter"] = 0,
-							},
 							[163201] = {
 								["id"] = 163201,
-								["total"] = 0,
+								["total"] = -60,
 								["targets"] = {
 									["Cyprinidae"] = 0,
 								},
-								["counter"] = 0,
+								["counter"] = 2,
+							},
+							[100] = {
+								["id"] = 100,
+								["total"] = 20,
+								["targets"] = {
+									["Cyprinidae"] = 0,
+								},
+								["counter"] = 1,
 							},
 							[173401] = {
 								["id"] = 173401,
@@ -4850,15 +4737,18 @@ _detalhes_database = {
 								["targets"] = {
 									["Cyprinidae"] = 0,
 								},
-								["counter"] = 0,
+								["counter"] = 8,
 							},
 						},
+						["tipo"] = 7,
 					},
+					["grupo"] = true,
+					["received"] = -39.992245,
 					["tipo"] = 3,
-					["flag_original"] = 1297,
-					["last_event"] = 0,
-					["alternatepower"] = 0.004704,
+					["total"] = -39.992245,
+					["spec"] = 71,
 					["serial"] = "Player-5-0A9895DA",
+					["last_event"] = 0,
 				}, -- [1]
 			},
 		}, -- [3]
@@ -4868,25 +4758,36 @@ _detalhes_database = {
 				{
 					["flag_original"] = 1047,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[115804] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 3,
 								["id"] = 115804,
+								["uptime"] = 41,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 2,
 							},
-							[772] = {
-								["id"] = 772,
+							[355] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 355,
+								["uptime"] = 3,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[105771] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 2,
 								["id"] = 105771,
+								["uptime"] = 1,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[236027] = {
 								["id"] = 236027,
@@ -4895,30 +4796,39 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 							[208086] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 2,
 								["id"] = 208086,
+								["uptime"] = 49,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 4,
 							},
 						},
+						["tipo"] = 9,
 					},
+					["cooldowns_defensive"] = 3.011738,
 					["pets"] = {
 					},
 					["cc_done_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[105771] = {
 								["id"] = 105771,
 								["targets"] = {
-									["Grom'kar Grunt"] = 0,
+									["Onyxia"] = 1,
 								},
-								["counter"] = 0,
+								["counter"] = 1,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["classe"] = "WARRIOR",
+					["cooldowns_defensive_targets"] = {
+						["Cyprinidae"] = 2,
+						["[*] raid wide cooldown"] = 1,
+					},
 					["buff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[32216] = {
 								["id"] = 32216,
@@ -4927,28 +4837,91 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 							[199854] = {
+								["counter"] = 0,
+								["appliedamt"] = 3,
+								["activedamt"] = 3,
+								["actived_at"] = 1525162840,
 								["id"] = 199854,
+								["uptime"] = 6,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[1719] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
 								["id"] = 1719,
+								["uptime"] = 8,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[109128] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
 								["id"] = 109128,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[178119] = {
+								["id"] = 178119,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[248622] = {
-								["id"] = 248622,
+							[227847] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 227847,
+								["uptime"] = 3,
 								["targets"] = {
 								},
+								["refreshamt"] = 0,
+							},
+							[107574] = {
 								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 107574,
+								["uptime"] = 20,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[248622] = {
+								["counter"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 248622,
+								["uptime"] = 32,
+								["targets"] = {
+								},
+								["refreshamt"] = 2,
+							},
+							[97463] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 97463,
+								["uptime"] = 10,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[186406] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 186406,
+								["uptime"] = 64,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
 							},
 							[118779] = {
 								["id"] = 118779,
@@ -4956,58 +4929,127 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[188923] = {
-								["id"] = 188923,
+							[118038] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 118038,
+								["uptime"] = 8,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[202164] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
 								["id"] = 202164,
+								["uptime"] = 4,
 								["targets"] = {
 								},
-								["counter"] = 0,
-							},
-							[193333] = {
-								["id"] = 193333,
-								["targets"] = {
-								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 						},
+						["tipo"] = 9,
 					},
-					["fight_component"] = true,
-					["debuff_uptime"] = 0,
-					["cc_done"] = 0,
+					["debuff_uptime"] = 94,
+					["spell_cast"] = {
+						[355] = 1,
+						[118038] = 1,
+						[167105] = 5,
+						[50622] = 4,
+						[97462] = 1,
+						[52174] = 1,
+						[57755] = 1,
+						[107574] = 1,
+						[12294] = 6,
+						[227847] = 1,
+						[100] = 1,
+						[34428] = 0,
+						[1464] = 13,
+						[209577] = 1,
+						[1719] = 1,
+						[163201] = 2,
+						[126664] = 2,
+					},
+					["cc_done"] = 1.015341,
 					["nome"] = "Cyprinidae",
 					["spec"] = 71,
 					["grupo"] = true,
-					["spell_cast"] = {
-						[1719] = 0,
-						[163201] = 0,
-						[845] = 0,
-						[126664] = 0,
-						[34428] = 0,
-						[772] = 0,
-						[1680] = 0,
-						[199658] = 0,
-						[12294] = 0,
-						[1464] = 0,
-						[167105] = 0,
-						[100] = 0,
-					},
-					["debuff_uptime_targets"] = {
-					},
-					["buff_uptime_targets"] = {
-					},
-					["last_event"] = 0,
-					["buff_uptime"] = 0,
 					["cc_done_targets"] = {
-						["Grom'kar Grunt"] = 0,
+						["Onyxia"] = 1,
 					},
 					["serial"] = "Player-5-0A9895DA",
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["buff_uptime_targets"] = {
+					},
+					["buff_uptime"] = 155,
+					["cooldowns_defensive_spells"] = {
+						["_ActorTable"] = {
+							[97462] = {
+								["id"] = 97462,
+								["targets"] = {
+									["[*] raid wide cooldown"] = 1,
+								},
+								["counter"] = 1,
+							},
+							[118038] = {
+								["id"] = 118038,
+								["targets"] = {
+									["Cyprinidae"] = 2,
+								},
+								["counter"] = 2,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["debuff_uptime_targets"] = {
+					},
 				}, -- [1]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["nome"] = "Onyxia",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[18431] = 0,
+						[18392] = 0,
+						[18435] = 0,
+						[68868] = 0,
+						[18500] = 0,
+					},
+					["flag_original"] = 68168,
+					["last_event"] = 0,
+					["boss_fight_component"] = true,
+					["serial"] = "Creature-0-3135-249-24262-10184-00006822BB",
+					["classe"] = "UNKNOW",
+				}, -- [2]
+				{
+					["flag_original"] = 68168,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 9,
+					},
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["boss_debuff"] = true,
+					["monster"] = true,
+					["debuff_uptime"] = 0,
+					["spellschool"] = 1,
+					["debuff_uptime_targets"] = {
+					},
+					["nome"] = "Bellowing Roar",
+					["boss_fight_component"] = true,
+					["tipo"] = 4,
+					["damage_twin"] = "Onyxia",
+					["damage_spellid"] = 18431,
+					["serial"] = "Creature-0-3135-249-24262-10184-00006822BB",
+					["last_event"] = 0,
+				}, -- [3]
 			},
 		}, -- [4]
 		{
@@ -5021,13 +5063,13 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 971,
+		["combat_counter"] = 1286,
 		["totals"] = {
-			0, -- [1]
+			49770006.01336, -- [1]
 			0, -- [2]
 			{
 				0, -- [1]
-				[0] = 0,
+				[0] = -39.993517,
 				["alternatepower"] = 0,
 				[6] = 0,
 				[3] = 0,
@@ -5040,31 +5082,12 @@ _detalhes_database = {
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
 				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
+				["cooldowns_defensive"] = 3.006007,
 			}, -- [4]
 			["voidzone_damage"] = 0,
 			["frags_total"] = 0,
 		},
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[6] = 0,
-				[3] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
-			}, -- [4]
+		["player_last_events"] = {
 		},
 		["frags_need_refresh"] = false,
 		["__call"] = {
@@ -5083,33 +5106,61 @@ _detalhes_database = {
 			["damage_section"] = {
 			},
 		},
+		["end_time"] = 395567.522,
+		["data_inicio"] = "01:19:37",
+		["totals_grupo"] = {
+			49761989.001952, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = -39.993517,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 3.006007,
+			}, -- [4]
+		},
 		["hasSaved"] = true,
 		["frags"] = {
 		},
-		["data_fim"] = 0,
-		["overall_refreshed"] = true,
+		["data_fim"] = "01:20:41",
+		["overall_enemy_name"] = "Onyxia",
 		["CombatSkillCache"] = {
 		},
-		["player_last_events"] = {
+		["segments_added"] = {
+			{
+				["elapsed"] = 63.9149999999791,
+				["type"] = 8,
+				["name"] = "Onyxia",
+				["clock"] = "01:19:37",
+			}, -- [1]
 		},
-		["start_time"] = 0,
+		["start_time"] = 395503.607,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["data_inicio"] = 0,
+		["overall_refreshed"] = true,
 	},
-	["character_data"] = {
-		["logons"] = 35,
+	["nick_tag_cache"] = {
+		["last_version"] = 10,
+		["nextreset"] = 1526704985,
 	},
-	["SoloTablesSaved"] = {
-		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
-		["Mode"] = 1,
-	},
-	["announce_firsthit"] = {
+	["announce_prepots"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
+		["reverse"] = false,
 	},
+	["last_version"] = "v7.3.5.5572",
 	["announce_cooldowns"] = {
 		["enabled"] = false,
 		["ignored_cooldowns"] = {
@@ -5126,12 +5177,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-86-08091605"] = 104,
-		["Player-1147-07D488D4"] = 267,
 		["Player-5-0A9895DA"] = 71,
-		["Player-117-02C684C4"] = 251,
-		["Player-3694-06C2038B"] = 250,
-		["Player-5-0B08DC8B"] = 253,
-		["Player-151-017B0C95"] = 253,
 	},
 }

@@ -7,10 +7,44 @@ TradeSkillMaster_AuctionDBDB = {
 		["auction"] = true,
 	},
 	["r@Proudmoore@lastPartialScan"] = 0,
-	["r@Wyrmrest Accord@hasAppData"] = true,
 	["r@Emerald Dream@hasAppData"] = true,
+	["r@Wyrmrest Accord@hasAppData"] = true,
 	["_hash"] = 6312798,
-	["r@Proudmoore@lastCompleteScan"] = 0,
+	["r@Wyrmrest Accord@lastCompleteScan"] = 0,
+	["r@Dalaran@lastCompleteScan"] = 0,
+	["r@Emerald Dream@scanData"] = "",
+	["r@Emerald Dream@lastSaveTime"] = 0,
+	["r@Emerald Dream@lastPartialScan"] = 0,
+	["_currentProfile"] = {
+		["Cyprinidae - Proudmoore"] = "Default",
+		["Ilarian - Proudmoore"] = "Default",
+		["Garmuul - Emerald Dream"] = "Default",
+		["Ferford - Proudmoore"] = "Default",
+		["Blackxsixpan - Proudmoore"] = "Default",
+		["Zetorus - Proudmoore"] = "Default",
+		["Sildris - Emerald Dream"] = "Default",
+		["Girden - Proudmoore"] = "Default",
+		["Gaornash - Dalaran"] = "Default",
+		["Blattaris - Proudmoore"] = "Default",
+		["Mortheim - Wyrmrest Accord"] = "Default",
+		["Hilith - Proudmoore"] = "Default",
+		["Lithri - Dalaran"] = "Default",
+		["Lyx - Proudmoore"] = "Default",
+		["Emmiroth - Wyrmrest Accord"] = "Default",
+	},
+	["r@Wyrmrest Accord@scanData"] = "",
+	["g@ @showAHTab"] = true,
+	["g@ @lastUpdateUS"] = 0,
+	["r@Proudmoore@scanData"] = "",
+	["_version"] = 2,
+	["r@Proudmoore@hasAppData"] = true,
+	["r@Wyrmrest Accord@lastSaveTime"] = 0,
+	["r@Emerald Dream@lastCompleteScan"] = 0,
+	["g@ @scanDataUS"] = "",
+	["r@Wyrmrest Accord@lastPartialScan"] = 0,
+	["g@ @lastUpdateEU"] = 0,
+	["r@Dalaran@hasAppData"] = true,
+	["r@Dalaran@lastSaveTime"] = 0,
 	["_scopeKeys"] = {
 		["char"] = {
 			"Mortheim - Wyrmrest Accord", -- [1]
@@ -29,15 +63,6 @@ TradeSkillMaster_AuctionDBDB = {
 			"Girden - Proudmoore", -- [14]
 			"Hilith - Proudmoore", -- [15]
 		},
-		["realm"] = {
-			"Wyrmrest Accord", -- [1]
-			"Proudmoore", -- [2]
-			"Dalaran", -- [3]
-			"Emerald Dream", -- [4]
-		},
-		["profile"] = {
-			"Default", -- [1]
-		},
 		["factionrealm"] = {
 			"Alliance - Wyrmrest Accord", -- [1]
 			"Alliance - Proudmoore", -- [2]
@@ -45,41 +70,16 @@ TradeSkillMaster_AuctionDBDB = {
 			"Horde - Dalaran", -- [4]
 			"Horde - Emerald Dream", -- [5]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["realm"] = {
+			"Wyrmrest Accord", -- [1]
+			"Proudmoore", -- [2]
+			"Dalaran", -- [3]
+			"Emerald Dream", -- [4]
+		},
 	},
-	["r@Dalaran@lastSaveTime"] = 0,
-	["r@Emerald Dream@lastSaveTime"] = 0,
-	["g@ @showAHTab"] = true,
-	["_currentProfile"] = {
-		["Cyprinidae - Proudmoore"] = "Default",
-		["Ilarian - Proudmoore"] = "Default",
-		["Garmuul - Emerald Dream"] = "Default",
-		["Lyx - Proudmoore"] = "Default",
-		["Blackxsixpan - Proudmoore"] = "Default",
-		["Zetorus - Proudmoore"] = "Default",
-		["Sildris - Emerald Dream"] = "Default",
-		["Girden - Proudmoore"] = "Default",
-		["Gaornash - Dalaran"] = "Default",
-		["Blattaris - Proudmoore"] = "Default",
-		["Mortheim - Wyrmrest Accord"] = "Default",
-		["Hilith - Proudmoore"] = "Default",
-		["Lithri - Dalaran"] = "Default",
-		["Ferford - Proudmoore"] = "Default",
-		["Emmiroth - Wyrmrest Accord"] = "Default",
-	},
-	["r@Wyrmrest Accord@scanData"] = "",
-	["r@Dalaran@hasAppData"] = true,
-	["r@Proudmoore@scanData"] = "",
-	["g@ @lastUpdateUS"] = 0,
-	["r@Wyrmrest Accord@lastPartialScan"] = 0,
-	["r@Proudmoore@hasAppData"] = true,
-	["r@Wyrmrest Accord@lastSaveTime"] = 0,
-	["r@Emerald Dream@lastCompleteScan"] = 0,
-	["g@ @scanDataUS"] = "",
-	["_version"] = 2,
-	["g@ @lastUpdateEU"] = 0,
-	["r@Emerald Dream@lastPartialScan"] = 0,
-	["r@Emerald Dream@scanData"] = "",
-	["r@Dalaran@lastCompleteScan"] = 0,
-	["r@Wyrmrest Accord@lastCompleteScan"] = 0,
+	["r@Proudmoore@lastCompleteScan"] = 0,
 	["r@Dalaran@lastPartialScan"] = 0,
 }
